@@ -1,30 +1,33 @@
 #include "screen.h"
 screen::screen(){
-	_s=0;
-	_l=0;
+	_h=0;
+	_w=0;
 	pixels=NULL;
 }
-screen::screen(int s,int l){
+screen::screen(int h,int w){
 	pixels=NULL;
-	init(s,l,NULL);
+	init(h,w,NULL);
 }
 screen::~screen(){
 	delete [] pixels;
 }
-void screen::init(int s,int l,cell *data){
+void screen::set(int x,int y,cell data){
+	pixels[xy(x,y)]=data;
+}
+void screen::init(int h,int w,cell *data){
 	if(pixels){
 		delete [] pixels;
 	}
-	_s=s;
-	_l=l;
-	pixels=new cell[l*s];
+	_h=h;
+	_w=w;
+	pixels=new cell[h*w];
 	if(data){
-		memcpy(pixels,data,sizeof(cell)*_l*_s);
+		memcpy(pixels,data,sizeof(cell)*h*w);
 	}
 }
 void screen::print_n(){
-	for(int i=0;i<_s;i++){
-		for(int j=0;j<_l;j++){
+	for(int i=0;i<_h;i++){
+		for(int j=0;j<_w;j++){
 			if(pixels[xy(i,j)].now){
 				printf("●");
 			}else{
@@ -35,8 +38,8 @@ void screen::print_n(){
 	}
 }
 void screen::print_p(){
-	for(int i=0;i<_s;i++){
-		for(int j=0;j<_l;j++){
+	for(int i=0;i<_h;i++){
+		for(int j=0;j<_w;j++){
 			if(pixels[xy(i,j)].past){
 				printf("●");
 			}else{
@@ -46,30 +49,9 @@ void screen::print_p(){
 		printf("\n");
 	}
 }
-inline int screen::count(int x,int y){
-	return (pixels[xy((x+1)%_s,(y+1)%_l)].past
-			+pixels[xy(x,(y+1)%_l)].past
-			+pixels[xy((x-1+_s)%_s,(y+1)%_l)].past
-			+pixels[xy((x+1)%_s,y)].past
-			+pixels[xy((x-1+_s)%_s,y)].past
-			+pixels[xy((x+1)%_s,(y-1+_l)%_l)].past
-			+pixels[xy(x,(y-1+_l)%_l)].past
-			+pixels[xy((x-1+_s)%_s,(y-1+_l)%_l)].past
-			);
-}
-inline bool screen::liveordie(int x,int y){
-	int temp=count(x,y);
-	if(temp==3){
-		return true;
-	}else if(temp==2){
-		return pixels[xy(x,y)].past;
-	}else{
-		return false;
-	}
-}
 void screen::rand(){
-	for(int i=0;i<_s;i++){
-		for(int j=0;j<_l;j++){
+	for(int i=0;i<_h;i++){
+		for(int j=0;j<_w;j++){
 			if(std::rand()%2==1){
 				pixels[xy(i,j)].now=true;
 			}else{
@@ -83,45 +65,42 @@ void screen::load(const char *path){
 	if(!fd){
 		printf("文件打开失败，请确认文件存在！\n");
 	}else{
-		int s,l;
-		fscanf(fd,"%d%d",&s,&l);
+		int h,w;
+		fscanf(fd,"%d%d",&h,&w);
 		cell *data;
-		data=new cell[s*l];
-		for(int i=0;i<s;i++){
-			for(int j=0;j<l;j++){
+		data=new cell[h*w];
+		for(int i=0;i<h;i++){
+			for(int j=0;j<w;j++){
 				int temp;
 				fscanf(fd,"%d",&temp);
 				if(temp){
-					data[i*l+j].now=true;
+					data[i*w+j].now=true;
 				}else{
-					data[i*l+j].now=false;
+					data[i*w+j].now=false;
 				}
 			}
 		}
-		init(s,l,data);
+		init(h,w,data);
 	}
 }
 void screen::print_info(){
 	printf("规则 生%d 保持%d\n",3,2);
-	printf("长%d 宽%d\n",_l,_s);
+	printf("高%d 宽%d\n",_h,_w);
 }
 void screen::change(){
-	for(int i=0;i<_s;i++){
-		for(int j=0;j<_l;j++){
+	for(int i=0;i<_h;i++){
+		for(int j=0;j<_w;j++){
 			pixels[xy(i,j)].past=pixels[xy(i,j)].now;
 		}
 	}
 }
 void screen::calc(){
-	for(int i=0;i<_s;i++){
-		for(int j=0;j<_l;j++){
+	for(int i=0;i<_h;i++){
+		for(int j=0;j<_w;j++){
 			pixels[xy(i,j)].now=liveordie(i,j);
 		}
 	}
 }
-inline int screen::xy(int x,int y){
-	return x*_l+y;
-}
-void screen::resize(int s,int l){
-	init(s,l,NULL);
+void screen::resize(int h,int w){
+	init(h,w,NULL);
 }
