@@ -26,9 +26,9 @@ struct screen{
 	}
     inline bool liveordie(int x,int y){	
 		int temp=count(x,y);
-		if(temp==1||temp==2||temp==3){
+		if(temp==3){
 			return true;
-		}else if(temp==1||temp==2||temp==3){
+		}else if(temp==2){
 			return pixels[xy(x,y)].past;
 		}else{
 			return false;
