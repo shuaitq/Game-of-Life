@@ -25,30 +25,6 @@ void screen::init(int h,int w,cell *data){
 		memcpy(pixels,data,sizeof(cell)*h*w);
 	}
 }
-void screen::print_n(){
-	for(int i=0;i<_h;i++){
-		for(int j=0;j<_w;j++){
-			if(pixels[xy(i,j)].now){
-				printf("●");
-			}else{
-				printf("○");
-			}
-		}
-		printf("\n");
-	}
-}
-void screen::print_p(){
-	for(int i=0;i<_h;i++){
-		for(int j=0;j<_w;j++){
-			if(pixels[xy(i,j)].past){
-				printf("●");
-			}else{
-				printf("○");
-			}
-		}
-		printf("\n");
-	}
-}
 void screen::rand(){
 	for(int i=0;i<_h;i++){
 		for(int j=0;j<_w;j++){
@@ -60,10 +36,10 @@ void screen::rand(){
 		}
 	}
 }
-void screen::load(const char *path){
+void screen::load_screen(const char *path){
 	FILE *fd=fopen(path,"r");
 	if(!fd){
-		printf("文件打开失败，请确认文件存在！\n");
+		printf("页面文件打开失败！\n");
 	}else{
 		int h,w;
 		fscanf(fd,"%d%d",&h,&w);
@@ -83,9 +59,20 @@ void screen::load(const char *path){
 		init(h,w,data);
 	}
 }
+void screen::load_rules(const char *path){
+	FILE *fd=fopen(path,"r");
+	if(!fd){
+		printf("规则文件打开失败！\n");
+	}else{
+		for(int i=0;i<8;i++){
+			fscanf(fd,"%d",&_ru._r[i]);
+		}
+	}
+}
 void screen::print_info(){
-	printf("规则 生%d 保持%d\n",3,2);
-	printf("高%d 宽%d\n",_h,_w);
+	_ru.show();
+	printf("大小：\n");
+	printf(" 高%d 宽%d\n",_h,_w);
 }
 void screen::change(){
 	for(int i=0;i<_h;i++){
