@@ -45,14 +45,14 @@
 	│   └── B3S23.rule
 	├── screen
 	│   ├── beacon.screen	页面初始化文件存放位置，以.screen结尾
-	└── src					库文件位置
+	└── src				库文件位置
     	├── cell.cpp		细胞
     	├── cell.h
     	├── image.cpp		bmp图片
     	├── image.h
     	├── rules.cpp		规则
     	├── rules.h
-    	├── screen.cpp		生命游戏页面
+    	├── screen.cpp	生命游戏页面
     	└── screen.h
 
 ## 最后
