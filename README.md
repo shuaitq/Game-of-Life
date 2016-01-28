@@ -44,7 +44,7 @@
 	├── rules				规则存放位置，以.rule结尾
 	│   └── B3S23.rule
 	├── screen
-	│   ├── beacon.screen	页面初始化文件存放位置，以.screen结尾
+	│   └── beacon.screen	页面初始化文件存放位置，以.screen结尾
 	└── src				库文件位置
     	├── cell.cpp		细胞
     	├── cell.h
