@@ -88,7 +88,7 @@ int main(int argc, char** argv){
 	}
 	scr.print_info();
 	for(int i=1;i<=tt;i++){
-		printf("正在生成第%d代\t",i);
+		printf("正在生成第%d代\t\t",i);
 		for(int j=0;j<scr._h;j++){
 			for(int k=0;k<scr._w;k++){
 				if(scr.pixels[scr.xy(j,k)].now==true){
