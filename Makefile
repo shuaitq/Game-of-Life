@@ -1,7 +1,7 @@
 CC		=g++
-SIGN	=-O2 -std=c++11
+SIGN	=-O2 -std=c++0x
 OBJS	=main.o cell.o image.o screen.o rules.o
-DELETE	=$(OBJS) photo/* main.out 
+DELETE	=$(OBJS) photo/* main.out
 main.out:$(OBJS)
 	$(CC) $(SIGN) $(OBJS) -o main.out
 main.o:main.cpp
