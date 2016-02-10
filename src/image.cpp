@@ -17,6 +17,7 @@ BmpImage::BmpImage(){
 	_data=NULL;
 }
 BmpImage::BmpImage(int height,int width){
+	_data=NULL;
 	init(height,width,NULL);
 }
 BmpImage::~BmpImage(){
