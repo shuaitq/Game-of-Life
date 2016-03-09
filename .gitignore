@@ -1,0 +1,3 @@
+*.o
+photo/*.bmp
+*.out
