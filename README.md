@@ -30,30 +30,47 @@
 1. 使用下载.zip或是git clone把代码下载下来。
 2. 进入目录，使用make命名进行构建，构建成功后可以使用make clean把编译过程中的.o文件删除。  
 **请确认您已经安装了make g++ 并且g++支持c++11**
-3. 第一次运行建议使用./main.out -help你可以了解设置相关参数的方法。
+3. 第一次运行建议使用./game.out json配置文件位置 你可以了解设置相关参数的方法。
 4. 接下来你就可以通过使用自带的几个demo，或者你自己写的文件去make the world了。
+
+## 配置文件怎么写
+	{	"height":1080,				高
+		"width":1920,				宽
+		"time":100,					迭代次数
+		"path":"photo/",			图片存放位置
+		"rand":true,				是否随机
+		"rules":[0,0,1,2,0,0,0,0,0],	规则
+		"screen":[[0,0,0,0,0,0],	页面初始化参数
+			[0,0,1,1,0,0],
+			[0,1,0,0,1,0],
+			[0,0,1,1,0,0],
+			[0,0,0,0,0,0]]}
+****注意！如果选择了随机，将不会读取页面初始化参数****
 
 **Have a good time.**
 
+## 性能
+
+生成1920*1080全随机页面迭代100次只需要2S左右（视机器能而变）
+比上一版本提高5倍以上。
+
 ## 文件目录
 	.
-	├── main.cpp			逻辑代码
-	├── Makefile			make编译
-	├── photo				图片默认存放位置
+	├── game.cpp		主代码
+	├── json			json配置文件
+	│   ├── benchmark.json	性能测试
+	│   ├── edge_test.json	边界测试
+	│   └── golly.json		
+	├── Makefile			make编译文件
+	├── photo				图片存放位置
 	├── README.md			README
-	├── rules				规则存放位置，以.rule结尾
-	│   └── B3S23.rule
-	├── screen
-	│   └── beacon.screen	页面初始化文件存放位置，以.screen结尾
-	└── src				库文件位置
-    	├── cell.cpp		细胞
-    	├── cell.h
-    	├── image.cpp		bmp图片
-    	├── image.h
-    	├── rules.cpp		规则
-    	├── rules.h
-    	├── screen.cpp	生命游戏页面
-    	└── screen.h
+	└── src					库文件
+		├── config.h		生死数字定义
+		├── image.cpp		bmp文件
+		├── image.h
+		├── json.hpp		json库
+		├── screen.cpp		生命游戏页面
+		└── screen.h
 
 ## 最后
 邮箱 <i@shuaitq.com>
