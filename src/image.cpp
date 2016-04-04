@@ -1,67 +1,65 @@
 #include "image.h"
-RGB::RGB(){
-	bw=0;
-}
-RGB::RGB(bool temp){
-	bw=temp;
-}
-RGBQUAD::RGBQUAD(uint8_t r,uint8_t g,uint8_t b,uint8_t re){
-	R=r;
-	G=g;
-	B=b;
-	Re=re;
+RGB::RGB(uint8_t r,uint8_t g,uint8_t b,uint8_t al){
+	red=r;
+	green=g;
+	blue=b;
+	alpha=al;
 }
 BmpImage::BmpImage(){
-	_h=0;
-	_w=0;
-	_data=NULL;
+	height=0;
+	width=0;
+	pixels=NULL;
 }
-BmpImage::BmpImage(int height,int width){
-	_data=NULL;
-	init(height,width,NULL);
+BmpImage::BmpImage(int h,int w){
+	pixels=new bool*[h];
+	for(int i=0;i<h;i++){
+		pixels[i]=new bool[w];
+	}
 }
 BmpImage::~BmpImage(){
-	delete [] _data;
+	for(int i=0;i<height;i++){
+		delete [] pixels[i];
+	}
+	delete [] pixels;
 }
-void BmpImage::set(int x,int y,RGB v){
-	_data[xy(x,y)]=v;
+void BmpImage::Set(int x,int y,bool v){
+	pixels[x][y]=v;
 }
-void BmpImage::saveBmp(const char *path){
-	BmpFileHeader FileHeader;
-	BmpInfoHeader InfoHeader;
+void BmpImage::SaveBmp(const char *path){
+	BmpFileHeader file_header;
+	BmpInfoHeader info_header;
+	info_header.bi_size=sizeof(BmpInfoHeader);
+	info_header.bi_height=height;
+	info_header.bi_width=width;
+	info_header.bi_planes=1;
+	info_header.bi_bit_count=1;
+	info_header.bi_compression=0;
+	info_header.bi_size_image=((width+31)/32)*4*height;
+	info_header.bi_x_pels_per_meter=2835;
+	info_header.bi_y_pels_per_meter=2835;
+	info_header.bi_clr_used=0;
+	info_header.bi_clr_important=0;
+	int n_bits_offset=sizeof(BmpFileHeader)+info_header.bi_size+sizeof(RGB)*2;
+	long l_image_size=info_header.bi_size_image;
+	long l_file_size=n_bits_offset+l_image_size;
+	file_header.bf_type='B'+('M'<<8);
+	file_header.bf_off_bits=n_bits_offset;
+	file_header.bf_size=l_file_size;
+	file_header.bf_reserved=0;
 	FILE *fd=NULL;
-	InfoHeader.biSize=sizeof(BmpInfoHeader);
-	InfoHeader.biHeight=_h;
-	InfoHeader.biWidth=_w;
-	InfoHeader.biPlanes=1;
-	InfoHeader.biBitCount=1;
-	InfoHeader.biCompression=0;
-	InfoHeader.biSizeImage=((_w+31)/32)*4*_h;
-	InfoHeader.biXPelsPerMeter=2835;
-	InfoHeader.biYPelsPerMeter=2835;
-	InfoHeader.biClrUsed=0;
-	InfoHeader.biClrImportant=0;
-	int nBitsOffset=sizeof(BmpFileHeader)+InfoHeader.biSize+sizeof(RGBQUAD)*2;
-	long lImageSize=InfoHeader.biSizeImage;
-	long lFileSize=nBitsOffset+lImageSize;
-	FileHeader.bfType='B'+('M'<<8);
-	FileHeader.bfOffBits=nBitsOffset;
-	FileHeader.bfSize=lFileSize;
-	FileHeader.bfReserved=0;
 	fd=fopen(path,"wb");
-	fwrite(&FileHeader,1,sizeof(BmpFileHeader),fd);
-	fwrite(&InfoHeader,1,sizeof(BmpInfoHeader),fd);
-	RGBQUAD black(0,0,0,0),write(255,255,255,0);
-	fwrite(&black,1,sizeof(RGBQUAD),fd);
-	fwrite(&write,1,sizeof(RGBQUAD),fd);
+	fwrite(&file_header,1,sizeof(BmpFileHeader),fd);
+	fwrite(&info_header,1,sizeof(BmpInfoHeader),fd);
+	fwrite(&black,1,sizeof(RGB),fd);
+	fwrite(&white,1,sizeof(RGB),fd);
 	unsigned char temp;
-	for(int i=0;i<_h;i++){
-		for(int j=0;j<((_w+31)/32)*4;j++){
+	for(int i=0;i<height;i++){
+		for(int j=0;j<((width+31)/32)*4;j++){
 			temp=0;
 			for(int k=0;k<8;k++){
 				temp*=2;
-				if(j*8+k<_w){
-					if(_data[xy(i,j*8+k)].bw==true){
+				if(j*8+k<width){
+					if(pixels[i][j*8+k]==true){
 						temp+=1;
 					}
 				}
@@ -71,20 +69,17 @@ void BmpImage::saveBmp(const char *path){
 	}
 	fclose(fd);
 }
-void BmpImage::init(int height,int width,RGB *data){
-	if(_data){
-		delete [] _data;
+void BmpImage::Resize(int h,int w){
+	if(pixels){
+		for(int i=0;i<height;i++){
+			delete [] pixels[i];
+		}
+		delete [] pixels;
 	}
-	_h=height;
-	_w=width;
-	_data=new RGB[height*width];
-	if(data){
-		memcpy(_data,data,sizeof(RGB)*height*width);
+	height=h;
+	width=w;
+	pixels=new bool*[h];
+	for(int i=0;i<h;i++){
+		pixels[i]=new bool[w];
 	}
-}
-void BmpImage::resize(int height,int width,RGB *data){
-	init(height,width,data);
-}
-void BmpImage::resize(int height,int width){
-	init(height,width,NULL);
 }

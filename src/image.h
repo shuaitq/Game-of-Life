@@ -2,52 +2,43 @@
 #define IMAGE_H
 #include <cstdint>
 #include <cstdio>
-#include <cstring>
 #pragma pack(2)
 struct BmpFileHeader{
-	uint16_t bfType;
-	uint32_t bfSize;
-	uint32_t bfReserved;
-	uint32_t bfOffBits;
+	uint16_t bf_type;
+	uint32_t bf_size;
+	uint32_t bf_reserved;
+	uint32_t bf_off_bits;
 };
 struct BmpInfoHeader{
-	uint32_t biSize;
-	uint32_t biWidth;
-	uint32_t biHeight;
-	uint16_t biPlanes;
-	uint16_t biBitCount;
-	uint32_t biCompression;
-	uint32_t biSizeImage;
-	uint32_t biXPelsPerMeter;
-	uint32_t biYPelsPerMeter;
-	uint32_t biClrUsed;
-	uint32_t biClrImportant;
+	uint32_t bi_size;
+	uint32_t bi_width;
+	uint32_t bi_height;
+	uint16_t bi_planes;
+	uint16_t bi_bit_count;
+	uint32_t bi_compression;
+	uint32_t bi_size_image;
+	uint32_t bi_x_pels_per_meter;
+	uint32_t bi_y_pels_per_meter;
+	uint32_t bi_clr_used;
+	uint32_t bi_clr_important;
 };
 struct RGB{
-	bool bw;
-	RGB();
-	RGB(bool temp);
+	uint8_t red;
+	uint8_t green;
+	uint8_t blue;
+	uint8_t alpha;
+	RGB(uint8_t r,uint8_t g,uint8_t b,uint8_t al);
 };
-struct RGBQUAD{
-	uint8_t R;
-	uint8_t G;
-	uint8_t B;
-	uint8_t Re;
-	RGBQUAD(uint8_t r,uint8_t g,uint8_t b,uint8_t re);
-};
+const RGB black(0,0,0,0);
+const RGB white(255,255,255,0);
 struct BmpImage{
-	int _h,_w;
-	RGB *_data;
+	int height,width;
+	bool **pixels;
 	BmpImage();
-	BmpImage(int height,int width);
+	BmpImage(int h,int w);
 	~BmpImage();
-	void set(int x,int y,RGB v);
-	void saveBmp(const char *path);
-	void init(int height,int width,RGB *data);
-	void resize(int height,int width,RGB *data);
-	void resize(int height,int width);
-	inline int xy(int x,int y){
-		return x*_w+y;
-	}
+	void Set(int x,int y,bool v);
+	void SaveBmp(const char *path);
+	void Resize(int h,int w);
 };
 #endif

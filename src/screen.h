@@ -1,49 +1,41 @@
 #ifndef SCREEN_H
 #define SCREEN_H
-#include "cell.h"
-#include "rules.h"
-#include <cstdio>
 #include <cstdlib>
-#include <cstring>
+#include <ctime>
+#include <vector>
+#include "image.h"
+#include "config.h"
 struct screen{
-    cell *pixels;
-	int _h,_w;
-	rules _ru;
+    bool **now,**past;
+	int height,width;
+	int rules[9];
+	BmpFileHeader file_header;
+	BmpInfoHeader info_header;
 	screen();
 	screen(int h,int w);
 	~screen();
-	void set(int x,int y,cell data);
-	void init(int h,int w,cell *data);
-    inline int count(int x,int y){
-		return (pixels[xy((x+1)%_h,(y+1)%_w)].past
-				+pixels[xy(x,(y+1)%_w)].past
-				+pixels[xy((x-1+_h)%_h,(y+1)%_w)].past
-				+pixels[xy((x+1)%_h,y)].past
-				+pixels[xy((x-1+_h)%_h,y)].past
-				+pixels[xy((x+1)%_h,(y-1+_w)%_w)].past
-				+pixels[xy(x,(y-1+_w)%_w)].past
-				+pixels[xy((x-1+_h)%_h,(y-1+_w)%_w)].past);
-	}
-    inline bool liveordie(int x,int y){	
-		int temp=count(x,y);
-		switch(_ru._r[temp]){
-			case 0:
+	void Set(int x,int y,bool data);
+	void Resize(int h,int w);
+    inline bool CountAll(int x,int y){
+		switch(rules[past[(x+1)%height][(y+1)%width]
+				+past[x][(y+1)%width]
+				+past[(x-1+height)%height][(y+1)%width]
+				+past[(x+1)%height][y]
+				+past[(x-1+height)%height][y]
+				+past[(x+1)%height][(y-1+width)%width]
+				+past[x][(y-1+width)%width]
+				+past[(x-1+height)%height][(y-1+width)%width]]){
+			case DIE:
 				return false;
-			case 1:
-				return pixels[xy(x,y)].past;
-			default:
+			case KEEP:
+				return past[x][y];
+			case LIVE:
 				return true;
 		}
 	}
-	void rand();
-	void load_screen(const char *path);
-	void load_rules(const char *path);
-	void print_info();
-	void change();
-	void calc();
-	inline int xy(int x,int y){
-		return x*_w+y;
-	}
-	void resize(int h,int w);
+	void Rand();
+	void Change();
+	void Calc();
+	void Save(const char *path);
 };
 #endif
