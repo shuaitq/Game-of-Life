@@ -54,24 +54,6 @@
 生成1920*1080全随机页面迭代100次只需要2S左右（视机器能而变）
 比上一版本提高5倍以上。
 
-## 文件目录
-	.
-	├── game.cpp		主代码
-	├── json			json配置文件
-	│   ├── benchmark.json	性能测试
-	│   ├── edge_test.json	边界测试
-	│   └── golly.json		
-	├── Makefile			make编译文件
-	├── photo				图片存放位置
-	├── README.md			README
-	└── src					库文件
-		├── config.h		生死数字定义
-		├── image.cpp		bmp文件
-		├── image.h
-		├── json.hpp		json库
-		├── screen.cpp		生命游戏页面
-		└── screen.h
-
 ## 最后
 邮箱 <i@shuaitq.com>
 
