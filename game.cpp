@@ -1,7 +1,6 @@
 #include <cstdio>
 #include <fstream>
 #include <thread>
-#include "src/json.hpp"
 #include "src/screen.h"
 nlohmann::json json;
 screen scr;
