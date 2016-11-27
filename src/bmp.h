@@ -1,5 +1,5 @@
-#ifndef IMAGE_H_
-#define IMAGE_H_
+#ifndef BMP_H_
+#define BMP_H_
 
 #include <cstdio>
 #include "rgb.h"
@@ -37,4 +37,4 @@ private:
 	pixel **pixels;
 };
 
-#endif /*IMAGE_H_*/
+#endif /*BMP_H_*/

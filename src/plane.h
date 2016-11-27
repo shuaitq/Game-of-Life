@@ -5,23 +5,29 @@
 #include <ctime>
 #include "bmp.h"
 #include "config.h"
+#include "json/document.h"
+#include "json/istreamwrapper.h"
 
 class plane{
 public:
-	plane();
-	plane(int h,int w);
-	~plane();
-	void set(int x,int y,pixel data);
-    void set_rule(int i,char rule);
-	void rand();
-	void change();
-	void calc();
-	void save(const char *path);
+    plane();
+    plane(int h,int w);
+    ~plane();
+    void run();
+    void save(const char *path);
+    bool read_json(const char *path);
 private:
     pixel **now,**past;
-	int height,width;
-	char rules[9];
+    int height,width,time;
+    string path;
+    char rules[9];
+    void rand();
+    void change();
+    void calc();
     pixel count(int x,int y);
+    void resize(int h,int w);
+    void set_rule(int i,char rule);
+    void set(int x,int y,pixel data);
 };
 
 #endif /*PLANE_H_*/
