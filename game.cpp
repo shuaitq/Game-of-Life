@@ -1,30 +1,27 @@
 #include <cstdio>
 #include <thread>
 #include <string>
+#include <fstream>
 #include "src/plane.h"
 #include "src/json/document.h"
-#include "src/json/filereadstream.h"
+#include "src/json/istreamwrapper.h"
 
 using namespace rapidjson;
 
 int main(int argc, char** argv){
     Document d;
-	if(argc!=2){
+    if(argc!=2){
 		printf("Error! Please input the path!\n");
 		return 0;
 	}else{
-        FILE *fp=fopen(argv[1],"r");
-		if(fp==nullptr){
-			printf("Path error! Please input the right path!\n");
-			return 0;
-		}
-        char readBuffer[65536];
-        FileReadStream is(fp, readBuffer, sizeof(readBuffer));
+        std::ifstream ifs(argv[1]);
+        IStreamWrapper isw(ifs);
         Document d;
-        d.ParseStream(is);
-        fclose(fp);
+        d.ParseStream(isw);
 	}
+    assert(d.IsObject());
     int height=d["height"].GetInt(),width=d["width"].GetInt();
+    printf("Hello\n");
     plane pla(height,width);
 	if(d["rand"].GetBool()){
 		pla.rand();
