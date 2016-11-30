@@ -1,8 +1,8 @@
 #ifndef PLANE_H_
 #define PLANE_H_
 
-#include <cstdio>
 #include <cstdlib>
+#include <cstdio>
 #include <ctime>
 #include <cstring>
 #include <fstream>
@@ -12,9 +12,10 @@
 
 namespace plane{
 
-    const int LIVE=2;
-    const int KEEP=1;
-    const int DIE=0;
+    static const int LIVE=2;
+    static const int KEEP=1;
+    static const int DIE=0;
+    static const int MAX_LENGTH=4096;
 
     using pixel=bool;
 
@@ -28,7 +29,7 @@ namespace plane{
     private:
         pixel **now,**past;
         int height,width,time;
-        char path[4096];
+        char path[MAX_LENGTH];
         char rules[9];
         void rand();
         void change();

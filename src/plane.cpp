@@ -14,12 +14,15 @@ namespace plane{
     }
 
     void plane::run(){
-        char temp[4096];
+        char temp[MAX_LENGTH];
         for(int i=1;i<=time;i++){
             printf("Start\t");
             sprintf(temp,"%s%d.bmp",path,i);
             printf("%s\t",temp);
-            save(temp);
+            if(!save(temp)){
+                printf("Error! Can Save bmp file!\n");
+                return;
+            }
             change();
             //std::thread t([path,pla](){pla.save(path.c_str());});
             calc();
@@ -61,7 +64,7 @@ namespace plane{
         for(int i=0;i<9;i++){
             rules[i]=d["rules"][i].GetInt();
         }
-        std::strcpy(this->path,d["path"].GetString());
+        strcpy(this->path,d["path"].GetString());
         time=d["time"].GetInt();
         return true;
     }
