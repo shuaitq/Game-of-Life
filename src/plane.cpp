@@ -16,9 +16,8 @@ namespace plane{
     void plane::run(){
         char temp[MAX_LENGTH];
         for(int i=1;i<=time;i++){
-            printf("Start\t");
             sprintf(temp,"%s%d.bmp",path,i);
-            printf("%s\t",temp);
+            printf("Start\t%s\t",temp);
             if(!save(temp)){
                 printf("Error! Can Save bmp file!\n");
                 return;
@@ -44,8 +43,7 @@ namespace plane{
     bool plane::read_json(const char *path){
         using namespace rapidjson;
         Document d;
-        std::ifstream in;
-        in.open(path);
+        std::ifstream in(path);
         if(!in.is_open()){
             return false;
         }
