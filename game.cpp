@@ -2,7 +2,7 @@
 #include "src/plane.h"
 
 int main(int argc, char** argv){
-    plane pla;
+    plane::plane pla;
     if(argc!=2){
         printf("Error! Please input the path!\n");
         return 0;

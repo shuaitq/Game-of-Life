@@ -4,15 +4,6 @@ namespace plane{
 
     plane::plane():height(0),width(0),now(nullptr),past(nullptr){}
 
-    plane::plane(int h,int w):height(h),width(w){
-        now=new pixel*[h];
-        past=new pixel*[h];
-        for(int i=0;i<h;i++){
-            now[i]=new pixel[w];
-            past[i]=new pixel[w];
-        }
-    }
-
     plane::~plane(){
         for(int i=0;i<height;i++){
             delete [] now[i];
@@ -23,31 +14,35 @@ namespace plane{
     }
 
     void plane::run(){
+        char temp[4096];
         for(int i=1;i<=time;i++){
             printf("Start\t");
-            char temp[20];
-            sprintf(temp,"%d",i);
-            path+=temp;
-            path+=".bmp";
-            printf("%s\t",path.c_str());
+            sprintf(temp,"%s%d.bmp",path,i);
+            printf("%s\t",temp);
+            save(temp);
             change();
-            save(path.c_str());
             //std::thread t([path,pla](){pla.save(path.c_str());});
-            pla.calc();
+            calc();
             printf("Done!\n");
             //t.join();
         }
     }
 
-    void plane::save(const char *path){
-        bmp temp(height,width,now);
-        temp.save(path);
+    bool plane::save(const char *path){
+        bmp::bmp temp(height,width);
+        for(int i=0;i<height;i++){
+            for(int j=0;j<width;j++){
+                temp.set_pixel(i,j,now[i][j]);
+            }
+        }
+        return temp.save(path);
     }
 
     bool plane::read_json(const char *path){
         using namespace rapidjson;
         Document d;
-        std::ifstream in(path);
+        std::ifstream in;
+        in.open(path);
         if(!in.is_open()){
             return false;
         }
@@ -59,19 +54,20 @@ namespace plane{
         }else{
             for(int i=0;i<height;i++){
                 for(int j=0;j<width;j++){
-                    set(height-1-i,j,d["screen"][i][j].GetInt());
+                    now[height-1-i][j]=d["screen"][i][j].GetInt();
                 }
             }
         }
         for(int i=0;i<9;i++){
-            set_rule(i,d["rules"][i].GetInt());
+            rules[i]=d["rules"][i].GetInt();
         }
-        path=d["path"].GetString();
+        std::strcpy(this->path,d["path"].GetString());
+        time=d["time"].GetInt();
         return true;
     }
 
     void plane::rand(){
-        srand(time(nullptr));
+        srand(std::time(nullptr));
         for(int i=0;i<height;i++){
             for(int j=0;j<width;j++){
                 now[i][j]=std::rand()%2;
@@ -135,12 +131,4 @@ namespace plane{
         }
     }
 
-    void plane::set_rule(int i,char rule){
-        rules[i]=rule;
-    }
-
-    void plane::set(int x,int y,pixel data){
-        now[x][y]=data;
-    }
-    
 }
