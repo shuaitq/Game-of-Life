@@ -22,9 +22,7 @@ plane::~plane(){
 
 void plane::run(){
     for(int i=1;i<=time;i++){
-        printf("Hello\n");
         printf("Start\t");
-        std::string path=d["path"].GetString();
         char temp[20];
         sprintf(temp,"%d",i);
         path+=temp;
@@ -66,6 +64,8 @@ bool plane::read_json(const char *path){
     for(int i=0;i<9;i++){
         set_rule(i,d["rules"][i].GetInt());
     }
+    path=d["path"].GetString();
+    return true;
 }
 
 void plane::rand(){

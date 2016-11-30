@@ -2,6 +2,7 @@
 #define PLANE_H_
 
 #include <cstdlib>
+#include <string>
 #include <ctime>
 #include "bmp.h"
 #include "config.h"
@@ -19,7 +20,7 @@ public:
 private:
     pixel **now,**past;
     int height,width,time;
-    string path;
+    std::string path;
     char rules[9];
     void rand();
     void change();
