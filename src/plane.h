@@ -5,30 +5,39 @@
 #include <string>
 #include <ctime>
 #include "bmp.h"
-#include "config.h"
 #include "json/document.h"
 #include "json/istreamwrapper.h"
 
-class plane{
-public:
-    plane();
-    plane(int h,int w);
-    ~plane();
-    void run();
-    void save(const char *path);
-    bool read_json(const char *path);
-private:
-    pixel **now,**past;
-    int height,width,time;
-    std::string path;
-    char rules[9];
-    void rand();
-    void change();
-    void calc();
-    pixel count(int x,int y);
-    void resize(int h,int w);
-    void set_rule(int i,char rule);
-    void set(int x,int y,pixel data);
-};
+namespace plane{
 
-#endif /*PLANE_H_*/
+    const int LIVE=2;
+    const int KEEP=1;
+    const int DIE=0;
+
+    using pixel=bool;
+
+    class plane{
+    public:
+        plane();
+        plane(int h,int w);
+        ~plane();
+        void run();
+        void save(const char *path);
+        bool read_json(const char *path);
+    private:
+        pixel **now,**past;
+        int height,width,time;
+        std::string path;
+        char rules[9];
+        void rand();
+        void change();
+        void calc();
+        pixel count(int x,int y);
+        void resize(int h,int w);
+        void set_rule(int i,char rule);
+        void set(int x,int y,pixel data);
+    };
+
+}
+
+#endif //PLANE_H_
