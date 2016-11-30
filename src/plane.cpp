@@ -16,17 +16,13 @@ namespace plane{
     void plane::run(){
         char temp[MAX_LENGTH];
         for(int i=1;i<=time;i++){
+            change();
+            std::thread t([&](){save(temp);});
             sprintf(temp,"%s%d.bmp",path,i);
             printf("Start\t%s\t",temp);
-            if(!save(temp)){
-                printf("Error! Can Save bmp file!\n");
-                return;
-            }
-            change();
-            //std::thread t([path,pla](){pla.save(path.c_str());});
             calc();
             printf("Done!\n");
-            //t.join();
+            t.join();
         }
     }
 
@@ -34,7 +30,7 @@ namespace plane{
         bmp::bmp temp(height,width);
         for(int i=0;i<height;i++){
             for(int j=0;j<width;j++){
-                temp.set_pixel(i,j,now[i][j]);
+                temp.set_pixel(i,j,past[i][j]);
             }
         }
         return temp.save(path);
