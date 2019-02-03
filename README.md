@@ -13,6 +13,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shuaitq/Game-of-Life/blob/master/Image/wings.gif"><img src="https://github.com/shuaitq/Game-of-Life/blob/master/Image/wings.gif" width="200pt" height="200pt"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shuaitq/Game-of-Life/blob/master/Image/stilllifes.png"><img src="https://github.com/shuaitq/Game-of-Life/blob/master/Image/stilllifes.png" width="216pt" height="152pt"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shuaitq/Game-of-Life/blob/master/Image/stargate.gif"><img src="https://github.com/shuaitq/Game-of-Life/blob/master/Image/stargate.gif" width="232.5pt" height="189pt"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/shuaitq/Game-of-Life/blob/master/Image/toggleable.gif"><img src="https://github.com/shuaitq/Game-of-Life/blob/master/Image/toggleable.gif" width="270pt" height="223.5pt"></a>
 
 ### 生命游戏的规则
 #### 最为经典的「B3S23」
@@ -48,9 +49,10 @@ Example:
 **Have a good time.**
 
 ## 感谢
-* 感谢[LifeWiki](http://www.conwaylife.com/wiki/Main_Page)完整的各种资料，包括且不限于：
-    1. 完整的RLE文件格式文档。
-    2. 巨量的RLE模式文件总计2000+，和各个模式的资料。
+感谢[LifeWiki](http://www.conwaylife.com/wiki/Main_Page)完整的各种资料，包括且不限于：
+
+1. 完整的RLE文件格式文档。
+2. 巨量的RLE模式文件总计2000+，和各个模式的资料。
 
 ## 最后
 邮箱 <i@shuaitq.com>
