@@ -8,7 +8,9 @@
 
 简而言之就是，在一个二维空间内每一个格子就是一个「细胞」，每个细胞存在着两种状态，生和死，并通过一定的规则进行演算的结果。结果就像下面这张图一样  
 
-![](https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif)
+## 运行结果
+* ![OTCA metapixel](https://github.com/shuaitq/Game-of-Life/blob/master/Image/otcametapixel.png)
+* ![Wings](https://github.com/shuaitq/Game-of-Life/blob/master/Image/wings.gif)
 
 ### 生命游戏的规则
 #### 最为经典的「B3S23」
