@@ -1,0 +1,10 @@
+#N eater4_synth
+#O BlinkerSpawn, Goldtiger997
+#C Glider synthesis of eater 4
+#C http://conwaylife.com/wiki/Eater_4
+x = 125, y = 125, rule = B3/S23
+123bo$122bo$122b3o30$83bo$83bobo$83b2o10$67bo24bo$66bo25bobo$66b3o23b
+2o12$54bo$55b2o$54b2o$50b2o$51b2o6bo$50bo8b2o$45b2o11bobo$44bobo$46bo
+3$73bo$73bobo6bo$73b2o6bo$81b3o$77b3o$77bo9b2o$78bo8bobo$87bo7$32b3o$
+34bo$33bo2$74b3o$74bo$75bo3$44b3o$46bo$45bo25$120b3o$120bo$121bo$b2o$o
+bo$2bo!

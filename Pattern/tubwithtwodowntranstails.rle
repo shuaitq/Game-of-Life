@@ -1,0 +1,5 @@
+#N tubwithtwodowntranstails.rle
+#C http://conwaylife.com/wiki/Tub_with_two_down_trans_tails
+#C http://conwaylife.com/patterns/tubwithtwodowntranstails.rle
+x = 7, y = 7, rule = B3/S23
+5b2o$5bo$3bobo$2bobo$bobo$bo$2o!

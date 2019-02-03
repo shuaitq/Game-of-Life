@@ -1,0 +1,8 @@
+#N torus.rle
+#C http://conwaylife.com/wiki/Bounded_grids
+#C http://conwaylife.com/patterns/torus.rle
+x = 100, y = 100, rule = B3/S23:T100,100
+$11b2o6bo4b2o8b2o9b2o$11bobo4b2o4bobo7b2o9b2o$12b2o4bobo4b2o50$39b3o$
+39bo2bo$39bo$39bo$40bobo15$95b2o$95bobo$96bobo$97b2o3$b2o$bobo$2bobo$
+3b2o4$95b2o$95bobo$96bobo$97b2o3$b2o$bobo$2bobo$3b2o2$6b2o11b2o$6bobo
+10bobo12b2o9b2o$7b2o11b2o12b2o9b2o!

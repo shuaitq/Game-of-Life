@@ -1,0 +1,19 @@
+#N tannersp46_synth
+#O Mark Niemiec
+#C 19-glider synthesis of Tanner's p46
+#C http://conwaylife.com/wiki/Tanner%27s_p46
+x = 146, y = 88, rule = B3/S23
+120bo$120bobo$120boo10$102bo$101bo$20bobo78b3o$21boo108boo$21bo110bo$
+23bo13boobo16boobo13booboobo21b3o9booboobo11bobooboobo$18boobbo14boboo
+12boobboboo12boboboboo21bo10boboboboo12boboboboo$17boo3b3o29boo18bo28b
+o10bo19bo$19bo33bo$14boo$15boo$14bo12$3bo7boo38boo38boo38boo$4bo7bo39b
+o39bo39bo$bb3o7bobooboobo31bobooboobo31bobooboobo31bobooboobo$13bobobo
+boo32boboboboo32boboboboo32boboboboo$bo12bo25bo13bo25bo13bo25bo13bo$b
+oo37b3o37b3o37b3o$obo40bo39bo39bo$6bo35boo38boo38boo$5boo$5bobo$123boo
+$83b3o37boo$83bo$84bo$80b3o$82bo$81bo14$11boo38boo38boo38boo$12bo39bo
+39bo39bo$12bobooboobo31bobooboobo31bobooboobo31bobooboobo$13boboboboo
+32boboboboo32boboboboo32boboboboo$o13bo25bo13bo25bo13bo25bo13bo$3o37b
+3o37b3o37b3o$3bo39bo39bo39bo$bboo38boo38boo38boo$$62boobo36boobo36boob
+o$3boo14b3o21boo17boboo17boo17boboo17boo7booboo5boboo$3boo16bobboo17b
+oo38boo38boo7booboo$20bobboo3b3o103bo$25bobbo$19bo9bo$19boo$18bobo64bo
+$85boo$84bobo$$105boo$105bobo$105bo!

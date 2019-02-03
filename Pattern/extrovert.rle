@@ -1,0 +1,6 @@
+#N extrovert.rle
+#C http://conwaylife.com/wiki/P10_traffic_light_hassler
+#C http://conwaylife.com/patterns/extrovert.rle
+x = 17, y = 20, rule = B3/S23
+5b2o3b2o$5b2o3b2o4$2o2b3o3b3o2b2o$2o13b2o$4bobo3bobo$5bo5bo3$5bo5bo$4bobo3bob
+o$2o13b2o$2o2b3o3b3o2b2o4$5b2o3b2o$5b2o3b2o!

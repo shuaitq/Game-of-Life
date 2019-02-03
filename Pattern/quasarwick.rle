@@ -1,0 +1,16 @@
+#N quasarwick.rle
+#C http://conwaylife.com/wiki/Quasar
+#C http://conwaylife.com/patterns/quasarwick.rle
+x = 98, y = 47, rule = B3/S23
+4bo39bo7bo39bo$2b5o35b5o3b5o35b5o$bo5bo2b3o28bo5bobo5bo28b3o2bo5bo$obo
+bo2bo32bobobo2bobo2bobobo32bo2bobobo$obo4bobo4bo25bobo4bobo4bobo25bo4b
+obo4bobo$bo2b2o3bo4bo26bo2b2o5b2o2bo26bo4bo3b2o2bo$9bo4bo67bo4bo$10b3o
+71b3o2$12b3o67b3o$10bo4bo2b3o55b3o2bo4bo$10bo4bo65bo4bo$10bo4bobo4bo
+51bo4bobo4bo$17bo4bo51bo4bo$12b3o2bo4bo51bo4bo2b3o$18b3o55b3o2$20b3o
+51b3o$18bo4bo2b3o39b3o2bo4bo$18bo4bo49bo4bo$18bo4bobo4bo35bo4bobo4bo$
+25bo4bo35bo4bo$20b3o2bo4bo35bo4bo2b3o$26b3o39b3o2$28b3o35b3o$26bo4bo2b
+3o23b3o2bo4bo$26bo4bo33bo4bo$26bo4bobo4bo19bo4bobo4bo$33bo4bo19bo4bo$
+28b3o2bo4bo19bo4bo2b3o$34b3o23b3o2$36b3o19b3o$34bo4bo2b3o7b3o2bo4bo$
+34bo4bo17bo4bo$34bo4bobo4bo3bo4bobo4bo$41bo4bo3bo4bo$36b3o2bo4bo3bo4bo
+2b3o$42b3o7b3o2$44b3o3b3o$42bo4bobo4bo$42bo4bobo4bo$42bo4bobo4bo2$44b
+3o3b3o!

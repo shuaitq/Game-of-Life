@@ -1,0 +1,5 @@
+#N cismangowithtail.rle
+#C http://conwaylife.com/wiki/Cis-mango_with_tail
+#C http://conwaylife.com/patterns/cismangowithtail.rle
+x = 7, y = 5, rule = B3/S23
+2o$bo2b2o$bobo2bo$2bo2bo$3b2o!

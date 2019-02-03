@@ -1,0 +1,10 @@
+#N Bx222
+#O Paul Callahan, October 1998
+#C Repeat time 271 ticks
+#C http://conwaylife.com/wiki/Bx222
+#C http://www.conwaylife.com/patterns/bx222.rle
+x = 42, y = 36, rule = B3/S23
+13bo$4b2o5b3o7b2o$5bo4bo10bo$5bobo3bo10bo$6bobo3bo8b2o$7bo3b2o17bo6bo$
+28b3o5bobo$27bo8bobo$27b2o6b2ob3o$41bo$2bo15b2o15b2ob3o$2bo15b2o15b2ob
+o$3o$o3$40b2o$40bo$38bobo$38b2o7$6bo$6bobo$6b3o$8bo20b2o$29bo$18b2o10b
+o$18b2o2b2o5b2o$22bobo$24bo$24b2o!

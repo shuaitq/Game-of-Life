@@ -1,0 +1,5 @@
+#N prepreblockmakesmwss.rle
+#C http://conwaylife.com/wiki/Pre-pre-block
+#C http://www.conwaylife.com/patterns/prepreblockmakesmwss.rle
+x = 22, y = 18, rule = B3/S23
+$obo$b2o$bo11$4bo$4b2o13b3o$3bobo13bo$20bo!

@@ -1,0 +1,5 @@
+#N doubleblockeating.rle
+#C http://conwaylife.com/wiki/Double_block_reaction
+#C http://conwaylife.com/patterns/doubleblockeating.rle
+x = 16, y = 7, rule = B3/S23
+b4o5b2o$o3bo6b2ob2o$4bo6bo2b2o$o2bo2$13b2o$13b2o!

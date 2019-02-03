@@ -1,0 +1,19 @@
+#N cottonmouthextended.rle
+#C http://conwaylife.com/wiki/Cottonmouth
+#C http://conwaylife.com/patterns/cottonmouthextended.rle
+x = 30, y = 85, rule = B3/S23
+4bo2bo14bo2bo$4bo2bo14bo2bo$3bo4bo12bo4bo$3bo4bo12bo4bo$3bo4bo12bo4bo$
+3bo4bo12bo4bo$2b3o2b3o10b3o2b3o$2bob4obo10bob4obo$3bo4bo12bo4bo3$2b2o
+4b2o10b2o4b2o$2bo6bo10bo6bo$2bo6bo10bo6bo$bo8bo8bo8bo2$bobo4bobo8bobo
+4bobo$3bo4bo12bo4bo$bobo4bobo8bobo4bobo$bobo4bobo8bobo4bobo$2bo6bo10bo
+6bo3$4b4o14b4o2$4bo2bo14bo2bo$3bob2obo12bob2obo$3bo4bo12bo4bo2$3bo4bo
+12bo4bo$3b2o2b2o12b2o2b2o$3b6o12b6o$2b8o10b8o$2bo6bo10bo6bo$3bo4bo12bo
+4bo$b2o6b2o8b2o6b2o$b2o6b2o8b2o6b2o$b2o6b2o8b2o6b2o$3bo4bo12bo4bo$3bo
+4bo12bo4bo$4bo2bo14bo2bo$3bo4bo12bo4bo$3bo4bo12bo4bo2$5b2o16b2o$4bo2bo
+14bo2bo$3b2o2b2o12b2o2b2o$3b2o2b2o12b2o2b2o$3bob2obo12bob2obo$5b2o16b
+2o$3bo4bo12bo4bo$2b2o4b2o10b2o4b2o3$2bo6bo10bo6bo$bob2o2b2obo8bob2o2b
+2obo2$5b2o16b2o$2o3b2o3b2o6b2o3b2o3b2o2$2b3o2b3o10b3o2b3o$2b2o4b2o10b
+2o4b2o$2bob4obo10bob4obo$3b6o12b6o2$5b2o16b2o$4b4o14b4o2$3b6o12b6o$4b
+4o14b4o2$3b2o2b2o12b2o2b2o$b2obo2bob2o8b2obo2bob2o$4bo2bo14bo2bo3$5b2o
+16b2o$5b2o16b2o2$20bobo2bobo$19bo2bo2bo2bo$19bo8bo$19bo8bo$19b2o6b2o$
+21b6o!

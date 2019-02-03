@@ -1,0 +1,10 @@
+#N jam_synth
+#O Chris Cain, gmc_nxtman
+#C Glider synthesis of jam
+#C http://conwaylife.com/wiki/jam
+x = 107, y = 50, rule = B3/S23
+61bobo$62b2o$bo60bo$2b2o$b2o3b2o$5bobo26b2o26b2o10b2o$7bo25bo2bo19bo6b
+2o8bo2bo$b2o31b2o20b2o4bo11b2o26b2o$obo52bobo43bo2bo$2bo96bo2bobo$31b
+2o38b2o25bo4bo$30bo2bo36bo2bo24bo$31b2o38b2o27b3o24$102b2o$102bobo$
+102bo$95bo$95b2o2b3o$94bobo4bo$100bo$105b2o$104b2o$94bo11bo$94b2o$93bo
+bo5b2o$100b2o$102bo!

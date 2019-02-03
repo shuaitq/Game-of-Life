@@ -1,0 +1,5 @@
+#N cisboatontable.rle
+#C http://conwaylife.com/wiki/Cis-boat_on_table
+#C http://conwaylife.com/patterns/cisboatontable.rle
+x = 6, y = 4, rule = B3/S23
+b2ob2o$obobo$bo2bo$4b2o!

@@ -1,0 +1,5 @@
+#N verylongshillelagh.rle
+#C http://conwaylife.com/wiki/Very_long_shillelagh
+#C http://www.conwaylife.com/patterns/verylongshillelagh.rle
+x = 4, y = 7, rule = B3/S23
+b2o$bobo$3bo$2bo$bo$o$2o!

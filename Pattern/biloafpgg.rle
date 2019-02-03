@@ -1,0 +1,5 @@
+#N biloafpgg.rle
+#C http://www.conwaylife.com/wiki/Bi-loaf_(pure_glider_generator)
+#C http://conwaylife.com/patterns/biloafpgg.rle
+x = 4, y = 7, rule = B3/S23
+2bo$bobo$o2bo$b2o$o2bo$obo$bo!

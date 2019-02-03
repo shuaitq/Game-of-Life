@@ -1,0 +1,10 @@
+#N bakersdozenreactions.rle
+#C http://conwaylife.com/wiki/Baker%27s_dozen
+#C http://conwaylife.com/patterns/bakersdozenreactions.rle
+x = 35, y = 28, rule = B3/S23
+25bo$24b2ob2o$24b5o$8bob2ob2obo7b2o$8b2obobob2o8bo2$8b3o3b3o6bobo$8bo
+2bobo2bo7bo$10b2ob2o13bo$5bo13bo7bobo2b2o$2o2bobo11bobo2b2o2bo2bob2o$
+2obo2bo2b2o3b2o2bo2bob2o3b2o$4b2o3b2o3b2o3b2o2$31bo$31bo$4b2o3b2o5b2o
+3b2o7b2obo$2obo2bo2b2o5b2o2bo2bob2o6b2o$2o2bobo13bobo2b2o3bo$5bo15bo8b
+2o$29b2o$8b3o7bo10b3o$8b3o7bo$6b2o2b3o3bob2o$6b2o7b2o3bo$6b3o10bobo$8b
+o9bo2bo$8bo10b2o!

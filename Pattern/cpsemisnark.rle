@@ -1,0 +1,8 @@
+#N CP semi-Snark
+#O Tanner Jacobi
+#C A color-preserving, doubling signal conduit with a repeat time of 48, found by Tanner Jacobi in 2017.
+#C http://conwaylife.com/wiki/CP_semi-Snark
+x = 23, y = 23, rule = B3/S23
+9b2o$10bo$8bo5b2o$8b2o5bo$15bob2o$8b2o2b2obo2bo$8b2o3bob2o$13bo$12b2o
+2$18b2o$19bo$19bob2o$11b2o4b3o2bo$11b2o3bo3b2o$16b4o$2b2o15bo$bobo12b
+3o$bo13bo$2o14b5o$20bo$18bo$18b2o!

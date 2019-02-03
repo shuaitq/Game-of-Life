@@ -1,0 +1,9 @@
+#N p8 swan tagalong
+#C Two swans pulling a period 8 tagalong
+#C http://www.conwaylife.com/wiki/Swan
+#C http://www.conwaylife.com/patterns/p8swantagalong.rle
+x = 28, y = 28, rule = B3/S23
+5b2obo7b3o$5bo3bo6bo$5bo4bo7bo7b2o$7b2o7bobo4b2obo$9bobo4b3obo2b2o$3o
+12bo3b2o2b2o$o10b2ob4ob2o$3bo8b7o$o2bo$bo2bo$2bo$4bobo$6b2o$7bo6b3o$6b
+2o6bo2bo$5b3o5bo3bo$2ob2ob2o7bo$o3bob2o9b2o$ob3o2bo5bo6bo$5b2o8b3o3bo$
+4b3o14bo$19bo$20bo$3b3o$3b3o2$2b2o$2bo!

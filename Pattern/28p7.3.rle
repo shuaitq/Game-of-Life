@@ -1,0 +1,5 @@
+#N 28p7.3.rle
+#C http://conwaylife.com/wiki/28P7.3
+#C http://conwaylife.com/patterns/28p7.3.rle
+x = 10, y = 13, rule = B3/S23
+obo$2obo$3bo2b2o$2obobobo$o2bo2bo$2bo$4bo$2b3o2$6b2o$6bobo$8bo$8b2o!

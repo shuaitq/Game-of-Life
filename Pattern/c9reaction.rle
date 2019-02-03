@@ -1,0 +1,6 @@
+#N c/9 reaction
+#O Unknown
+#C http://conwaylife.com/wiki/C/9_reaction
+#C http://conwaylife.com/patterns/c9reaction.rle
+x = 9, y = 4, rule = B3/S23
+6b3o$bo$3o$2bo!

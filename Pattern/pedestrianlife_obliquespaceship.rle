@@ -1,0 +1,6 @@
+#N Pedestrian Life period 190 oblique spaceship
+#C A (5,2)c/190 oblique spaceship in Pedestrian Life (B38/S23).
+#C http://conwaylife.com/wiki/Pedestrian_Life
+x = 40, y = 28, rule = B38/S23
+2o$2o2$8b2o$7bo2bo$5b2ob2o$5b2ob2o$7bo5$18b3o$18bobo$18b3o7$24b2o$23b
+3o$23bo2bo$24b2o$37b2o$37bobo$38bo!

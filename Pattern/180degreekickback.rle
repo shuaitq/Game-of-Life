@@ -1,0 +1,5 @@
+#N 180degreekickback.rle
+#C http://conwaylife.com/wiki/180-degree_kickback
+#C http://www.conwaylife.com/patterns/180degreekickback.rle
+x = 13, y = 18, rule = B3/S23
+11bo$10bo$10b3o13$b2o$obo$2bo!

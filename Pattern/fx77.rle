@@ -1,0 +1,8 @@
+#N fx77.rle
+#O David Buckingham, 1996
+#C http://conwaylife.com/wiki/Fx77
+#C http://www.conwaylife.com/patterns/fx77.rle
+x = 30, y = 61, rule = B3/S23
+bo$b3o$4bo$3b2o11b2o11bo$16b2o9b3o$27bo$27bo4$2bo$2bobo$2b3o$4bo6$12b
+2o6b2o$11bo2bo5b2o$11bo2bo$12b2o16$o$3o$3bo$2b2o11b2o11bo$15b2o9b3o$
+26bo$26bo4$bo$bobo$b3o$3bo6$16b2o$16bobo$18bo$18b2o!

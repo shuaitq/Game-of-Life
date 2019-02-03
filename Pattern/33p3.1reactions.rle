@@ -1,0 +1,6 @@
+#N 33p3.1reactions.rle
+#C http://conwaylife.com/wiki/33P3.1
+#C http://conwaylife.com/patterns/33p3.1reactions.rle
+x = 19, y = 16, rule = B3/S23
+2o$bo$bobo$2b2o$5b2o6bo$5bobo3b2obo$7b5ob2o$7bo2bo$8b3o4b2o$15bo$6b3o
+7b3o$5bo2b2o8bo$4bob3obo$4bobo2bobo$5bo3bobo$10bo!

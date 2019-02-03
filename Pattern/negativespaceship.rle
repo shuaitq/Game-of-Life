@@ -1,0 +1,11 @@
+#N negativespaceship.rle
+#C http://conwaylife.com/wiki/Negative_spaceship
+#C http://www.conwaylife.com/patterns/negativespaceship.rle
+x = 55, y = 31, rule = B3/S23:T55,32
+55o2$29o2b3o2b19o$30b2o3b2o$24o2b3o3b2o3b4o2b12o$25b2o15b2o$24o2b3o3b
+2o5b2o3b2o2b7o$30b2o3bob2o8b2o$24o2b3o2b3o3b2o5b2o3b6o$25b2o12b2ob2o$
+24o3b5o10b2o5b6o$28bo15b2ob2o$24o5bo9bo7b2o2b4o$25bobo6bo3bo10b2o$24o
+3bobob5o6bo7b5o$30b3o3bo6bo$24o3bobob5o6bo7b5o$25bobo6bo3bo10b2o$24o5b
+o9bo7b2o2b4o$28bo15b2ob2o$24o3b5o10b2o5b6o$25b2o12b2ob2o$24o2b3o2b3o3b
+2o5b2o3b6o$30b2o3bob2o8b2o$24o2b3o3b2o5b2o3b2o2b7o$25b2o15b2o$24o2b3o
+3b2o3b4o2b12o$30b2o3b2o$29o2b3o2b19o2$55o!

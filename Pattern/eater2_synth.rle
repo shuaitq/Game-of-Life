@@ -1,0 +1,9 @@
+#N eater2_synth
+#O Tanner Jacobi, gmc_nxtman
+#C Glider synthesis of eater 2
+#C http://conwaylife.com/wiki/eater2
+x = 72, y = 18, rule = B3/S23
+9bo$7b2o$8b2o$2bo39bobo$obo40b2o5bo$b2o40bo5bo$49b3o$12bo$3bobo6bobo
+12bo39bo$3b2o7b2o12bobo37bobo$4bo21bobo37bobo$25b2ob3o10bo11bo11b2ob3o
+$5b2o24bo10bo11bo16bo$6b2o5b3o9b2ob3o9b3o9b3o10b2ob3o$5bo7bo11b2obo15b
+3o18b2obo$14bo31bo7bo$45bo7b2o$53bobo!

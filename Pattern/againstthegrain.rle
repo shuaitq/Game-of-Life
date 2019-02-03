@@ -1,0 +1,11 @@
+#N againstthegrain.rle
+#C http://conwaylife.com/wiki/Against_the_grain
+#C http://www.conwaylife.com/patterns/againstthegrain.rle
+x = 35, y = 52, rule = B3/S23:T35,52
+35o2$35o2$35o2$35o2$35o2$35o2$35o2$17o2b16o2$15o6b14o$15bo4bo$16o4b15o
+2$13o3b4o3b12o$17b2o$12o12b11o$12bo10bo$14o8b13o$14bo6bo$15o6b14o$9b2o
+4bo4bo4b2o$7o6b4o2b4o6b6o$7bo3b2o3bo2bo3b2o3bo$7o9bo2bo9b6o$8bo5bo6bo
+5bo$9o6bo4bo6b8o$9bo4b2ob2ob2o4bo$11o4bo4bo4b10o$11b2o4b2o4b2o$7o2b3ob
+o2bo2bo2bob3o2b6o$14b3o2b3o$5o6b3obo4bob3o6b4o$5bo4bo14bo4bo$6o8bo6bo
+8b5o$6bo3b2o2bo2b2o2bo2b2o3bo$8o5bob2o2b2obo5b7o$8bo2bob2o6b2obo2bo$9o
+3b2o8b2o3b8o$10bo14bo$16o4b15o$16b4o$17o2b16o2$35o!

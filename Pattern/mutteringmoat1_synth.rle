@@ -1,0 +1,12 @@
+#N mutteringmoat1_synth
+#O Martin Grant, Goldtiger997
+#C Glider synthesis of muttering moat 1
+#C http://conwaylife.com/wiki/Muttering_moat_1
+x = 140, y = 44, rule = B3/S23
+119bobo$119b2o$120bo6$95bo$93bobo$22bobo69b2o$obo19b2o$b2o20bo65bobo
+11bo$bo88b2o10bo5bobo$5bobo82bo11b3o3b2o$6b2o101bo$6bo91bo$96b2o$97b2o
+17bobo$116b2o$117bo$106bobo$106b2o$107bo$56b2o38b2o35b2o$54bo2bo36bo2b
+o35bo3b2o$54b3o37b3o11bo25bobobo$107b2o$54b5o25b2o8b5o8bobo24b2o2bo$
+19bobo31bo2bo2bo23bobo7bo2bo2bo36bo2bo$19b2o3bobo26b2o3b2o25bo7b2o3b2o
+38b2o$20bo3b2o$17bo7bo$15bobo90b3o$16b2o90bo$109bo$84b2o$83bobo6bo$85b
+o6b2o$91bobo9bo$102b2o$88bo13bobo$88b2o$87bobo!

@@ -1,0 +1,8 @@
+#N p60bheptominoshuttle.rle
+#C http://conwaylife.com/wiki/P60_B-heptomino_hassler
+#C http://conwaylife.com/patterns/p60bheptominoshuttle.rle
+x = 27, y = 47, rule = B3/S23
+2b2o12b2o$o2bo12b2o2$17bo$2obo12bobo$2bobo2b2o2b2o2bo2bo$3bo4bo2b2obo$
+4bo10b2o$4bo2bo3$10bo$9b3o$9bob2o3$8bo$8bo12$18bo$18bo3$14b2obo$15b3o$
+16bo3$19bo2bo$10b2o10bo$12bob2o2bo4bo$8bo2bo2b2o2b2o2bobo$8bobo12bob2o
+$9bo2$9b2o12bo2bo$9b2o12b2o!

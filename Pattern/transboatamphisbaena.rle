@@ -1,0 +1,5 @@
+#N transboatamphisbaena.rle
+#C http://conwaylife.com/wiki/Trans-boat_amphisbaena
+#C http://conwaylife.com/patterns/transboatamphisbaena.rle
+x = 6, y = 7, rule = B3/S23
+4b2o$3bobo$4bo$b3o$o$bo$2o!

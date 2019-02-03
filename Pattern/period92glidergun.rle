@@ -1,0 +1,11 @@
+#N period92glidergun.rle
+#O Martin Grant, 2017
+#C http://conwaylife.com/wiki/Period-92_glider_gun
+#C http://www.conwaylife.com/patterns/period92glidergun.rle
+x = 46, y = 25, rule = B3/S23
+4b2o14bo$5bo13bobo$5bobo11bobo$6b2o2b2o5b3ob2o20b2o$10b2o4bo26b2o$17b
+3ob2o8bo$19bob2o4b2o2bo$7b2obobo13bo5bo11b2o$7b2obobo12b2o2bobo12b2o$
+7b2o3bo13b2o3bo$7b2o4b2o6b2o4b3o$o6b2o5b2o5b2o$3o7b3obo12b3o$3bo5b2o3b
+obobo7b2o3bo$2bobo6bo2bo3bo6b2o2bobo12b2o$2b2o7bobo2bobo7bo5bo11b2o$
+27b2o2bo$2b2o27bo$2bo40b2o$4bo38b2o$3b2o$8b2o$9bo21bo$6b3o23bo$6bo23b
+3o!

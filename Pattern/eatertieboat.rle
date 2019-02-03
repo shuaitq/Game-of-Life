@@ -1,0 +1,5 @@
+#N eatertieboat.rle
+#C http://conwaylife.com/wiki/Boat_tie_eater_head
+#C http://conwaylife.com/patterns/eatertieboat.rle
+x = 7, y = 7, rule = B3/S23
+5bo$4bobo$4b2o$2b2o$bobo$bo$2o!

@@ -1,0 +1,7 @@
+#N f171.rle
+#O Brice Due, 2006
+#C http://conwaylife.com/wiki/F171
+#C http://www.conwaylife.com/patterns/f171.rle
+x = 33, y = 35, rule = B3/S23
+10bo$10b3o$13bo$12b2o$5bo$5b3o$8bo$7b2o2$30bo$4b2o24bo$5bo24b3o$5bobo
+24bo$6b2o3$o$3o$3bo$2b2o7$bo$bobo$b3o$3bo2$10b2o$11bo$8b3o$8bo!

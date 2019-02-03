@@ -1,0 +1,16 @@
+#N Seal tagalong
+#O Nicolay Beluchenko 
+#C Seal tagalong discovered 22 September 2005
+#C http://www.conwaylife.com/wiki/Seal
+#C http://www.conwaylife.com/patterns/sealtagalong.rle
+x = 55, y = 55, rule = B3/S23
+2b2o$b3ob3o$3bo3b2o$2ob2o2bo2bobo$o6bob4o$6b2obo2bo$o4b2o3bob2o$2o8bob
+o2bo$o2b5ob3o4bo$bo9bo4bo$b2obo2bo3bo3bo$2bo9b2o$9b2o2b2o4bo$2bo3b2obo
+4b3o2bo$3b2obob5o5bob2o$7b2ob2ob2ob2o2b3o$17bobo4bo$8b2o4bobo3b6o$13bo
+7b2o$13bo3bo$13bo4bo3b3o6bo$14b5o3b2ob2o2b2ob2o$17b2obo2bob2o2bo$16b2o
+5bo4bo2b3o$15b3obobobobo$22bo2bo$18bobo9bo3bo$19bo8b6obo$26b2o3b4obo$
+21b3o5bo4bo3bo$21b3o2b3o6bo3bo$26bo9b2ob2o$20b2o13b2o2bo2b2o$20b2o3bo
+8bobo4bo2bo$21bo3bobo5bo$26b3o4bobo5bob2o$28b3o2b2o9bo$32b2o5bobo2b2o$
+29b2obo4b2obobob2o$30bob2o3bob2o4bo$37bobo$37b2obo2b2o$31bo3bo3b3o3bo$
+31b2o2bo2bo4bo2bo$35b2o5bo5b3o$37bo4b5obo$38bo2b2o2bo5bo$49bob2o$44bo
+4bo$44bo5b2ob2o$43bo2b2o$44b3o$46bob2o$48bo$47bo!

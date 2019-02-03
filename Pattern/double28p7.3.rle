@@ -1,0 +1,6 @@
+#N double28p7.3.rle
+#C http://conwaylife.com/wiki/28P7.3
+#C http://conwaylife.com/patterns/double28p7.3.rle
+x = 11, y = 18, rule = B3/S23
+8bobo$7bob2o$3b2o2bo$3bobobob2o$4b2obob2o$5bo2bo$6bobo$6bobo$6b2o$3b2o
+$2bobo$2bobo$2bo2bo$2obob2o$2obobobo$3bo2b2o$2obo$obo!

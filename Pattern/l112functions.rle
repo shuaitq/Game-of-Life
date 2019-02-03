@@ -1,0 +1,11 @@
+#N l112functions.rle
+#C http://conwaylife.com/wiki/L112
+#C http://conwaylife.com/patterns/l112functions.rle
+x = 50, y = 108, rule = B3/S23
+15b2o$6b2o7b2o$7bo$7bobo$2b2o4b2o$3bo20b2o$3bobo18bo$4b2o16bobo$22b2o
+6$4bo$4bobo$4b3o$6bo2$11b2o$11b2o10$24bo$23b2o$23bobo5$15b2o$6b2o7b2o$
+7bo32bo$7bobo31bo$2b2o4b2o29b2o$3bo20b2o$3bobo18bo$4b2o16bobo$22b2o6$
+4bo$4bobo$4b3o$6bo13$b2o$obo$2bo5$15b2o$6b2o7b2o$7bo32bo$7bobo31bo$2b
+2o4b2o29b2o$3bo20b2o$3bobo18bo$4b2o16bobo$22b2o6$4bo$4bobo$4b3o$6bo4$
+49bo$47b3o$30b2o15bo$30b2o15bo2$11bo$10bobo$9bo2bo$bo8b2o$b2o24b2o$obo
+24bo$28bo$27b2o!

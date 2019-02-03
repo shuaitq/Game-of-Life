@@ -1,0 +1,5 @@
+#N ciscarrierdownontable.rle
+#C http://conwaylife.com/wiki/Cis-aircraft_carrier_down_on_table
+#C http://conwaylife.com/patterns/ciscarrierdownontable.rle
+x = 6, y = 6, rule = B3/S23
+4b2o$5bo$2obo$bob2o$bo$2o!

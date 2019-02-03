@@ -1,0 +1,7 @@
+#N smiley_synth
+#O Matthias Merzenich
+#C Glider synthesis of smiley
+#C http://conwaylife.com/wiki/smiley
+x = 28, y = 46, rule = B3/S23
+2bo$obo$b2o6$22bobo$16bo5b2o$14bobo6bo$15b2o9$20bo$21bo$19b3o4$26bo$
+25b2o$15b3o7bobo$17bo$16bo10$26bo$25b2o$25bobo$10bo$10b2o$9bobo!

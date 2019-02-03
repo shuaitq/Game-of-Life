@@ -1,0 +1,7 @@
+#N filterstream.rle
+#C http://conwaylife.com/wiki/Filter_stream
+#C http://www.conwaylife.com/patterns/filterstream.rle
+x = 62, y = 34, rule = B3/S23
+42bo$43bo$41b3o5$49bo$50bo$48b3o5$56bo$57bo$55b3o13$2bo13bo27bo13bo$o
+3bo9bo3bo23bo3bo9bo3bo$5bo13bo27bo13bo$o4bo8bo4bo22bo4bo8bo4bo$b5o9b5o
+23b5o9b5o!

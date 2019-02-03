@@ -1,0 +1,11 @@
+#N 246p3.rle
+#C http://conwaylife.com/wiki/258P3
+#C http://conwaylife.com/patterns/246p3.rle
+x = 28, y = 24, rule = B3/S23
+13b2o2$3b2o3bob2o4b2obo3b2o$2bo3bobo3b4o3bobo3bo$2bobo5bo2b2o2bo5bobo$
+b2o6b2o2b2o2b2o6b2o$o2b3o4b2o4b2o4b3o2bo$2o4b3o3b4o3b3o4b2o$2b3ob3o10b
+3ob3o$2o5bo4b4o4bo5b2o$bobo3b2o10b2o3bobo$o2b3o3bo2bo2bo2bo3b3o2bo$b2o
+3b2o3b6o3b2o3b2o$2bobo4b2o2b2o2b2o4bobo$2bob2obobo3b2o3bobob2obo$b2o2b
+ob5o4b5obo2b2o$o2bob2o4b6o4b2obo2bo$bobobobobo8bobobobobo$2obo6b8o6bob
+2o$3b2o2b2o10b2o2b2o$2obo2bo2b3ob2ob3o2bo2bob2o$o3b2o2bo2bob2obo2bo2b
+2o3bo$b3o5b2o6b2o5b3o$3bo20bo!

@@ -1,0 +1,5 @@
+#N eaterwithheadfeather.rle
+#C http://conwaylife.com/wiki/Eater_with_head_feather
+#C http://conwaylife.com/patterns/eaterwithheadfeather.rle
+x = 7, y = 5, rule = B3/S23
+2o$bo2bo$bobobo$2b2o2bo$5b2o!

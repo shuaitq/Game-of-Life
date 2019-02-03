@@ -1,0 +1,5 @@
+#N terriblylongboat.rle
+#C http://conwaylife.com/wiki/Terribly_long_boat
+#C http://conwaylife.com/patterns/terriblylongboat.rle
+x = 8, y = 8, rule = B3/S23
+6bo$5bobo$4bobo$3bobo$2bobo$bobo$obo$2o!

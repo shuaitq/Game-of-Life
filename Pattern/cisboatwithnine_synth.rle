@@ -1,0 +1,7 @@
+#N cisboatwithnine_synth.rle
+#C http://conwaylife.com/wiki/Cis-boat_with_nine
+#C http://conwaylife.com/patterns/cisboatwithnine_synth.rle
+x = 103, y = 15, rule = B3/S23
+76bo$75bo$75b3o2$41b2o30b2o$37bo3b2o26bo3b2o26bo$36bobo29bobo29bobo$
+35bob2o28bob2o28bob2o$35bo31bo31bo$obo8bo21bobo29bobo29bobo$b2o8bobo
+19b2o30b2o30b2o$bo9b2o2b3o$8b2o5bo$7bobo6bo$9bo!

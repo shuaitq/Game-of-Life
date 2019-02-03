@@ -1,0 +1,25 @@
+#N cisblockonlonghook_synth.rle
+#C http://conwaylife.com/wiki/Cis-block_on_long_hook
+#C http://conwaylife.com/patterns/cisblockonlonghook_synth.rle
+#C 4-glider synthesis of cis-block on long hook,
+#C with other syntheses from Mark Niemiec's database at
+#C http://conwaylife.com/ref/mniemiec/12/12-28.rle
+x = 157, y = 139, rule = b3/s23
+128bo$126bobo$127b2o6bo19b2o$135bobo14bo3bo$135b2o15b4o2$154b2o$154b2o
+$132bo3bo$130bobob2o$131b2o2b2o16$125bo9bo$123bobo8bo$24bo99b2o8b3o$
+25bo$23b3o99bo10bo$16b3o106b2o8b2o$18bo3b3o20b2o58b2o17bobo8bobo17b2o$
+17bo4bo19bo3bo55bo3bo45bo3bo$23bo18b4o56b4o46b4o$77bo$44b2o29bobo2bo
+23b2o48b2o$44b2o30b2o2bobo21b2o48b2o$80b2o42b3o$126bo$125bo2$74b2o65b
+2o$75b2o64bobo$74bo66bo5$b2o$obo57b2o$2bo56bobo$29b2o30bo$29bobo58b2o$
+29bo60bobo$90bo11$133bobo$93bo39b2o$94bo39bo$92b3o$96bo32bo$95bo34b2o$
+35b2o58b3o17b2o12b2o4b2o18b2o$15b3o17b2o78b2o9b2o7b2o15bo3bo$15bo109bo
+bo24b4o$16bo37bo72bo$13b2o19b2o16bobo19b2o18b2o18b2o18b2o18b2o$12bobo
+19b2o17b2o19b2o18b2o18b2o18b2o18b2o$14bo35b2o$49bobo$51bo18$139bo$138b
+o$90bo3bo43b3o$91b2obobo$90b2o2b2o16bo19bo3b2o17b2o$111bobo17bobo2bobo
+13bo3bo$96b3o13bo19bo3bo15b4o$96bo$97bo56b2o$133b2o19b2o$132bobo$134bo
+$137b2o$137bobo$137bo7$18bo106b3o$17bo109bo3bo$17b3o106bo2b2o$35b2o18b
+2o18b2o18b2o18b2o13b2o3b2o18b2o$16bo19bo19bo19bo19bo19bo19bo15bo3bo$
+15b2o16b3o6bo10b3o17b3o17b3o17b3o17b3o16b4o$15bobo15bo9b2o8bo18bo19bo
+19bo19bo$42b2o18bobo8b3o17b3o17b3o17b3o18b2o$62b2o11bo5b2o12bo5b2o12bo
+13bo5bo18b2o$63bo17b2o18b2o26b2o$104b3o21bobo$49b2o9b2o42bo$48bobo8b2o
+44bo$50bo10bo$52b3o$52bo$53bo$65bo$64b2o$64bobo!

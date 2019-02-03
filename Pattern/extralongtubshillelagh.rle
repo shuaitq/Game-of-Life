@@ -1,0 +1,5 @@
+#N extralongtubshillelagh.rle
+#C http://conwaylife.com/wiki/Tub_with_remarkably_long_tail
+#C http://conwaylife.com/patterns/extralongtubshillelagh.rle
+x = 5, y = 9, rule = B3/S23
+2bo$bobo$2bobo$4bo$3bo$2bo$bo$o$2o!

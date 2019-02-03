@@ -1,0 +1,9 @@
+#N jormungantsgtoh.rle
+#O Louis-Francois Handfield, 2018
+#C http://conwaylife.com/wiki/Jormungant%27s_G-to-H
+#C http://conwaylife.com/patterns/jormungantsgtoh.rle
+x = 27, y = 57, rule = B3/S23
+15bo$16bo$14b3o8$18bo$o11b2o2b2o$3o9b2o3b2o$2bo$2bo2$19b2obo$20bob3o$
+18bobo4bo$17bob2o3b2o$17bo$16b2o11$16bo$15bobo$15bobo$13b3ob2o$12bo$
+13b3ob2o$15bob2o7$18bo6bo$o11b2o2b2o6b2o$3o9b2o3b2o5bobo$2bo$2bo2$19b
+2obo$20bob3o$18bobo4bo$17bob2o3b2o$17bo$16b2o!

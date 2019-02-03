@@ -1,0 +1,13 @@
+#N bx106.rle
+#O David Buckingham
+#C http://conwaylife.com/wiki/Bx106
+#C http://conwaylife.com/patterns/bx106.rle
+x = 90, y = 58, rule = B3/S23
+43bo$41b3o$40bo$27b2o11b2o$27b2o$61bo$52b2o5b3o$52b2o4bo$58b2o2$42bo$
+42bo14b2o$40b3o9b2o3b2o$40bo11b2o7$27b2o5b2o$16b2o10bo6bo$17bo7b3o7bob
+o$16bo8bo10b2o$16b2o64bo$8bo71b3o$8b3o68bo$11bo67b2o$10b2o55bo$67b3o$
+19b2o15bo21b2o10bo$19b2o15bobo19bo10b2o$36b3o20b3o$38bo16bo5bo$55b3o
+25b2o$58bo24b2o$57b2o4$25b2o$24bo2bo$25bobo$26bo$88b2o$45b2o11bob2o26b
+2o$40b2o3b2o9b3ob2o$3bob2o18b2o13b2o14bo$b3ob2o18bobo28bo$o26bo$b3ob2o
+20b2o10b2o$3bobo34bo4b2o38b2o$3bobo31b3o5b2o38bo$4b2ob2o28bo48bo$6bobo
+76b2o$6bo14b2o$5b2o14bo$19b3o!

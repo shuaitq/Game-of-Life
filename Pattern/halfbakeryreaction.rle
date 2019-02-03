@@ -1,0 +1,7 @@
+#N halfbakeryreaction.rle
+#C http://conwaylife.com/wiki/Half-bakery_reaction
+#C http://www.conwaylife.com/patterns/halfbakeryreaction.rle
+x = 68, y = 71, rule = B3/S23
+66bo$65bo$65b3o12$45bo$43b2o$44b2o22$37bo$36bo$36b3o12$16bo$14b2o$15b
+2o2$20b2o$19bo2bo$19bobo$17b2obo$16bo2bo$16bobo$17bo2$4b2o$3bo2bo$3bob
+o$b2obo$o2bo$obo$bo!

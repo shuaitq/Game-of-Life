@@ -1,0 +1,6 @@
+#N pdpairreflector.rle
+#C http://conwaylife.com/wiki/PD-pair_reflector
+#C http://www.conwaylife.com/patterns/pdpairreflector.rle
+x = 45, y = 30, rule = B3/S23
+43bo$42bo$42b3o9$14b3o2$13bo3bo$13bo3bo2$14b3o3$14b3o2$13bo3bo$13bo3bo
+$20bo$14b3o3bobo$20b2o2$o2bob2obo2bo$4ob2ob4o$o2bob2obo2bo!

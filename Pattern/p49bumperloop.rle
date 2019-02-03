@@ -1,0 +1,12 @@
+#N p49bumperloop.rle
+#C http://conwaylife.com/wiki/P49_bumper_loop
+#C http://conwaylife.com/patterns/p49bumperloop.rle
+x = 40, y = 40, rule = B3/S23
+12bo$12b3o13bo3bo$3bo11bo8bo2bobobobo2bo$2b2o10b2o8bobo2bobo2bobo$10b
+2o13bo2b2ob2o2bo$bobo2b3ob2o17bobo$bo5bo12b2o4b2o5b2o$2b5o12b3o4bo7bo$
+19bo8bo3bo$2b5o12b2o$bo5bo17bo2bo3bo2bo$bobo2b3ob2o14b2o5b2o$10b2o$2b
+2o34b2o$3bo34bo$36bobo$36b2o$7bo$5b2o2bo$8b2o$30b2o$30bo2b2o$32bo$2b2o
+$bobo$bo34bo$2o34b2o$28b2o$5b2o5b2o14b2ob3o2bobo$4bo2bo3bo2bo17bo5bo$
+19b2o12b5o$7bo3bo8bo$5bo7bo4b3o12b5o$5b2o5b2o4b2o12bo5bo$8bobo17b2ob3o
+2bobo$4bo2b2ob2o2bo13b2o$3bobo2bobo2bobo8b2o10b2o$3bo2bobobobo2bo8bo
+11bo$7bo3bo13b3o$27bo!

@@ -1,0 +1,7 @@
+#N biblockfuse.rle
+#C http://conwaylife.com/wiki/Bi-block_fuse
+#C http://www.conwaylife.com/patterns/biblockfuse.rle
+x = 47, y = 5, rule = B3/S23
+2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o$2o2b2o2b2o2b2o2b2o2b2o
+2b2o2b2o2b2o2b2o2b2obo2bo$44b2o$2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o
+2b2o$2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o!

@@ -1,0 +1,8 @@
+#N semicenark42tickrecovery.rle
+#C http://conwaylife.com/wiki/Semi-cenark
+#C http://www.conwaylife.com/patterns/semicenark42tickrecovery.rle
+x = 37, y = 37, rule = B3/S23
+obo$b2o$bo7$9bobo$10b2o$10bo$13bo$14b2o$13b2o$29bo$27b3o$26bo$26b2o3$
+22bo$14b2o7b2o2bo6b3o$14bo2bo4b2o2bobo7bo$12b2o2b2o8b2o7bo$11bo2b2o$
+11b2o3b2o$16bobo$17bo$34b2o$32bo2bo$21b2o9b3o$22bo6bo$19b3o7b4o$19bo
+12bo$31bo$31b2o!

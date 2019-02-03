@@ -1,0 +1,6 @@
+#N fumaroleonrichsp16.rle
+#C http://conwaylife.com/wiki/Fumarole_on_Rich%27s_p16
+#C http://conwaylife.com/patterns/fumaroleonrichsp16.rle
+x = 13, y = 20, rule = B3/S23
+4bo3bo$2b2obobob2o$bo3bobo3bo$o3b2ob2o3bo$obo7bobo$bo9bo2$4b2ob2o$3bob
+obobo$4bo3bo5$7b2o$5b2o2b2o$5bo4bo$6bo2bo$4bobo2bobo$4b2o4b2o!

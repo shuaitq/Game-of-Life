@@ -1,0 +1,5 @@
+#N extralongcanoe.rle
+#C http://conwaylife.com/wiki/Extra_long_canoe
+#C http://conwaylife.com/patterns/extralongcanoe.rle
+x = 8, y = 8, rule = B3/S23
+6b2o$5bobo$4bo$3bo$2bo$bo$o$2o!

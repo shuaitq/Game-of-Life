@@ -1,0 +1,12 @@
+#N minimalsnarktromboneslide.rle
+#C http://conwaylife.com/wiki/Trombone_slide
+#C http://www.conwaylife.com/patterns/minimalsnarktromboneslide.rle
+x = 49, y = 64, rule = B3/S23
+22b2o3b2o$22b2o2bob3o$26bo4bo$22b4ob2o2bo$22bo2bobobob2o$25bobobobo$
+26b2obobo$30bo2$16b2o$17bo7b2o$17bobo5b2o$18b2o3$45bo$43b3o$42bo$42b2o
+$28b2o$28bo$29b3o14b3o$31bo16bo$47bo2$32b2o$4bo26bobo5b2o$2b5o14b2o8bo
+7b2o$bo5bo13bo8b2o$bo2b3o12bobo$2obo15b2o23bo$o2b4o33b2obobo$b2o3bo3b
+2o27bobobobo$3b3o4b2o24bo2bobobob2o$3bo32b4ob2o2bo$2obo36bo4bo$2ob2o
+31b2o2bob3o$36b2o3b2o2$11b2o$12bo20bo$9b3o3b2o14b5o$9bo6bo13bo5bo$16bo
+bo12b3o2bo$17b2o15bob2o$31b4o2bo$26b2o3bo3b2o$26b2o4b3o$34bo$34bob2o$
+33b2ob2o3$25b2o$25bo$26b3o$28bo5$6b3o$8bo$7bo!

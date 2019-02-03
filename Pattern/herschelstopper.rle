@@ -1,0 +1,10 @@
+#N herschelstopper.rle
+#O Dean Hickerson, 1996
+#C http://conwaylife.com/wiki/Herschel_stopper
+#C http://www.conwaylife.com/patterns/herschelstopper.rle
+x = 94, y = 58, rule = B3/S23
+43bo$41b3o34b2o$17bo22bo26bo10bo$17b3o20b2o25b3o9bo$20bo49bo7b2o$19b2o
+48b2o2$o49bo$3o47b3o$3bo49bo$2b2o11b2o11bo23b2o11b2o11bo$15b2o9b3o36b
+2o9b3o$26bo49bo$26bo49bo15b2o$92b2o3$bo49bo$bobo47bobo$b3o36b2o9b3o$3b
+o23b2o11b2o11bo23b2o$28bo49bo$25b3o47b3o$25bo49bo2$44b2o$45bo$15b2o25b
+3o20b2o$15bo26bo22bo$16b3o47b3o$18bo49bo25$28bo$28b2o$27bobo!

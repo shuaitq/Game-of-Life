@@ -1,0 +1,23 @@
+#N htog0stamp.rle
+#C http://conwaylife.com/wiki/H-to-G0
+#C http://conwaylife.com/patterns/htog0stamp.rle
+x = 208, y = 96, rule = B3/S23
+7b2o58b2o$8bo59bo$8bobo57bobo$9b2o58b2o4$30b2o58b2o$30b2o58b2o$51b2o$
+9bo41bo17bo$9bobo41bo15bobo$9b3o21b2o14b5o15b3o$11bo19bo2bo13bo22bo$
+31b2obobo12b3o37b2o25b2o$33bob2o15bo35bo2bo24bo$33bo15b4o35bobo23bobo$
+31b3o10b2o3bo3b2o34bo24b2o$2b2o26bo13b2o4b3o2bo6b2o$3bo26b2o20bob2o7bo
+$3o49bo7b3o$o17b2o31b2o7bo$19bo$16b3o$16bo26b2o$43bo34b2o13b2o$20b2o
+22b3o26b2o3b2o13b2o$19bobo5b2o17bo26b2o$19bo7b2o123bo$18b2o132b3o$72b
+2o81bo$32bo40bo4b2o35b2o37b2o$28b2obobo36b3o5b2o35bo$27bobobobo36bo45b
+3o$24bo2bobobobob2o65b2o14bo$24b4ob2o2bo2bo66bo$28bo4b2o65b3o7b2o$26bo
+bo71bo9b2o$26b2o7$182b2o$182bobo$121b2o60bo22b2o$121b2o77bo5bo$131b2o
+66bobo2bobo$131bo68b2o2b2o$129bobo$129b2o3$132b2o$131bobo38b2o$132bo
+38bobo$171bo29b2o$170b2o29b2o2$83b2o$83bo2b2o$84b2ob3o$16b2o72bo$17bo
+66b2ob3o$17bobo64b2obo$18b2o$176b2o$12b2o118b2o3bo11bo26b2o$12bo119b2o
+3b3o7b3o$13b3o124bo5bo6bo$15bo75b2o46b2o5b2o3b3o$7b2o58b2o22bo58bo16b
+2o$8bo59bo20bobo58b2o16bo20b2o$8bobo17b2o38bobo18b2o77bobo18bo$9b2o17b
+obo38b2o51b2o45b2o16bobo$30bo91b2o63b2o$30b2o$153b2o$153b2o3$9bo59bo
+59bo39bo$9bobo57bobo57bobo16b2o19bobo$9b3o16b2o39b3o57b3o16b2o19b3o$
+11bo16bo42bo59bo11b2o26bo$26bobo114bo$17bo8b2o53b2o61b3o34b2o$16bobo2b
+o59b2o2b2o59bo34b2o2b2o$17bo3b3o61bobo97bobo$24bo62bo99bo$19b4ob3o60b
+2o98b2o$19bo2bo4bo$24b3o$23b2o!

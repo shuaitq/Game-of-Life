@@ -1,0 +1,6 @@
+#N biloaf4_synth
+#O
+#C Glider synthesis of bi-loaf 4
+#C http://conwaylife.com/wiki/Bi-loaf_4
+x = 10, y = 10, rule = B3/S23
+8bo$7bo$3bo3b3o$4bo$2b3o2$5bo$b2o2bobo$obo2b2o$2bo!

@@ -1,0 +1,8 @@
+#N byflops_synth
+#O Chris Cain, Goldtiger997
+#C Glider synthesis of by flops
+#C http://conwaylife.com/wiki/by_flops
+x = 70, y = 53, rule = B3/S23
+bo$2bo$3o10$6bo$4bobo$5b2o62bo$67b2o$68b2o14$21bobo$22b2o$22bo$26bo$
+27b2o$26b2o2bobo$30b2o$31bo8$33bo$34bo$32b3o2$37b2o$31b3o2b2o$31bo6bo$
+32bo!

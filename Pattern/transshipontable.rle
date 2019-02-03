@@ -1,0 +1,5 @@
+#N transshipontable.rle
+#C http://conwaylife.com/wiki/Trans-ship_on_table
+#C http://conwaylife.com/patterns/transshipontable.rle
+x = 6, y = 5, rule = B3/S23
+2o$obob2o$b2obo$4bo$4b2o!

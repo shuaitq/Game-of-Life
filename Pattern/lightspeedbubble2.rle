@@ -1,0 +1,16 @@
+#N lightspeedbubble2.rle
+#C http://conwaylife.com/wiki/Lightspeed_bubble
+#C http://www.conwaylife.com/patterns/lightspeedbubble2.rle
+x = 61, y = 49, rule = B3/S23
+3bo2bo2bo2bo2bo2bo2bo2bo2bo2bo2bo2bo2bo2bo2bo2bo2bo2bo2bo$b59o$o59bo$b
+59o2$b59o$o53bo5bo$b20o2b3o2b3o2b3o2b8o2b4o3b5o$22b2o3b2o3b2o3b2o8b2o
+5bo$b20o3b2o3b2o3b2o3b7o3bob2o2b5o$o41bo8b2o7bo$b20o22b2obo6b7o$43bo
+12bo$b20o22bo13b3o$o42b2o5b2o4bo3bo$b20o22b2o3b2o3bob5o$43bo2bob2o3bo$
+b20o22bo6b2o3b5o$o42b2o10bo4bo$b20o22b2o10b5o$43bo6b2obo$b20o22bo2bob
+2o3bob5o$o42b2o3b2o6bo3bo$b20o22b2o5b2o5b3o$43bo12bo$b20o22bo11b5o$o
+42b2o5b2ob2o5bo$b20o22b2o3b2o3b2o2b3o$43bo2bob2o5b2o$b20o22bo6b2o4b4o$
+o42b2o15bo$b20o22b2o11b4o$43bo6b2o3b2o$b20o22bo2bob2o3b2o2b3o$o42b2o3b
+2o3b2o5bo$b20o22b2o5b2o3b5o$43bo12bo$b22o5bo5bo5bo2bobo11b3o$o25b2o4b
+2o4b2o3bo3bobo7bo2bo$b24ob2ob2ob2ob2ob2ob9o7b3o$56bo$b49o3b7o$o50b2o7b
+o$b49o2b8o2$b59o$o59bo$b59o$3bo2bo2bo2bo2bo2bo2bo2bo2bo2bo2bo2bo2bo2bo
+2bo2bo2bo2bo2bo!

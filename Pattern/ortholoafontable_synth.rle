@@ -1,0 +1,7 @@
+#N ortholoafontable_synth.rle
+#C http://conwaylife.com/wiki/Ortho-loaf_on_table
+#C http://conwaylife.com/patterns/ortholoafontable_synth.rle
+x = 100, y = 15, rule = B3/S23
+7bo$7bobo$7b2o2$6bo45bo$7bo45bo$bo3b3o43b3o$b2o20b2o30b2o$obo19bobo29b
+obo$10b2o10b2o30b2o$10bobo18bo31bo31bo$10bo19bobob2o26bobob2o26bobob2o
+$29bo2bobo26bo2bobo26bo2bobo$30b2o2bo27b2o2bo27b2o2bo$34b2o30b2o30b2o!

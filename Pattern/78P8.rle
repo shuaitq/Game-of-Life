@@ -1,0 +1,7 @@
+#N 78P8.rle
+#C http://conwaylife.com/wiki/230P8
+#C http://conwaylife.com/patterns/78P8.rle
+x = 14, y = 15, rule = B3/S23
+6b2o$2b2o6b2o$bo10bo$bobo6bobo$2obob4obob2o$3bob4obo$2obo6bob2o$bobo2b
+2o2bobo$bo2bob2obo2bo$2bob2o2b2obo$b2ob2o2b2ob2o2$b2o2b4o2b2o$obo2bo2b
+o2bobo$bo10bo!

@@ -1,0 +1,5 @@
+#N vsparkblocktoglider.rle
+#C http://conwaylife.com/wiki/V_spark
+#C http://www.conwaylife.com/patterns/vsparkblocktoglider.rle
+x = 5, y = 4, rule = B3/S23
+bo$2o2bo$3bo$4bo!

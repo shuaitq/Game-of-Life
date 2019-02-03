@@ -1,0 +1,8 @@
+#N p36shuttle.rle
+#O carybe, 2018
+#C http://conwaylife.com/wiki/P36_shuttle
+#C http://conwaylife.com/patterns/p36shuttle.rle
+x = 30, y = 30, rule = B3/S23
+14b2o$14b2o4$15b2o$14b2obo$16bo4$15bobo$14b2o2bo4bo$14bo7bobo$2o4bo5b
+2o3b2o4b2o3b2o$2o3b2o4b2o3b2o5bo4b2o$5bobo7bo$6bo4bo2b2o$12bobo4$13bo$
+12bob2o$13b2o4$14b2o$14b2o!

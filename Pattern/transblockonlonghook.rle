@@ -1,0 +1,5 @@
+#N transblockonlonghook.rle
+#C http://conwaylife.com/wiki/Trans-block_on_long_hook
+#C http://conwaylife.com/patterns/transblockonlonghook.rle
+x = 5, y = 6, rule = B3/S23
+3b2o$o3bo$4o2$2o$2o!

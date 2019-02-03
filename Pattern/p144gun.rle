@@ -1,0 +1,9 @@
+#N p144gun.rle
+#O Chris Cain, 2016
+#C http://conwaylife.com/wiki/Period-144_glider_gun
+#C http://www.conwaylife.com/patterns/p144gun.rle
+x = 35, y = 33, rule = B3/S23
+$26b2o$25bo2bo$24bo2bo$24bo6bo$23bo2bo3bobo$24b3o3b2o2$24b3o3b2o$23bo
+2bo3bobo$24bo6bo$24bo2bo$25bo2bo$26b2o$b2o$b2o$7bo$5b2o$6b2o$7bo$10b2o
+$10bo$10bo2bo$11b2o4b2o$16bo2bo$19bo$18b2o$22bo$22b2o10bo$23b2o7bobo$
+22bo10b2o$b2o24b2o$b2o24b2o!

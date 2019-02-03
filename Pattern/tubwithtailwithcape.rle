@@ -1,0 +1,5 @@
+#N tubwithtailwithcape.rle
+#C http://conwaylife.com/wiki/Tub_with_tail_with_cape
+#C http://conwaylife.com/patterns/tubwithtailwithcape.rle
+x = 7, y = 5, rule = B3/S23
+bo$obo2b2o$bobo2bo$3bobo$3b2o!

@@ -1,0 +1,5 @@
+#N originalsbmpull.rle
+#C http://conwaylife.com/wiki/Sliding_block_memory
+#C http://www.conwaylife.com/patterns/originalsbmpull.rle
+x = 12, y = 9, rule = B3/S23
+2o$2o4$9b3o$3o6bo$o9bo$bo!

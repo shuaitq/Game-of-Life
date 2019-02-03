@@ -1,0 +1,21 @@
+#N extraglider.rle
+#C http://conwaylife.com/wiki/Fx77
+#C http://conwaylife.com/patterns/extraglider.rle
+x = 84, y = 160, rule = B3/S23
+o54bo$3o52b3o$3bo54bo$2b2o11b2o11bo28b2o11b2o11bo$15b2o9b3o41b2o9b3o$
+26bo54bo$26bo54bo4$bo54bo$bobo52bobo$b3o52b3o$3bo54bo6$3bo6bobo49b2o$
+3b3o7bo50bo5bo$6bob2obo3bo47bo2b2o3bo$5bo6b2obo46bo3bo4bo$5b2o3b3o4bo
+43bo2bo3bobo$5b2obo3b2obo2bo43b4o$4b3obo2bo3bob2o$10bo2bob2o45b4o$11b
+2obo3b3o40bo2bo3bobo$9bobo2bobobo2bo40bo3bo4bo$9b2o2b2ob2o2b2o41bo2b2o
+3bo$64bo5bo$62b2o12$o54bo$3o52b3o$3bo54bo$2b2o11b2o11bo28b2o11b2o11bo$
+15b2o9b3o41b2o9b3o$26bo54bo$26bo54bo4$bo54bo$bobo52bobo$b3o52b3o$3bo
+54bo7$10b3o49b2o$58b2o2b2o2b2o$9bo3bo44bobo2bo2b2o$9bo3bo45b3o$60b2o$
+9bo3bo$8bob3obo$8bo5bo$7b2obobob2o$6bo2b2ob2o2bo$6b2o7b2o13$o54bo$3o
+52b3o$3bo54bo$2b2o11b2o11bo28b2o11b2o11bo$15b2o9b3o41b2o9b3o$26bo54bo$
+26bo54bo4$bo54bo$bobo52bobo$b3o52b3o$3bo54bo8$62b2o$8b7o42b2o2b2obo5b
+2o$6b3ob3ob3o40b2o3bobo5b2o$5bo4b3o4bo46bo$5bob3obob4o49bo$6bo$8bobobo
+b2obo48bo$7b2obobobob2o46bo$8bobo2bo43b2o3bobo5b2o$8bo2b2o44b2o2b2obo
+5b2o$7b2o53b2o12$o54bo$3o52b3o$3bo54bo$2b2o11b2o11bo28b2o11b2o11bo$15b
+2o9b3o41b2o9b3o$26bo54bo$26bo54bo4$bo54bo$bobo52bobo$b3o52b3o$3bo54bo
+7$7b2o$7b2o2b2o$5b2obo2b2o$5b3o57b3o$65bobo$65b3o$6b2o57b3o$6b2o57b3o$
+65b3o$65bobo$65b3o!

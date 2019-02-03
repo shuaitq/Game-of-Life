@@ -1,0 +1,26 @@
+#N weekender_synth.rle
+#O Chris Cain
+#C 79-glider synthesis of weekender spaceship.
+#C Used for Cain's p444 weekender gun.
+#C www.conwaylife.com/forums/viewtopic.php?p=23009#p23009
+#C www.conwaylife.com/wiki/Weekender
+x = 188, y = 177, rule = B3/S23
+160bo$160bobo$7bo152b2o8bo$5bobo160b2o$6b2o161b2o9bo$179bo$179b3o$31bo
+$29bobo$30b2o$170bo$168b2o$169b2o$4bo174bo$5b2o156bobo11b2o$4b2o157b2o
+13b2o$36bo127bo$34bobo$35b2o2$179bo$178bo$37bobo138b3o$38b2o$38bo4bo
+122bo$44bo107bobo11bobo$42b3o107b2o12b2o$153bo3$136bobo$38bobo95b2o16b
+o$39b2o96bo15bo$18bo20bo113b3o7bobo$16bobo24bobo117b2o$17b2o25b2o89bob
+o26bo$44bo5bo84b2o$51b2o83bo$50b2o2$55bo77bo$37bo18bo75bo12bo$35bobo
+16b3o75b3o10bobo$36b2o107b2o$128bo$127bo$43bobo81b3o7bobo$44b2o91b2o$
+44bo93bo$57bo60bo6bo$55bobo59bo7bobo$56b2o59b3o5b2o3$60bo61bo$61bo59bo
+$59b3o11bo47b3o$74bo$72b3o4$81bo$79bobo$80b2o2$75bo33bo$73bobo31b2o$
+74b2o3bo28b2o$80b2o$79b2o3$90bo$90bobo$79bo10b2o$77bobo39bo$78b2o37b2o
+$118b2o2$80bobo11bobo$81b2o11b2o$81bo13bo8$77b3o$79bo$78bo$92b3o$82bob
+o3b2o2bo$74bo8b2o4b2o2bo$74b2o7bo4bo$73bobo2$64b2o$63bobo17b2o5b3o$65b
+o18b2o6bo$83bo7bo$98b3o$98bo$99bo13b3o$113bo$114bo2$55b3o67b3o$57bo52b
+2o13bo$56bo53bobo13bo$110bo3$52b2o75b2o$53b2o23b3o27b2o18b2o$52bo27bo
+26b2o21bo$79bo29bo3$46bo89bo$40bo5b2o87b2o5bo$40b2o3bobo87bobo3b2o$39b
+obo99bobo16$158b2o$157b2o$159bo2$172b2o$171b2o$154b2o17bo$153b2o$155bo
+6$9b2o$10b2o$9bo173b3o$183bo$184bo2$9bo164bo$9b2o162b2o$8bobo162bobo$
+30bo$bo28b2o$b2o26bobo$obo$185b2o$185bobo$185bo$11b2o$10bobo$12bo162b
+2o$175bobo$163b3o9bo$163bo$164bo!

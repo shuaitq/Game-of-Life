@@ -1,0 +1,9 @@
+#N p104bshuttle.rle
+#O David Bell, 1996
+#C http://conwaylife.com/wiki/P104_B-heptomino_shuttle
+#C http://conwaylife.com/patterns/p104bshuttle.rle
+x = 39, y = 21, rule = B3/S23
+b2o8b2o$o2bo8bo7bo$o11bobo4bobo12bobo$o12b2o5bo12bo$ob2o5b2o23bo2bo$2b
+2o5b2o23bobobo$35bo2bo$36b2o$b2o14bo$b2o6b3o5b2o$9bo6bo4bo$9bobo7bob2o
+13b2o$10b2o3bo2b3ob2o11bo2bo$b2o13bo4bo13bo$o2bo31bo$obobo23b2o5bob2o$
+bo2bo23b2o7b2o$5bo12bo5b2o$2bobo12bobo4bobo$18bo7bo9b2o$26b2o8b2o!

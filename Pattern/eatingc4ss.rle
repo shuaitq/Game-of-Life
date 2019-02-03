@@ -1,0 +1,15 @@
+#N eatingc4ss.rle
+#C http://conwaylife.com/wiki/33P3.1
+#C http://conwaylife.com/patterns/eatingc4ss.rle
+x = 98, y = 60, rule = B3/S23
+2b2o$3bo$3bobo$4b2o4$23bo35bo35bo$21bo2b2o31bo2b2o31bo2b2o$19b3o33b3o
+33b3o$18bobo33bobo33bobo$18bob2o32bob2o32bob2o$17bo4bo30bo4bo30bo4bo$
+16b2o34b2o34b2o2$15bo4b2o29bo4b2o29bo4b2o$19bo35bo35bo$16b3o33b3o33b3o
+$18bo35bo35bo$19bo35bo35bo$18b2o34b2o34b2o$19bo35bo35bo$19b2o34b2o34b
+2o$b2o13bo2b2o31bo2b2o31bo2b2o$obo11b2o3bo30b2o3bo30b2o3bo$o15bo35bo
+35bo$bo7b2o$4bo3bo2bo$b2obobo2b2o$4bobo$b3o2bo$o5bob2o$2o5bo2bo$8b2o$
+15bo35bo35bo$13b2o3bo30b2o3bo30b2o3bo$15bo2b2o31bo2b2o31bo2b2o$18b2o
+34b2o34b2o$18bo35bo35bo$17b2o34b2o34b2o$18bo35bo35bo$17bo35bo35bo$15b
+3o33b3o33b3o$18bo35bo35bo$14bo4b2o29bo4b2o29bo4b2o2$15b2o34b2o34b2o$
+16bo4bo30bo4bo30bo4bo$17bob2o32bob2o32bob2o$17bobo33bobo33bobo$18b3o
+33b3o33b3o$20bo2b2o31bo2b2o31bo2b2o$22bo35bo35bo4$3b2o$2bobo$2bo$b2o!

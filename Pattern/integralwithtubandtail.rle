@@ -1,0 +1,5 @@
+#N integralwithtubandtail.rle
+#C http://conwaylife.com/wiki/Integral with tub and tail
+#C http://conwaylife.com/patterns/integralwithtubandtail.rle
+x = 6, y = 7, rule = B3/S23
+2bo$2b3o$5bo$2b3o$bo$obo$bo!

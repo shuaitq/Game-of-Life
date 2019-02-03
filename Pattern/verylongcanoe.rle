@@ -1,0 +1,5 @@
+#N verylongcanoe.rle
+#C http://conwaylife.com/wiki/Very_long_canoe
+#C http://conwaylife.com/patterns/verylongcanoe.rle
+x = 7, y = 7, rule = B3/S23
+5b2o$6bo$5bo$4bo$3bo$obo$2o!

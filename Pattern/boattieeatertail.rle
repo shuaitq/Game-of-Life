@@ -1,0 +1,5 @@
+#N boattieeatertail.rle
+#C http://conwaylife.com/wiki/Boat_tie_eater_tail
+#C http://conwaylife.com/patterns/boattieeatertail.rle
+x = 5, y = 7, rule = B3/S23
+b2o2b$bobob$3bob$3b2o$b2o2b$obo2b$bo!

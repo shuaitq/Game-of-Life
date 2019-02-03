@@ -1,0 +1,12 @@
+#N 230p8.rle
+#O Arie Paap, 2019
+#C http://conwaylife.com/wiki/230P8
+#C http://conwaylife.com/patterns/230p8.rle
+x = 49, y = 20, rule = B3/S23
+16b2o13b2o$12b2obo2bo3b2ob2o3bo2bob2o$13bob3obo2b2ob2o2bob3obo$10b3o6b
+o9bo6b3o$10bo2b6ob9ob6o2bo$11bo4bobobo5bo3bo5bo$14b2o3bo3b2o3b2o2b4o8b
+2o$bob5o8b2o4bo2bo6b3o7bo2bo$8b2obo3b2o5bo17b3o$o9bo2bo8bo13b2obo2bob
+2o$o9bo2bo8bo13b2obo2bob2o$8b2obo3b2o5bo17b3o$bob5o8b2o4bo2bo6b3o7bo2b
+o$14b2o3bo3b2o3b2o2b4o8b2o$11bo4bobobo5bo3bo5bo$10bo2b6ob9ob6o2bo$10b
+3o6bo9bo6b3o$13bob3obo2b2ob2o2bob3obo$12b2obo2bo3b2ob2o3bo2bob2o$16b2o
+13b2o!

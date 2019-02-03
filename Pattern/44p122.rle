@@ -1,0 +1,7 @@
+#N 44P12.2
+#O Unknown
+#C http://conwaylife.com/wiki/44P12.2
+#C http://conwaylife.com/patterns/44p122.rle
+x = 14, y = 14, rule = B3/S23
+7bo$6b2o$5b2o$4bo$3bob4o$2bobo4bo$b2obob2obo2b2o$2o2bob2obob2o$4bo4bob
+o$5b4obo$9bo$7b2o$6b2o$6bo!

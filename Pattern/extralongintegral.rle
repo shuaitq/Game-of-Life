@@ -1,0 +1,5 @@
+#N extralongintegral.rle
+#C http://conwaylife.com/wiki/Extra_long_integral
+#C http://conwaylife.com/patterns/extralongintegral.rle
+x = 4, y = 8, rule = B3/S23
+b2o$bobo$3bo$2bo$bo$o$obo$b2o!

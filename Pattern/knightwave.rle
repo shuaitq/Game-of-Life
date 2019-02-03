@@ -1,0 +1,27 @@
+#N Knightwave
+#O kiho park
+#C http://conwaylife.com/wiki/Knightwave
+#C http://conwaylife.com/patterns/knightwave.rle
+x = 319, y = 192, rule = B3/S23
+obo$o2bo$3o$5bobo$5bo2bo$5b3o$10bobo$10bo2bo$10b3o$15bobo$15bo2bo$15b
+3o$20bobo$20bo2bo$20b3o$25bobo$25bo2bo$25b3o$30bobo$30bo2bo$30b3o$35bo
+bo$35bo2bo$35b3o$40bobo$40bo2bo$40b3o$45bobo$45bo2bo$45b3o$50bobo$50bo
+2bo$50b3o$55bobo$55bo2bo$55b3o$60bobo$60bo2bo$60b3o$65bobo$65bo2bo$65b
+3o$70bobo$70bo2bo$70b3o$75bobo$75bo2bo$75b3o$80bobo$80bo2bo$80b3o$85bo
+bo$85bo2bo$85b3o$90bobo$90bo2bo$90b3o$95bobo$95bo2bo$95b3o$100bobo$
+100bo2bo$100b3o$105bobo$105bo2bo$105b3o$110bobo$110bo2bo$110b3o$115bob
+o$115bo2bo$115b3o$120bobo$120bo2bo$120b3o$125bobo$125bo2bo$125b3o$130b
+obo$130bo2bo$130b3o$135bobo$135bo2bo$135b3o$140bobo$140bo2bo$140b3o$
+145bobo$145bo2bo$145b3o$150bobo$150bo2bo$150b3o$155bobo$155bo2bo$155b
+3o$160bobo$160bo2bo$160b3o$165bobo$165bo2bo$165b3o$170bobo$170bo2bo$
+170b3o$175bobo$175bo2bo$175b3o$180bobo$180bo2bo$180b3o$185bobo$185bo2b
+o$185b3o$190bobo$190bo2bo$190b3o$195bobo$195bo2bo$195b3o$200bobo$200bo
+2bo$200b3o$205bobo$205bo2bo$205b3o$210bobo$210bo2bo$210b3o$215bobo$
+215bo2bo$215b3o$220bobo$220bo2bo$220b3o$225bobo$225bo2bo$225b3o$230bob
+o$230bo2bo$230b3o$235bobo$235bo2bo$235b3o$240bobo$240bo2bo$240b3o$245b
+obo$245bo2bo$245b3o$250bobo$250bo2bo$250b3o$255bobo$255bo2bo$255b3o$
+260bobo$260bo2bo$260b3o$265bobo$265bo2bo$265b3o$270bobo$270bo2bo$270b
+3o$275bobo$275bo2bo$275b3o$280bobo$280bo2bo$280b3o$285bobo$285bo2bo$
+285b3o$290bobo$290bo2bo$290b3o$295bobo$295bo2bo$295b3o$300bobo$300bo2b
+o$300b3o$305bobo$305bo2bo$305b3o$310bobo$310bo2bo$310b3o$315bobo$315bo
+2bo$315b3o!

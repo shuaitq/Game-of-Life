@@ -1,0 +1,13 @@
+#N l156variants.rle
+#C http://conwaylife.com/wiki/L156
+#C http://conwaylife.com/patterns/l156variants.rle
+x = 59, y = 171, rule = B3/S23
+44b2o$44bo$42b3o16$42b2o$42b2o2$33b2obo$33bob2o$51b2o$51bo$49bobo$49b
+2o2$34bo$34b3o$25bo11bo$25b3o8b2o14bo$28bo22bobo$27b2o23bo7$26bo$26bob
+o$26b3o$28bo11b2o$40bo$41b3o$43bo16$44b2o$44bo$42b3o16$42b2o$42b2o2$
+33b2obo$33bob2o6$34bo$34b3o$25bo11bo$25b3o8b2o14bo$28bo22bobo$27b2o23b
+o4$49b2o$49bobo$51bo$26bo24b2o$26bobo18b2o$26b3o18bo$28bo11b2o6b3o$40b
+o9bo$41b3o$43bo16$44b2o$44bo$42b3o16$42b2o$42b2o2$33b2obo$33bob2o2$18b
+2o$18bo16bo$16bobo15bobo$16b2o16bobo$32b3ob2o20bo$31bo24b3o$25bo6b3ob
+2o17bo$25b3o6bob2o17b2o$28bo$3bo23b2o$b3o48b2o$bobo47bo2bo$bo50b2o4$
+26bo$26bobo$15b2o9b3o$2b2o11b2o11bo11b2o$3bo36bo$3o38b3o$o42bo!

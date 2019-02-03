@@ -1,0 +1,13 @@
+#N parasite.rle
+#C Example of a parasite.
+#C http://conwaylife.com/wiki/Parasite
+#C http://www.conwaylife.com/patterns/parasite.rle
+x = 30, y = 45, rule = B3/S23
+6bo13bo$5b3o11b3o$3b2ob3o9b3ob2o$4bo2bob2o5b2obo2bo$b2obo4bobo3bobo4bo
+b2o$b2obobo2bob2ob2obo2bobob2o$bo8bobobobo8bo$2o7b2obobob2o7b2o$12bobo
+$7b3obo3bob3o$6b2o11b2o$6bo5bo4b2o2bo$5b2o4b3o3b2o2bo$11bob2o3b3o$12b
+3o4bo$12b3o$12b3o$12b2o2$19bobo$20b2o$15b2o3bo$8b2o6b2o$7b2o6bo$9bo3$
+17b2o$10bo6b3o$9b3obo3b3o$8b2obo5b3o$8b2o6bob2o$8b2o6b3o4b2o$8b2ob2o4b
+o5bo$9b2o11b2o$10b3obo3bob3o$15bobo$3b2o7b2obobob2o7b2o$4bo8bobobobo8b
+o$4b2obobo2bob2ob2obo2bobob2o$4b2obo4bobo3bobo4bob2o$7bo2bob2o5b2obo2b
+o$6b2ob3o9b3ob2o$8b3o11b3o$9bo13bo!

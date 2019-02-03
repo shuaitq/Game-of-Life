@@ -1,0 +1,6 @@
+#N 30p6.1.rle
+#C http://conwaylife.com/wiki/30P6.1
+#C http://conwaylife.com/patterns/30p6.1.rle
+x = 13, y = 13, rule = B3/S23
+6b2o$ob2obobo$2obobo$4b2o2$6bo4b2o$5bo3bo2bo$5bo4b2o$6bobo$10b2o$11bo$
+10bo$10b2o!

@@ -1,0 +1,5 @@
+#N cisboatondock.rle
+#C http://conwaylife.com/wiki/Cis-boat_on_dock
+#C http://conwaylife.com/patterns/cisboatondock.rle
+x = 7, y = 6, rule = B3/S23
+2o$obob2o$2bobobo$2bo2bo$obo$2o!

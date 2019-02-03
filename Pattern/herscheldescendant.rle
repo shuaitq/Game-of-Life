@@ -1,0 +1,5 @@
+#N herscheldescendant.rle
+#C http://conwaylife.com/wiki/Herschel_descendant
+#C http://www.conwaylife.com/patterns/herscheldescendant.rle
+x = 4, y = 5, rule = B3/S23
+2o$ob2o$3bo$bobo$b2o!

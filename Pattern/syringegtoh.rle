@@ -1,0 +1,8 @@
+#N Syringe
+#O Tanner Jacobi
+#C A fast and compact glider-to-Herschel converter.
+#C http://conwaylife.com/wiki/Syringe
+x = 24, y = 34, rule = B3/S23
+4bo$4b3o$7bo$6bobo$6bobo$7bo5$22b2o$22b2o4$2b2o$bobo$bo$2o7b2o$9b2o2$
+17b2obo$17b2ob3o$23bo$17b2ob3o$16bo2b2o$15bobo$14bobob2obo$15bo2bob2o$
+18bo$17b2o$14bobo2b2o$14b2o2bo2bo$19b2o!

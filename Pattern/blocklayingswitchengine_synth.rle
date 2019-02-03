@@ -1,0 +1,12 @@
+#N Block-laying switch engine_synth
+#O Mark D. Niemiec, Luka Okanishi
+#C Glider synthesis for a block-laying switch engine
+#C http://conwaylife.com/wiki/Block-laying_switch_engine
+#C http://www.conwaylife.com/patterns/blocklayingswitchengine_synth.rle
+x = 138, y = 49, rule = B3/S23
+43bo$41b2o$42b2o89b2o$35bo89bo4b2o$33bobo88bo3b4ob2o$34b2o89b4o4b5o$
+125bo6b3o$30b3o100bo$32bo99b3o$31bo81b2o12bo$113b2o12bo7$105b2o$105b2o
+$116bo$115bob2o$113b2ob2o9bob2obo$107b2o4b2obo9b3o4bo$106b2o5bobo10bo
+5bo$106bo2b3ob3o11bo3bo$107b5obo14bobo$107b2ob2o3$125b2o$125b2o$115bo$
+115bo2$112b2ob2o2$115b2o$b2o109b2o3bo$obo110bo3bo$2bo111bobo$115bo$95b
+2o$94bo2bo$95b2o8b2o$105b2o$100bo$99bobo$99bobo$100bo!

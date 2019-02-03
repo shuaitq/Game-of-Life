@@ -1,0 +1,5 @@
+#N transboatondock.rle
+#C http://conwaylife.com/wiki/Trans-boat_on_dock
+#C http://conwaylife.com/patterns/transboatondock.rle
+x = 6, y = 7, rule = B3/S23
+2o2b2o$o4bo$b4o2$b2o$obo$bo!

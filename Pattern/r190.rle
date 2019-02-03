@@ -1,0 +1,9 @@
+#N R190
+#O Dave Buckingham, July 1996
+#C Repeat time 107 ticks
+#C http://conwaylife.com/wiki/R190
+#C http://www.conwaylife.com/patterns/r190.rle
+x = 37, y = 38, rule = B3/S23
+10b2o$7b2o2bo$5b3ob2o$4bo$bo2b4ob2o$b3o3bob2o$4bo$3b2o26b2o$31bo$29bob
+o$29b2o5$33b2obo$33bob2o2$o25b2o$obo23b2o$3o$2bo3$9b2o3b2o$10bo3bo$7b
+3o5b3o$7bo9bo$17bobo$18b2o6$25b3o$25bo$24b2o!

@@ -1,0 +1,8 @@
+#N amphisbaena_synth
+#O
+#C Glider synthesis of amphisbaena
+#C http://conwaylife.com/wiki/amphisbaena
+x = 64, y = 17, rule = B3/S23
+44bobo$44b2o$45bo$38bo$39bo$37b3o2$26b2o6b3o5b2o13bobo$17bo8bobo7bo5bo
+bo12b2obo$17bobo8bo6bo8bo15bo$7b3o7b2o9bob2o12bob2o12bob2o$2bo6bo19bob
+o13bobo13bobo$obo5bo$b2o10b2o$4b2o7bobo$5b2o6bo$4bo!

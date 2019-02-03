@@ -1,0 +1,10 @@
+#N p29trafficfarmhassler.rle
+#C http://conwaylife.com/wiki/P29_traffic-farm_hassler
+#C http://conwaylife.com/patterns/p29trafficfarmhassler.rle
+x = 43, y = 21, rule = B3/S23
+4b2o31b2o$5bo31bo$5bob2o25b2obo$6bobo8bo7bo8bobo$8bob2o4bobo5bobo4b2ob
+o$7bobobo5bo7bo5bobobo$3b2o2bo27bo2b2o$3bobo31bobo$2obo11b2o9b2o11bob
+2o$obob3o5bo4bo7bo4bo5b3obobo$2bo8bobo3bo7bo3bobo8bo$obob3o5bo4bo7bo4b
+o5b3obobo$2obo11b2o9b2o11bob2o$3bobo31bobo$3b2o2bo27bo2b2o$7bobobo5bo
+7bo5bobobo$8bob2o4bobo5bobo4b2obo$6bobo8bo7bo8bobo$5bob2o25b2obo$5bo
+31bo$4b2o31b2o!

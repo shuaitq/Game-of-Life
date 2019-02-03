@@ -1,0 +1,8 @@
+#N figureeightonbeluchenkosp13.rle
+#O Nicolay Beluchenko
+#C Period 104 oscillator constructed in January 2009
+#C http://conwaylife.com/wiki/Figure_eight_on_Beluchenko's_p13
+#C http://conwaylife.com/patterns/figureeightonbeluchenkosp13.rle
+x = 23, y = 19, rule = B3/S23
+2o$2obo$4bo6bo$bo8bobo$2bob2o$4b2o6bo$9bo2bo$13bo$13bo$9bo3bo$10b3o$6b
+2o7b3o$6b2o6bo3b2obo$14bo7bo$14bo6bo$15bo2bo2$12b2o$12b2o!

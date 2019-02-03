@@ -1,0 +1,12 @@
+#N Richsp16_synth
+#O BlinkerSpawn, Chris Cain
+#C Glider synthesis of Rich's p16
+#C http://conwaylife.com/wiki/Rich%27s_p16
+x = 108, y = 45, rule = B3/S23
+77bo$75b2o$76b2o2$68bo$69b2o$68b2o2$24bo$22bobo$23b2o3$48bo29bo$47bobo
+27bobo$47bobo27bobo$20bo3bo23bo22bobo4bo24b2o$21b2obobo45b2o28bo2bo$
+20b2o2b2o46bo32b2o$41bo7b2o28b2o18bo5b3o$42bo6b2o20b2o6b2o17bobo3bo2bo
+$40b3o28b2o26b2o3b3o2$40b3o28b2o26b2o3b3o$29b2o11bo6b2o20b2o6b2o17bobo
+3bo2bo$29b2o10bo7b2o28b2o18bo5b3o$2o2b2o66bo32b2o$b2obobo65b2o28bo2bo$
+o3bo23bo19bo22bobo4bo24b2o$27bobo17bobo27bobo$27bobo17bobo27bobo$28bo
+19bo29bo3$3b2o$2bobo$4bo2$68b2o$69b2o$68bo2$76b2o$75b2o$77bo!

@@ -1,0 +1,11 @@
+#N p5bouncer.rle
+#O Noam Elkies, 1998
+#C http://conwaylife.com/wiki/P5_bouncer
+#C http://www.conwaylife.com/patterns/p5bouncer.rle
+x = 46, y = 48, rule = B3/S23
+29b2o$28bo2bo$23b2o2bob2obo$23bo3bo2bobo$24b3obo3b2o$26bo3bo2bo$27bob
+4o$29bo$17b2o11b3o2b2o$17bo8bob3o2bo2bo$20b2o5b2o3b2obo$19b3o5b2o5bob
+3o$19b3o2b2o8bo4bo$19bo4b2o7b2ob2ob3o$19b2o12bo2bobo3bo$27bo6bo5bo2bo$
+26bobo5b2o3b3obo$22b2o2b2o5bo2b3o4bobo$22b2o10bobobo2b2ob2o$33bo2bobo
+3bo$25b3o6b2o2bobobo$27bo7bobobobo$26bo8bobo2bo$36b2o3$19b2o$20b2o$19b
+o11$6b3o$8bo$7bo4$2o$b2o$o!

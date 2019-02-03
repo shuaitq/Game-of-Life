@@ -1,0 +1,7 @@
+#N BRx46B
+#O Michael Simkin, 25 April 2016
+#C Repeat time with standard connections is 60 ticks.
+#C http://conwaylife.com/wiki/BRx46B
+#C http://www.conwaylife.com/patterns/brx46b.rle
+x = 13, y = 10, rule = B3/S23
+11b2o$2b2o7b2o$2b2o3$o10bo$bo8bobo$b2o7bobo$2o9bo$o!

@@ -1,0 +1,6 @@
+#N catchandthrow.rle
+#C http://conwaylife.com/wiki/Catch_and_throw
+#C http://www.conwaylife.com/patterns/catchandthrow.rle
+x = 63, y = 18, rule = B3/S23
+34b2o13b2o7b4o$32bo4bo10b2ob4o3bo3bo$31bo17b6o3bo$31bo5bo12b4o5bo2bo$b
+o29b6o$2bo$3o6$3b4o$3bo3bo$3bo27b2o$4bo2bo22b2ob3o$31b5o$32b3o!

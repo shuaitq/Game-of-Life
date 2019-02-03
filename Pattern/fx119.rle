@@ -1,0 +1,8 @@
+#N Fx119
+#O Dave Buckingham, September 1996
+#C Repeat time 231 ticks -- can be reduced with additional catalysts
+#C http://conwaylife.com/wiki/Fx119
+#C http://www.conwaylife.com/patterns/fx119.rle
+x = 23, y = 24, rule = B3/S23
+o$obo$3o$2bo12$9b2o11bo$4b2o3b2o9b3o$4b2o14bo$20bo2$3b2o$4bo4b2o$b3o5b
+2o$bo!

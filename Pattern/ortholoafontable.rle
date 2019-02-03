@@ -1,0 +1,5 @@
+#N ortholoafontable.rle
+#C http://conwaylife.com/wiki/Ortho-loaf_on_table
+#C http://conwaylife.com/patterns/ortholoafontable.rle
+x = 7, y = 5, rule = B3/S23
+2bo$bobob2o$o2bobo$b2o2bo$5b2o!

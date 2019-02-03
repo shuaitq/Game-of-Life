@@ -1,0 +1,7 @@
+#N Brain perturbing glider
+#C http://www.conwaylife.com/wiki/Brain
+#C http://conwaylife.com/patterns/brainperturbingglider.rle
+x = 22, y = 14, rule = B3/S23
+b3o9b3o$obob2o5b2obobo$obobo7bobobo$bob2ob2ob2ob2obo$5bobobobo$3bobobo
+bobobo$2b2obobobobob2o$2b3o2bobo2b3o$2b2o2bo3bo2b2o$bo4b2ob2o4bo$bo13b
+o$19b2o$19bobo$19bo!

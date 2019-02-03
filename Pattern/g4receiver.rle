@@ -1,0 +1,8 @@
+#N g4receiver.rle
+#O Sergey Petrov, 2011
+#C http://conwaylife.com/wiki/G4_receiver
+#C http://www.conwaylife.com/patterns/g4receiver.rle
+x = 60, y = 50, rule = B3/S23
+57bobo$57b2o$58bo19$32bobo$32b2o$33bo5$16b2o$16b2o20bo$36b3o$35bo$35b
+2o4$2o$2o$38b2o15bo$11b2o25b2o15bo$11b2o42b3o$57bo$8bo$6b3o$5bo$5b2o
+24b2o$17b2o12bo$17b2o6bo6b3o$24bobo7bo$25bo!

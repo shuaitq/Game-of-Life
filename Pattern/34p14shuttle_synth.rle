@@ -1,0 +1,17 @@
+#N 34p14shuttle_synth.rle
+#C http://conwaylife.com/wiki/34P14_shuttle
+#C http://conwaylife.com/patterns/34p14shuttle_synth.rle
+x = 161, y = 121, rule = B3/S23
+44bo$42b2o$43b2o$38bobo$39b2o$39bo3$72b3o37b3o$44bo56bo$2bo42bo56b2o$o
+bo19b2o19b3o6b2o24bo3b2o17b2o15bo3b2o$b2o19b2o28b2o23bobo2b2o33bobo2b
+2o$46b3o28bobo37bobo31b2o$bo46bo29bo29bo9bo27b2o2b2obo5b2o$b2o44bo58bo
+bo37b2o3bobo5b2o$obo104b2o44bo$155bo2$9b3o143bo$9bo88b2o53bo$10bo11b2o
+28b2o12b2o14b2o15b2o5b2o14b2o6bo15b2o3bobo5b2o$22b2o11b3o14b2o12b2o14b
+2o14bo7b2o14b2o5b2o15b2o2b2obo5b2o$37bo91bobo19b2o$36bo67bo7b2o$38b3o
+61bobo8b2o$38bo64b2o7bo$39bo3$110b2o$109bobo18bo$111bo17b2o$129bobo$
+105b3o6bo$107bo6b2o$106bo6bobo$129bo$128b2o$128bobo11$53bo$54b2o$53b2o
+3$60bo$58bobo30bo$59b2o28b2o$90b2o$75bobo$76b2o$76bo4$56bo24bo$54bobo
+25bo$55b2o23b3o4$94bo$92bobo$93b2o2$93bo$93b2o$92bobo2$83b3o$85bo15b3o
+$84bo16bo$102bo6$72b3o$74bo$73bo$85b3o$85bo$86bo8$50b2o$51b2o69bo$50bo
+70b2o$121bobo$64b2o$65b2o$64bo4$62b2o$61bobo58bo$63bo57b2o$121bobo$57b
+3o6bo$59bo6b2o$58bo6bobo$121bo$120b2o$120bobo!

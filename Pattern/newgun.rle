@@ -1,0 +1,8 @@
+#N newgun.rle
+#O Bill Gosper, 1971
+#C http://conwaylife.com/wiki/New_gun_1
+#C http://www.conwaylife.com/patterns/newgun.rle
+x = 36, y = 34, rule = B3/S23
+25b2o5b2o$25b2o5b2o8$26bo5bo$25b3o3b3o$24b2obo3bob2o3$27bo3bo$27bo3bo
+7$33bo$10b2o22b2o$2o7bobo21b2o$2o7bo$9b3o4$9b3o$2o7bo17b2o$2o7bobo15b
+2o$10b2o!

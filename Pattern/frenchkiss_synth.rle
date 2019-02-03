@@ -1,0 +1,9 @@
+#N frenchkiss_synth.rle
+#O AbhpzTa
+#C Glider synthesis of the French kiss, January 2017:
+#C http://www.conwaylife.com/forums/viewtopic.php?p=39264#p39264
+#C http://conwaylife.com/wiki/French_kiss
+x = 57, y = 46, rule = B3/S23
+55bo$54bo$4bo49b3o$2bobo$3b2o2$37bo16bo$36bo15b2o$36b3o14b2o2$37bo$36b
+2o$36bobo21$18bobo$19b2o$19bo2$2b2o14b3o$3b2o15bo$2bo16bo2$52b2o$52bob
+o$3o49bo$2bo$bo!

@@ -1,0 +1,7 @@
+#C BNE14T30
+#C Tanner Jacobi, 26 May 2016
+#C http://conwaylife.com/wiki/BNE14T30
+#C http://www.conwaylife.com/patterns/bne14t30.rle
+x = 17, y = 22, rule = B3/S23
+11b2o$11bobo$13bo$7b2o3bob2o$8bo3bo3bo$8bob2ob2obo$9bobobobo6$o$bo$b2o
+$2o$o4$2o$2o!

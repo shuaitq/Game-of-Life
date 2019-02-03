@@ -1,0 +1,7 @@
+#N wainwrightstagalong.rle
+#O Robert Wainwright
+#C http://conwaylife.com/wiki/Wainwright%27s_tagalong
+#C http://www.conwaylife.com/patterns/wainwrightstagalong.rle
+x = 16, y = 12, rule = B3/S23
+3o$o9b2o$bo6b3obo$3b2o2b2o$4bo$8bo5bo$4b2o3bo3b2o$3bobob2o4bobo$3bobo
+2bob2obo$2bo4b2o5bo$2b2o$2b2o!

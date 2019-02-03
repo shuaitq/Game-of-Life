@@ -1,0 +1,11 @@
+#N roteightor_synth
+#O Martin Grant
+#C Glider synthesis of Roteightor
+#C http://conwaylife.com/wiki/Roteightor
+x = 60, y = 62, rule = B3/S23
+19bobo$22bo$22bo$19bo2bo$20b3o4$48bo$47bo$47b3o$25bo$23bobo$24b2o2$41b
+o$12bo26b2o$13bo26b2o17bo$11b3o38bo4b2o$51bo6b2o$5bo45b3o$6b2o$5b2o34b
+o$39b2o$40b2o7$o2bo$4bo$o3bo$b4o4$32bo$31bo$31b3o$20b2o$21b2o7bo$20bo
+8b2o$29bobo8b2o$39b2o8bo3b2o$8b2o31bo6b2o3bobo$7bobo38bobo2bo$9bo4b2o$
+13bobo11bo$15bo11b2o$26bobo2$46b3o$5b2o20b2o17bo$4bobo19bobo18bo$6bo
+21bo3$48b2o$47b2o$49bo!

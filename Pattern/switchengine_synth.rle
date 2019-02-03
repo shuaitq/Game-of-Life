@@ -1,0 +1,7 @@
+#N switchengine_synth
+#O Luka Okanishi, 12 March 2017
+#C 3-glider synthesis of an unstabilized switch engine
+#C www.conwaylife.com/wiki/index.php?title=Switch_engine
+#C http://www.conwaylife.com/patterns/switchengine_synth.rle
+x = 14, y = 8, rule = B3/S23
+obo$b2o$bo6bo$7bo$7b3o$11b2o$11bobo$11bo!

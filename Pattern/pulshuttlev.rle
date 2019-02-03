@@ -1,0 +1,12 @@
+#N pulshuttlev.rle
+#O Robert Wainwright, 1985
+#C http://conwaylife.com/wiki/Pulshuttle_V
+#C http://www.conwaylife.com/patterns/pulshuttlev.rle
+x = 42, y = 29, rule = B3/S23
+13bo14bo$12bobo7bo4bobo$13bo6b2ob2o3bo$22bo$2b2o6b2o18b2o6b2o$o4bo2bo
+4bo14bo4bo2bo4bo$o4bo2bo4bo14bo4bo2bo4bo$o4bo2bo4bo8bo5bo4bo2bo4bo$2b
+2o6b2o8b2ob2o5b2o6b2o$22bo3$2b2o6b2o18b2o6b2o$o4bo2bo4bo8bo5bo4bo2bo4b
+o$o4bo2bo4bo6b2ob2o3bo4bo2bo4bo$o4bo2bo4bo8bo5bo4bo2bo4bo$2b2o6b2o18b
+2o6b2o3$22bo$2b2o6b2o8b2ob2o5b2o6b2o$o4bo2bo4bo8bo5bo4bo2bo4bo$o4bo2bo
+4bo14bo4bo2bo4bo$o4bo2bo4bo14bo4bo2bo4bo$2b2o6b2o18b2o6b2o$22bo$13bo6b
+2ob2o3bo$12bobo7bo4bobo$13bo14bo!

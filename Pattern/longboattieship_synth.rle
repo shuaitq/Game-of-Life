@@ -1,0 +1,6 @@
+#N longboattieship_synth.rle
+#C http://conwaylife.com/wiki/Long_boat_tie_ship
+#C http://conwaylife.com/patterns/longboattieship_synth.rle
+x = 39, y = 16, rule = B3/S23
+2bo$3b2o$2b2o8bo$12bobo22b2o$12b2o22bobo$36b2o$34b2o$2bo30bobo$3bo28bo
+bo$b3o29bo3$3o$2bo8b2o$bo8b2o$12bo!

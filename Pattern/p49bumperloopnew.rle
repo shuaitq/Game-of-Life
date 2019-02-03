@@ -1,0 +1,13 @@
+#N p49bumperloopnew.rle
+#O Entity Valkyrie, 2018
+#C http://conwaylife.com/wiki/P49_bumper_loop
+#C http://conwaylife.com/patterns/p49bumperloopnew.rle
+x = 46, y = 46, rule = B3/S23
+11b2o$11bo2b2o$12bobobo$11b2obo2bo11bo$10bo5b2o9b3o$11b2o3bo9bo$8b3o5b
+o9b2o$8bo2b3o2bo$11bo9bo$12bobo6bo16b2o$9b3o5bo2bo13b2o3bo$9bo5b2o5bo
+12bo3bobo$21b2o12bob2obobob2o$36bobobob2obo2$3b2o34bob4o$4bo29b2o3bobo
+2bo$4bobo27b2o2bo4bo$5b2o32bob2o3$35b2o$10b3o20bob2o$9b2obo20b3o$9b2o
+3$3b2obo32b2o$2bo4bo2b2o27bobo$bo2bobo3b2o29bo$b4obo34b2o2$ob2obobobo$
+2obobob2obo12b2o$4bobo3bo12bo5b2o5bo$6bo3b2o13bo2bo5b3o$6b2o16bo6bobo$
+24bo9bo$29bo2b3o2bo$18b2o9bo5b3o$19bo9bo3b2o$16b3o9b2o5bo$16bo11bo2bob
+2o$29bobobo$30b2o2bo$33b2o!

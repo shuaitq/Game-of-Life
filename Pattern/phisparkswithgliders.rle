@@ -1,0 +1,7 @@
+#N phisparkswithgliders.rle
+#C http://conwaylife.com/wiki/Phi_spark
+#C http://conwaylife.com/patterns/phisparkswithgliders.rle
+x = 45, y = 18, rule = B3/S23
+16b3o$15bo3bo$15bo3bo$16b3o3$2bo11b2o7bo20bo$2o10bo4bo3b2o12b2o5b2o$b
+2o9bo4bo4b2o9bo4bo4b2o$12bo4bo15bo4bo$14b2o17bo4bo$35b2o2$b3o$o3bo32b
+3o$o3bo31bo3bo$b3o32bo3bo$37b3o!

@@ -1,0 +1,5 @@
+#N cisaircraftontable.rle
+#C http://conwaylife.com/wiki/Aircraft_carrier_bridge_table
+#C http://conwaylife.com/patterns/cisaircraftontable.rle
+x = 6, y = 5, rule = B3/S23
+o2bo$4o$4b2o$2bo2bo$2b2o!

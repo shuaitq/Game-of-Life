@@ -1,0 +1,5 @@
+#N 14p2.4.rle
+#C http://conwaylife.com/wiki/14P2.4
+#C http://conwaylife.com/patterns/14p2.4.rle
+x = 8, y = 7, rule = B3/S23
+b3o2$2o2bobo$5bo$bo4b2o$3bo$3bobo!

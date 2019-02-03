@@ -1,0 +1,9 @@
+#N pseudop6.rle
+#O Dean Hickerson, 1995
+#C http://conwaylife.com/wiki/Trivial_P6_Oscillator_No._1
+#C http://conwaylife.com/patterns/pseudop6.rle
+x = 27, y = 18, rule = B3/S23
+11b2o$11bo6b2o$8b2obo6bo2bo$8bobob2ob2obob2o2bo$bo8bo2bobo2bo2bobobo$b
+obo5b2o2bobobob2o2bo2bo$bobobo8b2obobob2ob2o$7bobob3o3bo4b2o$2bo3bo4bo
+b2o8bo$4bo3b3o2b2ob3obobob2o$2o2bo6bo10bobo$2bo11b2ob2o3bobo$8bob5o3bo
+4bo$8b2o3bo2bo2bo$11b4ob3o$8b3o4bo$8bo2bo2bo2b2o$10b2o3b2obo!

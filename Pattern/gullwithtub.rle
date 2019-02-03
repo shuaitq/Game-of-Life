@@ -1,0 +1,5 @@
+#N gullwithtub.rle
+#C http://conwaylife.com/wiki/Gull_with_tub
+#C http://conwaylife.com/patterns/gullwithtub.rle
+x = 7, y = 7, rule = B3/S23
+5bo$4bobo$3bobo$3bo$b3o$o$2o!

@@ -1,0 +1,15 @@
+#N toggleablegun.rle
+#C http://conwaylife.com/wiki/Toggleable_gun
+#C http://www.conwaylife.com/patterns/toggleablegun.rle
+x = 180, y = 149, rule = B3/S23
+28b2o$28bobo$28bo6$35b3o$35bo$36bo5$43b2o$43bobo$43bo6$50b3o$50bo$51bo
+5$58b2o$58bobo$58bo$37b2o$37bo2bo$41bo9bobo$25bo15bo7bo3bo$22b4o15bo7b
+o25b2o$13bo7b4o12bo2bo7bo4bo22bo$12bobo6bo2bo12b2o10bo26bobo4bo$11bo3b
+2o4b4o24bo3bo6b2o15b2o3bobo$2o9bo3b2o5b4o14bobo8bobo6bobo18bob2o15b2o$
+2o9bo3b2o8bo14b2o20bo17b2ob2o14bobo$12bobo26bo20b2o17bob2o13bo$13bo68b
+obo13bo2bo$22bobo58bo5bo8bo$23b2o64bobo7bobo5b2o$23bo65b2o9b2o5bobo$
+34bo74bo$32b2o75b2o$33b2o2$30bo13bo2bo26bo2bo$31b2o15bo11b4o14bo$30b2o
+12bo3bo10bo3bo10bo3bo$34b3o8b4o14bo11b4o$36bo22bo2bo$25bo9bo$24bobo$
+12b2o10b2obo8bobo$12b2o10b2ob2o6bo2bo$24b2obo6b2o10b2o$24bobo5b2o3bo8b
+2o$25bo8b2o5b2o$35bo2bo4bo$36bobo6$102b3o$102bo$103bo35$140b2o$140bobo
+$140bo36$177b3o$177bo$178bo!

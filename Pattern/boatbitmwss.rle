@@ -1,0 +1,6 @@
+#N boatbitmwss.rle
+#C http://conwaylife.com/wiki/Boat-bit
+#C http://conwaylife.com/patterns/boatbitmwss.rle
+x = 21, y = 23, rule = B3/S23
+9bobo$12bo$8bo3bo$12bo$9bo2bo$10b3o9$2o$bo$bobo$2b2o3$14bo$13bobobob2o
+$14b2ob2obo!

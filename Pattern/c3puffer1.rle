@@ -1,0 +1,19 @@
+#N c/3 puffer #1
+#O David Bell
+#C The first c/3 orthogonal puffer, discovered in April 1996
+#C http://www.conwaylife.com/wiki/C/3_orthogonal
+#C http://www.conwaylife.com/patterns/c3puffer1.rle
+x = 87, y = 38, rule = B3/S23
+43bo$42bobo$41bo3bo2$35b2ob4o3b4ob2o$35b2o4b2ob2o4b2o$34bo2bob3o3b3obo
+2bo2$42bobo$40bobobobo$36b2obo7bob2o$36b2o4bobo4b2o$35bo3b2o5b2o3bo$
+43bo$32bo9bobo9bo$24bo3b3ob3obo5bobo5bob3ob3o3bo$24b2obo5bob2o4b2ob2o
+4b2obo5bob2o$20b3o2b2obo3bo3bo4b2ob2o4bo3bo3bob2o2b3o$20b2o2b2ob5obo2b
+o13bo2bob5ob2o2b2o$19bo2bo5bob2obo2b2ob2obobob2ob2o2bob2obo5bo2bo$24b
+2o6b4ob3o7b3ob4o6b2o$28bo4bo7bobobo7bo4bo$40b2obob2o$40b2o3b2o$5bob2o
+32b2ob2o32b2obo$b3ob2obob2o63b2obob2ob3o$o6b2o2b4o24b2obobob2o24b4o2b
+2o6bo$b2o3bo3bo4bo23bo2bobo2bo23bo4bo3bo3b2o$13b3o5b2o15bobobobobobo
+15b2o5b3o$19bob2o16bobo3bobo16b2obo$16bob2o3b2o5b2o23b2o5b2o3b2obo$15b
+2ob2obobo5b2o9bo5bo9b2o5bobob2ob2o$15b2obo4bob2o2b2ob2obo6bobo6bob2ob
+2o2b2obo4bob2o$19b2obo2bob3o2bo2b2o4b2ob2o4b2o2bo2b3obo2bob2o$25bo4bob
+o3b2o2bo5bo2b2o3bobo4bo$26bob2o2b3o2bo11bo2b3o2b2obo$32b2obobo2bo5bo2b
+obob2o$33bobobob9obobobo!

@@ -1,0 +1,8 @@
+#N p46gunexample.rle
+#C http://conwaylife.com/wiki/P46_gun
+#C http://www.conwaylife.com/patterns/p46gunexample.rle
+x = 35, y = 38, rule = B3/S23
+4b2o$5bo$5bobo$6b2o2b2o$10b2o7$o$3o7b2o$3bo6bobo$2bobo7bo$2b2o6bobo$
+10b2o$2b2o$2bo$3b3o$5bo$8b2o$9bo$6b3o14b3o$6bo15bo3bo$21bo5bo$13b2o6bo
+5bo$13b2o6b3ob3o$31b2o$31bobo$12b2o19bo$13bo19b2o$10b3o16b2o$10bo13bo
+4bo$23bobobobo$22bob2ob2o$22bo$21b2o!

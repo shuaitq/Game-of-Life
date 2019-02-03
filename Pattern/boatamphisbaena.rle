@@ -1,0 +1,5 @@
+#N boatamphisbaena.rle
+#C http://conwaylife.com/wiki/Cis-boat_amphisbaena
+#C http://conwaylife.com/patterns/boatamphisbaena.rle
+x = 6, y = 7, rule = B3/S23
+3b2o$3bobo$4bo$b3o$o$bo$2o!

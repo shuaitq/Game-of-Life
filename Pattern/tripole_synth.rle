@@ -1,0 +1,8 @@
+#N Tripole_synth
+#O Extremeenthusiast
+#C Glider synthesis of tripole.
+#C http://conwaylife.com/wiki/Tripole
+#C http://conwaylife.com/forums/viewtopic.php?p=45062#p45062
+x = 22, y = 17, rule = B3/S23
+16bobo$16b2o$17bo3$6b2o$5bobo$7bo2$8b2o$8bobo$8bo11b2o$3o16b2o$2bo18bo
+$bo10bo$11b2o$11bobo!

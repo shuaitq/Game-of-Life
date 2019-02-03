@@ -1,0 +1,17 @@
+#N extensiblecrown.rle
+#C http://conwaylife.com/wiki/Crown
+#C http://conwaylife.com/patterns/extensiblecrown.rle
+x = 52, y = 39, rule = B3/S23
+10bo3b2o$9bobo2bo6b2o$10b2o3bo5bo6b2o$12b3obo5bo5bo6b2o$10b2o2bobo2b3o
+bo5bo5bo6b2o$b2o6bo2b3obobo2bobo2b3obo5bo5bo$obo5bobo3bobo2b3obobo2bob
+o2b3obo5bo5b2o$obob2o3bo3b2ob2o3bobo2b3obobo2bobo2b3obo3bobo$bobobo4b
+2obo6b2ob2o3bobo2b3obobo2bobo2bo$3bo7bo5b2obo6b2ob2o3bobo2b3obobob2o$
+2bo2bo5bo6bo5b2obo6b2ob2o3bobobobobo$2bo15bo6bo5b2obo6b2obo2bo3bo$2bo
+3bo5bo12bo6bo5b2obo3bo3b3o$2bo3bo3b2o20bo6bo5b4o$2bo7b2ob2ob2o21bo6bo
+2bo$2bo2bo4b2o4b3o3b4o4bobo15b2o$3bo8bo3b2o4b2obo7bo6bo$bobobo17b3o3bo
+3bo4b2o$obob2o4bo22bo4b2ob2o$obo7bo6bo12bobo5b2o$b2o5bob2o5bo6bo15bo$
+7b2o6bob2o5bo6bo$6bo4b2ob2o6bob2o5bo6bo$8b2o2bobo3b2ob2o6bob2o5bo$4bob
+o3bobob3o2bobo3b2ob2o6bob2o$4bo5bobobo2bobob3o2bobo3b2ob2o3bo$5b4obobo
+b3o2bobo2bobob3o2bobo3bobo$6bob2o3bo5bob3o2bobo2bobob3o2bo$6bo7bo5bo5b
+ob3o2bobo2b2o$5bob3o3b2o6bo5bo5bob3o$7bo2bo9b2o6bo5bo3b2o$4bobo2b2o16b
+2o6bo2bobo$3b2o29b2o3bo$3b2o$4bobo2$4bo2bo$4bobo$5bo!

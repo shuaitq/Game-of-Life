@@ -1,0 +1,6 @@
+#N twinbeesshuttlepairp46gun.rle
+#C http://conwaylife.com/wiki/Twin_bees_shuttle_pair
+#C http://www.conwaylife.com/patterns/twinbeesshuttlepairp46gun.rle
+x = 49, y = 14, rule = B3/S23
+17bo$2o15b2o$2o16b2o$17b2o11b2o$29bobo$29bo$29b3o$17b2o$18b2o$17b2o$
+17bo11b3o$29bo17b2o$29bobo15b2o$30b2o!

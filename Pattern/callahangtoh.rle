@@ -1,0 +1,8 @@
+#C Callahan G-to-H
+#O Paul Callahan, November 1998
+#C http://www.conwaylife.com/wiki/Callahan_G-to-H
+#C http://www.conwaylife.com/patterns/callahangtoh.rle
+x = 34, y = 23, rule = B3/S23
+4bo9bo$4b3o5b3o$bo5bo3bo$2bo3b2o3b2o$3o$9bo$8bobo$8bobo$9bo$31bo$31bo$
+20b2o9b3o$14b2o4b2o11bo$8b2o3b2o$7bo2bo4bo$2b2o4b2o$bobo$bo$2o$10b2o$
+10bo$11b3o$13bo!

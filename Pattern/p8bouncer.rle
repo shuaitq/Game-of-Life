@@ -1,0 +1,8 @@
+#N p8bouncer.rle
+#O Noam Elkies, 1998
+#C http://conwaylife.com/wiki/P8_bouncer
+#C http://www.conwaylife.com/patterns/p8bouncer.rle
+x = 61, y = 54, rule = B3/S23
+59bo$58bo$58b3o4$53bo$52bo$52b3o12$b2o$2o$2bo4$7b2o24bo$6b2o24bo$8bo
+23b3o4$27bo$26bo$26b3o8$24b2o$20b2o2b2o$19bobo$20bo$16bo$15bobo4b2o$
+14bo3bo3bo$13bo3bo5b3o$12bo3bo8bo$11bo3bo$12bobo$13bo!

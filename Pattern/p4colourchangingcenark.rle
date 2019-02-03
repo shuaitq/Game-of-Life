@@ -1,0 +1,11 @@
+#N p4colourchangingcenark.rle
+#O Tanner Jacobi, 2017
+#C http://conwaylife.com/wiki/P4_CC_cenark
+#C http://www.conwaylife.com/patterns/p4colourchangingcenark.rle
+x = 121, y = 98, rule = B3/S23
+119bo$118bo$118b3o9$108bo$107bo$107b3o42$2o62bo$obo60bo$o62b3o5$34b2o$
+33bobo4b2o$33bobob2o2bo$34bobobobo$11b2o23bobob2o11bo$11bobo21b2o2bo2b
+o9bo$11bo22bobo4bobo8b3o$34b2o2b2obo2bo$38b3o2b2o2$40bo$30b2o7b2o$29bo
+2bo5b2o$29b3o2b6o$32b2o$31bo$31b2obo2bo3$45b2o$34bo11bo$33bobo8bo$34b
+2o8b2o$46bo$44b2obo$25b2o16bobo2bo$25b2o17bo2b2o3$23b2o14b2o$23bo2bob
+2o9bo$25b2obo11b3o$28bobo11bo$28b2obo$31bo$31b2o!

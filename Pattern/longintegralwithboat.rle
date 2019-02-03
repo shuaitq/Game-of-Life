@@ -1,0 +1,5 @@
+#N longintegralwithboat.rle
+#C http://conwaylife.com/wiki/Long_integral_with_boat
+#C http://conwaylife.com/patterns/longintegralwithboat.rle
+x = 7, y = 5, rule = B3/S23
+2o$o2b2o$b2o2bo$4bobo$5b2o!

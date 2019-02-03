@@ -1,0 +1,8 @@
+#N fx70pm.rle
+#C http://conwaylife.com/wiki/Period_multiplier
+#C http://conwaylife.com/patterns/fx70pm.rle
+x = 60, y = 35, rule = B3/S23
+52bo$50b3o$49bo$49b2o$37bo$37b3o$40bo$39b2o$8bo$7bobo$8bo44b2o$53b2o$
+6b5o$5bo4bo$4bo2bo$bo2bob2o13b2o$obobo5bo10b2o$bo2bo4bobo$4b2o2bo2bo$
+9b2o$58b2o$28bob2o26b2o$26b3ob2o$26bo$26bo$9bo$9bobo$9b3o43b2o$11bo43b
+o$56bo$55b2o3$21b2o$21b2o!

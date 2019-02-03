@@ -1,0 +1,5 @@
+#N brokenelevener.rle
+#C http://conwaylife.com/wiki/Broken_elevener
+#C http://conwaylife.com/patterns/brokenelevener.rle
+x = 6, y = 7, rule = B3/S23
+2o$bo$o$b3o$3bo$3bobo$4b2o!

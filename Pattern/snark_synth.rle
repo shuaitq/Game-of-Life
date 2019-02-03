@@ -1,0 +1,11 @@
+#N snark_synth
+#O Ivan Fomichev, Mark Niemec
+#C Glider synthesis of snark
+#C http://conwaylife.com/wiki/snark
+x = 133, y = 130, rule = B3/S23
+21bo$12bobo7bo$obo10b2o5b3o$b2o10bo$bo5$24bo$22bobo106bo$23b2o105bo$
+130b3o$109bo$108bo$108b3o$24bo$25bo$23b3o$128bo$126b2o$127b2o29$53bo$
+54b2o$41bo11b2o$39bobo$40b2o20$53bo8b2o$37b2o14b2o6bobo$36bobo13bobo8b
+o19bo$38bo43b2o$82bobo$64b2o$64bobo$45bo18bo$45b2o$44bobo16$18b2o$19b
+2o15b3o$18bo19bo$37bo4$8b3o$10bo$9bo$24b3o$26bo$25bo13$19b2o$18bobo$
+20bo$127b3o$127bo$128bo!

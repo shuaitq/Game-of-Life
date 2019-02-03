@@ -1,0 +1,9 @@
+#N boundingdiamond.rle
+#C http://conwaylife.com/wiki/Bounding_diamond
+#C http://conwaylife.com/patterns/boundingdiamond.rle
+x = 73, y = 10, rule = B3/S23
+o2b2o3bo4b2o5bo6b2o7bo8b2o9bo10b2o$3b2o2bobo2bo2bo3bobo4bo2bo5bobo6bo
+2bo7bobo8bo2bo$8bo3bo2bo2bo3bo2bo4bo3bo3bo4bo4bo5bo3bo6bo4bo$13b2o4bob
+o3bo4bo2bo5bo2bo6bo3bo5bo4bo6bo$20bo5bo2bo4bo3bo3bo6bo2bo7bo2bo8bo$27b
+2o6bobo5bo4bo4bo5bo3bo8bo$36bo7bo2bo6bo3bo5bo6bo$45b2o8bobo7bo4bo$56bo
+9bo2bo$67b2o!

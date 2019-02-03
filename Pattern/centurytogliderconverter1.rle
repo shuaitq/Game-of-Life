@@ -1,0 +1,5 @@
+#N centurytogliderconverter1.rle
+#C http://conwaylife.com/wiki/Century-to-glider_converter
+#C http://www.conwaylife.com/patterns/centurytogliderconverter1.rle
+x = 17, y = 31, rule = B3/S23
+5b2o$5b2o19$bo$b2o$2o14bo$o13b3o$13bo$12bobo$13bo3$11b2o$11b2o!

@@ -1,0 +1,5 @@
+#N p60glidershuttle.rle
+#C http://conwaylife.com/wiki/P60_glider_shuttle
+#C http://conwaylife.com/patterns/p60glidershuttle.rle
+x = 35, y = 7, rule = B3/S23
+2bo4bo$2ob4ob2o$2bo4bo$16bo$17b2o8bo4bo$16b2o7b2ob4ob2o$27bo4bo!

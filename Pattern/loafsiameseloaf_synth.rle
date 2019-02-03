@@ -1,0 +1,7 @@
+#N loafsiameseloaf_synth
+#O Boris Shemyakin
+#C Glider synthesis of loaf siamese loaf 
+#C http://conwaylife.com/wiki/loaf_siamese_loaf
+x = 44, y = 19, rule = B3/S23
+5$25bobo$3b2o21b2o$2bo2bo20bo$2bobobo15bo$3bo2bo15b2o4bobo$4b2o15bobo
+4b2o8bo$29bo7b2o$37bobo!

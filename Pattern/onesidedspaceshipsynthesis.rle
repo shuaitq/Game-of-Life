@@ -1,0 +1,6 @@
+#N onesidedspaceshipsynthesis.rle
+#C http://conwaylife.com/wiki/One-sided_spaceship_synthesis
+#C http://www.conwaylife.com/patterns/onesidedspaceshipsynthesis.rle
+x = 23, y = 41, rule = B3/S23
+3bo$4b2o$3b2o3$5bo$3bobo$4b2o9$19b3o$19bo2bo$19bo$19bo$20bobo12$6b3o$
+8bo$7bo4$3o$2bo$bo!

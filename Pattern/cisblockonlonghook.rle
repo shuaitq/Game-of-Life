@@ -1,0 +1,5 @@
+#N cisblockonlonghook.rle
+#C http://conwaylife.com/wiki/Cis-block_on_long_hook
+#C http://conwaylife.com/patterns/cisblockonlonghook.rle
+x = 5, y = 6, rule = b3/s23
+3b2o$o3bo$4o2$2b2o$2b2o!

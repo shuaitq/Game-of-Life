@@ -1,0 +1,17 @@
+#N 33p3.1bumper.rle
+#C http://conwaylife.com/wiki/33P3.1
+#C http://conwaylife.com/patterns/33p3.1bumper.rle
+x = 99, y = 99, rule = B3/S23
+36b2o5b2o$36bobo2bo3bo7b2o$38bo2bo2b2o8b2obo$38bo2bo12b6o$39b2o8bo9bo$
+41bo6bobo3b3ob3o$37b3o8bo2bo4bo3bo$36bo2b2o8b2o8b2o$35bobo3bo18b2o$35b
+obo2bobo18b2o$36bo3bobo18bo$41bo3b2o15b3o$46b2o16bo$45bo3$57bo$58b2o$
+57b2o7$31b2o$30bobo$32bo3$72bo$73bo$71b3o2$11b2o$11bo77b2o$9bobo76bo2b
+o5b2o$8b3o78b2obo5bo$5b4o83bo2b3o$3b3obo9bo73b2obo$3bobo11b2o69b2obo2b
+o$2b2o12bobo68bo2bo2bob3o$3bob2o81b2o$2b2obo92bo$b3obo90bobo$bo83bobo
+8b2o$86b2o$6bo79bo$5bobo84b2o$4bo2bo83bo2bo$5b2o84bobo$12bo79bo$11b2o$
+b2o8bobo83bo$obo90bob3o$o92bob2o$9b2o81b2obo$b3obo2bo2bo68bobo12b2o$4b
+o2bob2o69b2o11bobo$4bob2o73bo9bob3o$b3o2bo83b4o$o5bob2o78b3o$2o5bo2bo
+76bobo$8b2o77bo$86b2o2$25b3o$25bo$26bo3$66bo$66bobo$66b2o7$40b2o$39b2o
+$41bo3$53bo$34bo16b2o$34b3o15b2o3bo$37bo18bobo3bo$36b2o18bobo2bobo$37b
+2o18bo3bobo$38b2o8b2o8b2o2bo$38bo3bo4bo2bo8b3o$38b3ob3o3bobo6bo$39bo9b
+o8b2o$39b6o12bo2bo$41bob2o8b2o2bo2bo$44b2o7bo3bo2bobo$54b2o5b2o!

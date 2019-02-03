@@ -1,0 +1,46 @@
+#N sirrobineater.rle
+#C http://conwaylife.com/wiki/Sir_Robin
+#N Sir Robin eater
+#O Martin Grant; March 2018
+#C Eater for Sir Robin (but not his minstrels), repeat time 557
+#C http://www.conwaylife.com/forums/viewtopic.php?p=57499#p57499
+#C http://conwaylife.com/wiki/Sir_Robin
+#C http://www.conwaylife.com/patterns/sirrobineater.rle
+x = 176, y = 354, rule = B3/S23
+67b2o$67bobo$69bo4b2o$44b2o19b4ob2o2bo2bo$44bobo18bo2bobobobob2o$46bo
+4b2o15bobobobo$42b4ob2o2bo2bo14b2obobo$42bo2bobobobob2o18bo$45bobobobo
+$46b2obobo7b2o$50bo9bo7b2o$60bobo5b2o$36b2o23b2o$37bo7b2o$37bobo5b2o$
+38b2o$27b2o$26bo2bo3b2o$26bobo3bobo$27bob4obob2o33b2o22bo$29bo4bo2bo
+33bo3bo17b3o$28bo3b2obo36b4o16bo$27bo3bobob2o11b2o42b2o$27b2o3bo15bo
+21b4o$49b3o17bo3bo$21b2o28bo17b2o29b2o$22bo78bo$22bobo76bob2o$23b2o52b
+2o14b2o4b3o2bo$78bo14b2o3bo3b2o$78bob2o16b4o$70b2o4b3o2bo2b2o15bo$70b
+2o3bo3bobobobo12b3o$75b4o2bobo13bo$61b2o15bobo2bo14b5o$60bobo12b3o2bob
+o19bo$60bo13bo5b2o18bo$59b2o14b5o20b2o$79bo$77bo$77b2o9$63bo$63b3o$66b
+o$65b2o2$24b2o$23bobo$23bo$22b2o2$75b2o$68b2o5bobo$58b2o8b2o7bo$58bo
+18b2o$56bobo$56b2o6bo$63bobob2o$63bobobobo$60b2obobobobo2bo$60bo2bo2b
+2ob4o$62b2o4bo$68bobo$69b2o4$9bo$9b3o$12bo$11b2o14b2o$26bobo$26bo$3b2o
+20b2o$3bo$2obo$o2b3o4b2o$b2o3bo3b2o$3b4o$3bo15b2o$4b3o12bobo$7bo13bo
+34b2o$2b5o14b2o33bo2bo$2bo53bo3bo$4bo53b3o$3b2o28b2o19b2o6b4o$33b2o19b
+ob2o4b4o$53bo4bo6b3o$54b4o4b2o3bo$52bo9b2o$53bo3bo$35bo22b3o2b2o2bo$
+33b3o18b2o7bo4bo$32bo32bob2o$32b2o28b2o6bo$63b2ob3obo$62b2o3bo2bo$62bo
+bo2b2o$62bo2bobobo$62b3o6bo$63bobobo3bo$22b2o42b2obobo$21bobo5b2o32bo
+6b3o$21bo7b2o$20b2o41bo9bo$63bo3bo6bo$34bo29bo5b5o$30b2obobo28b3o$29bo
+bobobo32b2o$26bo2bobobobob2o26b3o2bo$26b4ob2o2bo2bo24bob3obo$30bo4b2o
+25bo3bo2bo$28bobo32bo4b2ob3o$28b2o35b4obo4b2o$65bob4o4b2o$71bo$72bo2b
+2o$72b2o$73b5o$77b2o$71b3o6bo$72bobo3bobo$71bo3bo3bo$71bo3b2o$70bo6bob
+3o$71b2o3bo3b2o$72b4o2bo2bo$74b2o3bo$73bo$73b2obo$72bo$71b5o$71bo4bo$
+70b3ob3o$70bob5o$70bo$72bo$68bo4b4o$72b4ob2o$69b3o4bo$76bobo$80bo$76bo
+2b2o$77b3o$74b2o$73b3o5bo$76b2o2bobo$73bo2b3obobo$74b2obo2bo$76bobo2b
+2o$78b2o$74b3o4bo$74b3o4bo$75b2o3b3o$76b2ob2o$77b2o$77bo2$76b2o$78bo
+108$149b2o$148b2o$150b2obo$148bo3b3ob2o$147b6ob2o2bo$146b2ob2o4bo$146b
+o4bo6bobo$146b5o4b3o2bo$146b3obo4b2o$151b2o2bobo$147bo3b2o3b2o$152bo3b
+o2bobo$155b3o2b3o$155b2obo$157bob3ob2o$155bo2bo$154b2obo2bobo$154b2o2b
+3o$155bo2bo2bobo$155b2obob2o2b2o$157bob3o$163b3o$164b2o2$156b2o6bo2bo$
+156b2obo4b4o$157b2o3b5o$157bo3b2o$157b2o4bo$157bo4b2o$155b5o2bo2bo$
+158bo5b2o$157b2o6bob3o$158bo4b2o3b2o$161b4o$164b3o$165bo4bo$165b7o$
+168bob2o$164b3o3b2o$167bo5bo$164b2ob3o2bo$163b2o3b2ob2o$163bobo2bobobo
+bo$164b2ob5o3bo$164b2o3bo2bobo$165bo2bo$166bo$165b3o$164bo$164bob3o$
+169bo$163bo6bo$162b2obo3bo$165bob2o$166b3o$169b2o$162b4o4bo$163b5obobo
+$163bo6bo$170bo2bo$170bo2bo$168b6o$166bob2obo$166bo7bo$166bo4b3obo$
+167bo3bobo$167b2o4bobo$168b2obob2o$169bob5o$167bob2o2bo$170bo$167bo4bo
+2bo$168bo3b2o$172bo$170b2o$169b2o$170bo$170bo!

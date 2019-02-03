@@ -1,0 +1,7 @@
+#N whynot_synth
+#O Goldtiger997
+#C Glider synthesis of Why Not
+#C http://conwaylife.com/wiki/why_not
+x = 40, y = 22, rule = B3/S23
+13bo6bo$11bobo4b2o$12b2o5b2o$22b3o$22bo$23bo3$b2o$obo6b2o$2bo7b2o5b3o$
+9bo7bo$18bo$14b3o$16bo$15bo4$38bo$37b2o$37bobo!

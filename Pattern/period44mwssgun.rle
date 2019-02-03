@@ -1,0 +1,11 @@
+#N period44mwssgun.rle
+#O Dietrich Leithner, 1997
+#C http://conwaylife.com/wiki/Period-44_MWSS_gun
+#C http://www.conwaylife.com/patterns/period44mwssgun.rle
+x = 50, y = 40, rule = B3/S23
+8bo$2b2o3bo2bo2b3o4bo$2bo2b2obobobo4bobobo2b2o$17bo7bo$3bobo7b2o5b2obo
+$4bo18b2o3$9b2o$9b2o2$29b2o$29bo$27bobo$15bo11b2o$2o12b3o$2o11bo3bo13b
+2o$13b2ob2o13bo$46bo$45bobo$45bobo$44b2ob2o$13b2ob2o30bo$2o11bo3bo26b
+2obo$2o12b3o14b2o11b2obobo$15bo7b3o4bo2bo14b2o$24bo6b3o$24b2o6bo$26bo$
+24bobo$9b2o13bobo$9b2o$30b2o$30bo$4bo18b2o6b3o$3bobo7b2o5b2obo9bo$17bo
+7bo$2bo2b2obobobo4bobobo2b2o$2b2o3bo2bo2b3o4bo$8bo!

@@ -1,0 +1,5 @@
+#N bipoletiesnake.rle
+#C http://conwaylife.com/wiki/Bipole_tie_snake
+#C http://conwaylife.com/patterns/bipoletiesnake.rle
+x = 9, y = 7, rule = B3/S23
+2obo$ob2o$4b2o$4bobo2$6bobo$7b2o!

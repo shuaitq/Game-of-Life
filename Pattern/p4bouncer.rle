@@ -1,0 +1,14 @@
+#N p4bouncer.rle
+#O Arie Paap, 2018
+#C http://conwaylife.com/wiki/P4_bouncer
+#C http://conwaylife.com/patterns/p4bouncer.rle
+x = 47, y = 60, rule = B3/S23
+o$b2o$2o4$6bo$7b2o$6b2o2$42b2o$41bobo$43bo4$36b2o$35bobo$18bo18bo$19b
+2o$18b2o4$24bo14bo$25b2o11bobo$24b2o12bob3o$33b2o2b2o4bo$33bobo3b2o2bo
+$22b2o11b4o2bob2o$22b2o2b2o3b4o3b2ob2o$26bobo2b3o2b3o3bo$27bo3bobobo2b
+2o2b2o$22b2o8bo2bo7bo$22b4o7b2obobobo2bob2o$22bo6bo3bob2obob3o2bo$18b
+2o3b2obo2bo7bobo5bo$17bo2bo2bob2obobo2bob2o2bo2b3o$17b2obo6b3o3b2obobo
+3bo$18bo2b2obo12bo$18bo8b2obo$19b3obobo3b2o$16b3o2bo2b2obo$16bo2bob2o
+3bob3o$17b2ob2o3b2obo2bo$18bob2o2bo3bo2bo$18bo4bobo2b3o$19b6o$21bo3b2o
+b3o$24b4o3bo$19b5o5b2obo$18bo5bobo3bobo$17bo2b4ob2obobob2o$18b2o2bo5bo
+bo$20bo2bo3b2obo$18b2o9bo$18bo4b6o$19bo4bobo$20bobobo$21b2ob2o!

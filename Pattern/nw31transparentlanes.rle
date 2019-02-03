@@ -1,0 +1,6 @@
+#N nw31transparentlanes.rle
+#C http://conwaylife.com/wiki/Transparent_lane
+#C http://www.conwaylife.com/patterns/nw31transparentlanes.rle
+x = 50, y = 60, rule = B3/S23
+49bo$47b2o$48b2o34$2o$bo$bobo$2b2o3$29b2o$23b2o3b2o$23b2o5bo2$2bo$2bob
+o$2b3o$4bo9$13b2o$13b2o!

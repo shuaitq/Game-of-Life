@@ -1,0 +1,10 @@
+#N p29pentadecathlonhassler.rle
+#C http://conwaylife.com/wiki/P29_pentadecathlon_hassler
+#C http://www.conwaylife.com/patterns/p29pentadecathlonhassler.rle
+x = 58, y = 22, rule = B3/S23
+10bo7bo20bo7bo$9bobo5bobo18bobo5bobo$10bo7bo20bo7bo4$23bo2bob2obo2bo$
+10b3o3b3o3b2o2bo4bo2b2o3b3o3b3o$3b2o6bo5bo5bo2bob2obo2bo5bo5bo6b2o$3bo
+50bo$2obo50bob2o$o2b3o46b3o2bo$b2o3bo14b2o12b2o14bo3b2o$3bob2o14bobo
+10bobo14b2obo$3bo2bo16bo10bo16bo2bo$4b2ob3o6b2o5b2o8b2o5b2o6b3ob2o$6bo
+bobo5b2o22b2o5bobobo$6bo3bo2bo30bo2bo3bo$7b2ob4o30b4ob2o$9bo38bo$9bobo
+34bobo$10b2o34b2o!

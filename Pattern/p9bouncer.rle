@@ -1,0 +1,9 @@
+#N p9bouncer.rle
+#O Matthias Merzenich, 2018
+#C http://conwaylife.com/wiki/P9_bouncer
+#C http://www.conwaylife.com/patterns/p9bouncer.rle
+x = 63, y = 63, rule = B3/S23
+62bo$60b2o$61b2o5$54bo$54bobo$54b2o18$bo33bo$2o31b2o$obo31b2o5$7b2o18b
+o$7bobo17bobo$7bo19b2o10$9b2o$9bobo9b2o$9b3o5b2o2b2o$2o14bobo$bo7b2o6b
+o$bobo4b4o$2b2o3bo3bo7b2o$6bo12bo$6bo2bo10b3o$6bo15bo$2b2o3bo3bo$bobo
+4b4o$bo7b2o$2o$9b3o$9bobo$9b2o!

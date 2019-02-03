@@ -1,0 +1,5 @@
+#N pole3rotor.rle
+#C http://conwaylife.com/wiki/Pole_3
+#C http://www.conwaylife.com/patterns/pole3rotor.rle
+x = 3, y = 1, rule = B2c3c/S
+obo$bbb$bbo!

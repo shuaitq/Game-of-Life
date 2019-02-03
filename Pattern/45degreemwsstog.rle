@@ -1,0 +1,8 @@
+#N 4-degree MWSS-to-G
+#O Ivan Fomichev, 14 October 2015
+#C http://www.conwaylife.com/wiki/445-degree_MWSS-to-G
+#C http://www.conwaylife.com/patterns/45degreemwsstog.rle
+x = 28, y = 26, rule = B3/S23
+14bob2o4bo$14b2obo3bobo$21bobo$12b5o3b2ob3o$11bo2bo2bo8bo$11b2o3b2o2b
+2ob3o$21bobo$27bo$25b3o$2bo21bo$o3bo19b2o$5bo$o4bo$b5o2$21b2o$20bo2bo$
+21b2o$13b2o$12bobo$12bo$11b2o$24b2o$24bo$25b3o$27bo!

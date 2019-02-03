@@ -1,0 +1,8 @@
+#N stopandrestart.rle
+#C http://conwaylife.com/wiki/Stop_and_restart
+#C http://www.conwaylife.com/patterns/stopandrestart.rle
+x = 58, y = 59, rule = B3/S23
+56bo$55bo$55b3o13$12bo$12b3o$15bo$14b2o$8bo$7bobo7b2o$7bobo6bobo$5b3ob
+2o5b2o$4bo$5b3ob2o$7bob2o4$2o$bo$bobo$2b2o2$20bo$19bobo$19bo35bo$20bo
+32b3o$36b2o15bo$2bo33b2o15bo$2bobo$2b3o$4bo20bo$24bobo$24b2o$19b2o12b
+2o$19b2o12bo$34bo$33b2o7$2b2o10b2o$3bo10bo$3o12b3o$o16bo!

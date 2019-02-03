@@ -1,0 +1,7 @@
+#N p30gunexample.rle
+#C http://conwaylife.com/wiki/P30_gun
+#C http://www.conwaylife.com/patterns/p30gunexample.rle
+x = 37, y = 27, rule = B3/S23
+2o$bo$bobo6bo13bo$2b2o6b4o8bobo$11b4o6bobo$11bo2bo5bo2bo$11b4o6bobo$
+10b4o8bobo8b2o$10bo13bo8bobo$35bo$35b2o2$16b3o$15b2ob2o$15b2ob2o$15b5o
+$14b2o3b2o7$14b2o$15bo$12b3o$12bo!

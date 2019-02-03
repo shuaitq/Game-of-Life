@@ -1,0 +1,10 @@
+#N fireship_synth
+#O Goldtiger997, gmc_nxtman
+#C Glider synthesis of fireship
+#C http://conwaylife.com/wiki/fireship
+x = 86, y = 86, rule = B3/S23
+3bo78bo$4bo76bo$2b3o76b3o23$57bo$56bo$56b3o$30bo$31bo$29b3o7$55bo$54bo
+$54b3o$62bo$61b2o$61bobo2$12b3o6b2o$14bo5bobo$13bo8bo51b2o$74bobo$74bo
+8$26b2o$25bobo23bo$27bo22b2o$50bobo5$3b2o76b2o$2bobo76bobo$4bo76bo4$7b
+o70bo$7b2o68b2o$3o3bobo68bobo3b3o$2bo80bo$bo82bo6$7b2o$6bobo$8bo$64b3o
+8b2o$64bo9b2o$65bo10bo!

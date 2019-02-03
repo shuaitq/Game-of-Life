@@ -1,0 +1,23 @@
+#N p435gun.rle
+#O Scot Ellison, 2003
+#C http://conwaylife.com/wiki/Period-435_glider_gun
+#C http://conwaylife.com/patterns/p435gun.rle
+x = 112, y = 68, rule = B3/S23
+82b3o$75b3o3bo3bo$75b3o2bo5bo2$75bobobo7bo$75bobobo7bo2$52b2o21b3o2bo
+5bo7bo$27b2o24bo21b3o3bo3bo6b3o$28bo13b2o6b3o29b3o6bo9bo$28bobo11b2o6b
+o40b2o6b5o$14b2o13b2o67bo5bo$14b2o82bob2o2bo$97b2obobob3obo$102bo4b2o$
+8b2o69bo21b2ob2o$8b2o67b3o19b2obobob5o$12b2o46b2o15bobo18bobobo8bo$12b
+2o14bob4o26b2o15bo19b2ob2ob4o3b2o$28b2o4bo62bo3bo5bo$28bo3bob2o61bo7b
+2o$29b3obo63bo7b2o$7b2o88bo3bo5bo$7b2o88b2ob2ob4o3b2o$57b2o39bobobo8bo
+$27bo3b2o24bo41b2obobob5o$26bobo3bo5b2o3b2o13bo42b2ob2o$26b2o3bo7bo3bo
+13b2o43bo4b2o$30bo6bobobobobo51b2obobob3obo$26b5obo4b2obobob2o52bob2o
+2bo$26bo4bobo6bobo55bo5bo$28bo2bobo6bobo56b5o$27b2o3bo8bo59bo3$10bo59b
+o8bo3b2o$8b5o56bobo6bobo2bo$7bo5bo55bobo6bobo4bo$7bo2b2obo52b2obobob2o
+4bob5o$3bob3obobob2o51bobobobobo6bo$3b2o4bo43b2o13bo3bo7bo3b2o$6b2ob2o
+42bo13b2o3b2o5bo3bobo$b5obobob2o41bo24b2o3bo$o8bobobo39b2o$2o3b4ob2ob
+2o88b2o$4bo5bo3bo88b2o$5b2o7bo63bob3o$5b2o7bo61b2obo3bo$4bo5bo3bo62bo
+4b2o$2o3b4ob2ob2o19bo15b2o26b4obo14b2o$o8bobobo18bobo15b2o46b2o$b5obob
+ob2o19b3o67b2o$6b2ob2o21bo69b2o$3b2o4bo$3bob3obobob2o$7bo2b2obo82b2o$
+7bo5bo67b2o13b2o$8b5o6b2o40bo6b2o11bobo$10bo9bo6b3o29b3o6b2o13bo$17b3o
+6bo3bo3b3o21bo24b2o$17bo7bo5bo2b3o21b2o2$24bo7bobobo$24bo7bobobo2$25bo
+5bo2b3o$26bo3bo3b3o$27b3o!

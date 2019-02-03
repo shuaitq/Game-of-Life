@@ -1,0 +1,8 @@
+#N L112
+#O Dave Buckingham, July 1996
+#C Repeat time 61 ticks
+#C http://conwaylife.com/wiki/L112
+#C http://www.conwaylife.com/patterns/l112.rle
+x = 24, y = 42, rule = B3/S23
+15b2o$15bo$13b3o16$13b2o$13b2o$4b2o$4bo2bo$2o4b2o$bo20b2o$bobo18bo$2b
+2o16bobo$20b2o6$2bo$2bobo$2b3o$4bo2$14b2o$14b2o2b2o$18bobo$20bo$20b2o!

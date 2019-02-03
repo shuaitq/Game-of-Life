@@ -1,0 +1,5 @@
+#N eater bridge eater
+#C http://conwaylife.com/wiki/Eater_bridge_eater
+#C http://www.conwaylife.com/patterns/eaterbridgeeater.rle
+x = 8, y = 5, rule = B3/S23
+2o$o5b2o$b3obobo$3bobo$4b2o!

@@ -1,0 +1,19 @@
+#N shuriken_synth
+#O Mark D. Niemiec's life synthesis database, Thu Feb 19 02:01:32 2015
+x = 75, y = 82, rule = B3/S23
+10bobo38bo$10boo37bobo5bo$11bo38boo5bobo$7bo34bo14boo$5bobo35bo8bo$6b
+oo10bo22b3o8bobo$17bo34boo$17b3o$30bxx13bo24bxx$7bo21bxb3x12bo14bo7bxb
+3x$o4bobo13boo6bx4bx9b3o13bo8bx4bx$boo3boobboo8boo6bxx3bxx5b3o17b3o5b
+xx3bxx$oo7bobo10bo5bx4bx8bo13b3o9bx4bx$11bo17b3xbx7bo14bo12b3xbx$31bxx
+24bo13bxx$3b3o$5bo43boo$4bo10boo31bobo8b3o$15bobo32bo8bo$15bo28boo14bo
+$11bo31bobo5boo$11boo32bo5bobo$10bobo38bo7$51bobo$50bo$50bo3bo$50bo3bo
+$50bo$50bobbo$50b3o3$30b3x8boo7b3o17bxx$11bo27bo4bo24bxb3x$9bobo16bx5b
+x10bobbo5bobb6o6bx4bx$6boobboo16bx5bx4bo5bobbo5bobbo5bo4bxx3bxx$5bobo
+20bx5bx5b6obbo5bobbo10bx4bx$7bo50bo4bo5b3xbx$30b3x17b3o7boo9bxx3$50b3o
+$49bobbo$52bo$48bo3bo$48bo3bo$52bo$49bobo8$11bobo$10bo46bo$10bo45bo$
+10bobbo30bo11b3o$10b3o19b3y7bobo7b3o$43boo$$10b3o12by4bxx13bo4boo18bxx
+$bobbo20by3bxb3x11bo3bob3o15bxb3x$5bobbo5bobb4o4by3bx4bx10bo3bo4bo14bx
+4bx$bo3bobbo5bobbo3bo6bxx3bxx13boo3boo13bxx3bxx$bb4obbo5bobbo10bx4bx3b
+y10bo4bo3bo10bx4bx$18bobbo7b3xbx3by11b3obo3bo11b3xbx$10b3o18bxx4by13b
+oo4bo13bxx$$58boo$10b3o15b3y17b3o7bobo$9bobbo31b3o11bo$12bo33bo$12bo
+32bo$9bobo!

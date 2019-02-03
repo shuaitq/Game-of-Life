@@ -1,0 +1,17 @@
+#N diehard1340.rle
+#C http://conwaylife.com/wiki/Die_hard
+#C http://conwaylife.com/patterns/diehard1340.rle
+#C https://catagolue.appspot.com/object/messless_13h/b3s23
+x = 31, y = 31, rule = B3/S23
+bo2b6ob4ob4ob6o2bo$2obobo5bo3bo3bo5bobob2o$2bobobobobo2bo3bo2bobobobob
+o$bo2b2obobo5bo5bobob2o2bo$ob4obob3obo3bob3obob4obo$2ob3o4bobobobobobo
+4b3ob2o$obo3b2o2bob7obo2b2o3bobo$o2b2obo2bobo3bo3bobo2bob2o2bo$obo5b2o
+bo7bob2o5bobo$o2b2o2b4o2bo3bo2b4o2b2o2bo$2bob3o2b2ob2obob2ob2o2b3obo$
+2o2bo2b2o2b2o2bo2b2o2b2o2bo2b2o$o4b2o3b2obo3bob2o3b2o4bo$obobobo2b2obo
+bobobob2o2bobobobo$o4b2o6b5o6b2o4bo$bobo2b2o2b2o2bobo2b2o2b2o2bobo$o4b
+2o6b5o6b2o4bo$obobobo2b2obobobobob2o2bobobobo$o4b2o3b2obo3bob2o3b2o4bo
+$2o2bo2b2o2b2o2bo2b2o2b2o2bo2b2o$2bob3o2b2ob2obob2ob2o2b3obo$o2b2o2b4o
+2bo3bo2b4o2b2o2bo$obo5b2obo7bob2o5bobo$o2b2obo2bobo3bo3bobo2bob2o2bo$o
+bo3b2o2bob7obo2b2o3bobo$2ob3o4bobobobobobo4b3ob2o$ob4obob3obo3bob3obob
+4obo$bo2b2obobo5bo5bobob2o2bo$2bobobobobo2bo3bo2bobobobobo$2obobo5bo3b
+o3bo5bobob2o$bo2b6ob4ob4ob6o2bo!

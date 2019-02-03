@@ -1,0 +1,5 @@
+#N zquadloaf.rle
+#C http://conwaylife.com/wiki/Z_quad-loaf
+#C http://www.conwaylife.com/patterns/zquadloaf.rle
+x = 7, y = 13, rule = B3/S23
+5bo$4bobo$3bo2bo$2bob2o$bobo$o2bo$b2ob2o$3bo2bo$3bobo$b2obo$o2bo$obo$bo!

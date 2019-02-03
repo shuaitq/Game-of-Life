@@ -1,0 +1,8 @@
+#N dayandnightfireball.rle
+#C http://conwaylife.com/wiki/Alien
+#C http://www.conwaylife.com/patterns/dayandnightfireball.rle
+x = 11, y = 51, rule = B3678/S34678
+6bo$6b2o2$8bo$5bo2bo$5b3o9$3bo$3bo$b3obob2o$ob3ob2obo$ob7o$b9o$3b7o$
+11o$obob5obo$2b6obo$bob4obo$3b6o$3b5o$3b2o$2b2o$3b2ob2o$3b2obo$4b3o$ob
+ob2obo$o2b5o$2b4obo$ob4o$b6o$2b4o$2b4obo$3b4ob2o$3b7o$4b5o$3b7o$11o$
+11o$b9o$8o$b8o$2b6o$3b4o$4b2o!

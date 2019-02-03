@@ -1,0 +1,5 @@
+#N rotatedtable.rle
+#C http://conwaylife.com/wiki/Rotated_table
+#C http://conwaylife.com/patterns/rotatedtable.rle
+x = 6, y = 5, rule = B3/S23
+o2bo$4o2$2b4o$2bo2bo!

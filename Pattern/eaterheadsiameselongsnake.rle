@@ -1,0 +1,5 @@
+#N eaterheadsiameselongsnake.rle
+#C http://conwaylife.com/wiki/Eater_head_siamese_long_snake
+#C http://conwaylife.com/patterns/eaterheadsiameselongsnake.rle
+x = 5, y = 8, rule = B3/S23
+4bo$2b3o$bo$b2o$2bo$bo$o$2o!

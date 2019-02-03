@@ -1,0 +1,5 @@
+#N inflectedlongsnake.rle
+#C http://conwaylife.com/wiki/Inflected_long_snake
+#C http://conwaylife.com/patterns/inflectedlongsnake.rle
+x = 4, y = 8, rule = B3/S23
+2b2o$bobo$o$b2o$2bo$bo$o$2o!

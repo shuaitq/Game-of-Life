@@ -1,0 +1,5 @@
+#N briansbrainp3.rle
+#C http://conwaylife.com/wiki/Brian%27s_Brain
+#C http://www.conwaylife.com/patterns/briansbrainp3.rle
+x = 4, y = 4, rule = /2/3
+2.A$A2B$.2BA$.A!

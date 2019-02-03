@@ -1,0 +1,15 @@
+#N p58toadflipper.rle
+#C http://conwaylife.com/wiki/P58_toadsucker
+#C http://conwaylife.com/patterns/p58toadflipper.rle
+x = 64, y = 60, rule = B3/S23
+15bo32bo$13b3o32b3o$12bo38bo$12b2o36b2o2$bo60bo$obo4bo48bo4bobo$bo5b2o
+6b2o30b2o6b2o5bo$7bo7b2o30b2o7bo4$7bo48bo$bo5b2o10b2o22b2o10b2o5bo$obo
+4bo11b2o5b2o8b2o5b2o11bo4bobo$bo24bo10bo24bo$24bobo10bobo$24b2o12b2o2$
+14bo34bo$13b3o32b3o$20bo5bo2bob2obo2bo5bo$19b3o3b2o2bo4bo2b2o3b3o$26bo
+2bob2obo2bo2$13bo36bo$12bobo34bobo$13bo5b2o22b2o5bo$19b2o11bo10b2o$31b
+o2bo$31bo2bo$19b2o12bo9b2o$13bo5b2o22b2o5bo$12bobo34bobo$13bo36bo2$26b
+o2bob2obo2bo$19b3o3b2o2bo4bo2b2o3b3o$20bo5bo2bob2obo2bo5bo$13b3o32b3o$
+14bo34bo2$24b2o12b2o$24bobo10bobo$bo24bo10bo24bo$obo4bo11b2o5b2o8b2o5b
+2o11bo4bobo$bo5b2o10b2o22b2o10b2o5bo$7bo48bo4$7bo7b2o30b2o7bo$bo5b2o6b
+2o30b2o6b2o5bo$obo4bo48bo4bobo$bo60bo2$12b2o36b2o$12bo38bo$13b3o32b3o$
+15bo32bo!

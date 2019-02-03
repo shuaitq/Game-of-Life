@@ -1,0 +1,16 @@
+#N quasar3.rle
+#C http://conwaylife.com/wiki/Quasar
+#C http://conwaylife.com/patterns/quasar3.rle
+x = 61, y = 61, rule = B3/S23
+26b3o3b3o2$24bo4bobo4bo$24bo4bobo4bo$24bo4bobo4bo$26b3o3b3o2$24b3o7b3o
+$18b3o2bo4bo3bo4bo2b3o$23bo4bo3bo4bo$16bo4bobo4bo3bo4bobo4bo$16bo4bo
+17bo4bo$16bo4bo2b3o7b3o2bo4bo$18b3o19b3o2$16b3o23b3o$10b3o2bo4bo19bo4b
+o2b3o$15bo4bo19bo4bo$8bo4bobo4bo19bo4bobo4bo$8bo4bo33bo4bo$8bo4bo2b3o
+23b3o2bo4bo$10b3o35b3o2$8b3o39b3o$2b3o2bo4bo35bo4bo2b3o$7bo4bo35bo4bo$
+o4bobo4bo35bo4bobo4bo$o4bo49bo4bo$o4bo2b3o39b3o2bo4bo$2b3o51b3o2$2b3o
+51b3o$o4bo2b3o39b3o2bo4bo$o4bo49bo4bo$o4bobo4bo35bo4bobo4bo$7bo4bo35bo
+4bo$2b3o2bo4bo35bo4bo2b3o$8b3o39b3o2$10b3o35b3o$8bo4bo2b3o23b3o2bo4bo$
+8bo4bo33bo4bo$8bo4bobo4bo19bo4bobo4bo$15bo4bo19bo4bo$10b3o2bo4bo19bo4b
+o2b3o$16b3o23b3o2$18b3o19b3o$16bo4bo2b3o7b3o2bo4bo$16bo4bo17bo4bo$16bo
+4bobo4bo3bo4bobo4bo$23bo4bo3bo4bo$18b3o2bo4bo3bo4bo2b3o$24b3o7b3o2$26b
+3o3b3o$24bo4bobo4bo$24bo4bobo4bo$24bo4bobo4bo2$26b3o3b3o!

@@ -1,0 +1,23 @@
+#N Twin bees shuttle interactions
+#C Interactions between gliders, LWSS, and MWSS catalyzed by twin bees shuttle
+#C http://www.conwaylife.com/wiki/Twin_bees_shuttle
+#C http://www.conwaylife.com/patterns/twinbeesshuttleinteractions.rle
+x = 192, y = 109, rule = B3/S23
+156b2o5b2o$11b2o143b2o5b2o$b2o7bobo$b2o6b2obo$10b2o26b2o68b2o$11bo26bo
+bo7b2o58b2o$40bo7b2o4b3o$11bo26b3o13bo2bo$10b2o42bo33b2o$b2o6b2obo41bo
+3bo29b2o$b2o7bobo41bo26b2o$11b2o7bobo15b3o14bobo22b5o$20b2o18bo7b2o14b
+2o14bo4bo3b2o$21bo16bobo7b2o14b2o14b3o2bo3b2o17b3o3b3o$38b2o41bo2b2o
+21bo2bo3bo2bo$82b2o23b2obo3bob2o2$b2o39bo2bo19b2o15b2o71b2obo3bob2o$b
+2o17b4o22bo18b2o14bo2b2o69bo2bo3bo2bo$19bo3bo18bo3bo13b3o17b3o2bo3b2o
+65b3o3b3o$23bo19b4o13bo2bo16bo4bo3b2o$19bo2bo36bo4bo15b5o42b2o$61bobo
+17b2o44bobo$59b4o25b2o37bo$60bo27b2o$b3o3b3o$bo2bobo2bo$o3bobo3bo$4o3b
+4o$bo7bo$148b3o3b3o12b3o$108b2o5b2o30bo2bo3bo2bo11bo$108b2o5b2o30b2obo
+3bob2o12bo$138b3o$138bo$59b3o5b3o69bo$59b3o5b3o$60b2o5b2o$62bo3bo$60bo
+2bobo2bo$59bo3bobo3bo$60bo2bobo2bo112b2o$60b3o3b3o112bobo$181bo$b2o5b
+2o46b2o13b2o$b2o5b2o46b2o2b2o5b2o2b2o$60b2o5b2o2$148b2o5b2o$148b2o5b2o
+19$114b4o$114bo3bo$88b2o24bo26b2o$88b2o25bo2bo22b2o2$148b2o$140b2o5bob
+o15b2o$140b2o5bo17b2o$147b3o2$189bo$89bo5bo68b2o21bo3bo$88b3o3b3o50b3o
+14b2o20bo$87b2obo3bob2o42b2o5bo38bo4bo$140b2o5bobo19bo16b5o$148b2o18b
+3o$90bo3bo73bo$90bo3bo46b2o26bo2bo$141b2o27bobo3$169bo$170b2o4$84b2o
+13b2o$84b2o2b2o5b2o2b2o$88b2o5b2o2$162bo7bo$161b4o3b4o$161bo3bobo3bo$
+162bo2bobo2bo$162b3o3b3o4$158b2o13b2o$158b2o2b2o5b2o2b2o$162b2o5b2o!

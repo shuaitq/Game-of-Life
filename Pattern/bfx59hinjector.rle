@@ -1,0 +1,8 @@
+#N BFx59Hinjector.rle
+#C http://conwaylife.com/wiki/BFx59H_injector
+#C http://conwaylife.com/patterns/BFx59Hinjector.rle
+x = 48, y = 62, rule = B3/S23
+42bobo$42b2o$43bo14$20b2obo$11bob2o6b3o$11b2obo7bo2$20b2o$20b2o16$20b
+3o5b2o3bo$22bo6bo2bobo12bo$22b2o3bo4bobo10b3o$27b5obo10bo$31bo12b2o$
+27b2o3bo$27bobo3bo$b2o25bo3b2o$obo$2bo5b2o$8b2o$32bo$30b3o$30bo$13b2o
+15bo$13b2o$9b2o$9b2o3$15b2o27b2o$15b2o14b2o11b2o$32bo$29b3o$29bo!

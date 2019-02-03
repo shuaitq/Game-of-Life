@@ -1,0 +1,24 @@
+#N syringeGtoH_synth
+#O Martin Grant, gmc_nxtman
+#C Glider synthesis of syringe
+#C http://conwaylife.com/wiki/syringe
+x = 301, y = 274, rule = B3/S23
+148b2o$147b3o$16bobo128b2obo$17b2o129b3o$17bo131bo2$16bo$17bo$15b3o5$
+257bobo$257b2o$258bo35$223bo$221b2o$41bo180b2o$42bo$40b3o$221bo$220bo$
+220b3o3$41bo$42bo23bobo180bo$40b3o24b2o179bo$67bo180b3o6$69bobo3bobo$
+70b2o4b2o$70bo5bo3$59bo175bo$60bo174bobo$58b3o14bobo157b2o$76b2o138bob
+o$76bo139b2o$217bo2$93bo$91bobo$92b2o$215bo$97bo115b2o$98bo115b2o$96b
+3o$209bo$208bo$208b3o4$207bo$207bobo$207b2o$102bobo$103b2o$103bo92bo$
+195bo7bo8bobo$195b3o5bobo6b2o$96bo106b2o8bo$97bo83bo$95b3o82bo12bo$
+100bo79b3o8b2o$101b2o83bo5b2o$100b2o82b2o$185b2o$200bo$199bo$199b3o2$
+179bobo$179b2o$180bo13$125bo$126b2o$125b2o5$147bo$132bo12bobo$130bobo
+13b2o$131b2o$162bo$162bobo$157bo4b2o126bo2bo$157bobo129bo$157b2o130bo
+3bo$289b4o$2b2o153bo140b2o$2ob2o153bo138b4o$4o152b3o137b2ob2o$b2o294b
+2o20$122b2o$123b2o$122bo2$162bo$161b2o$125b2o34bobo$124bobo$126bo10$
+100b2o$99bobo$101bo2$195b2o$194b2o$196bo4$93b2o8b2o78b2o$92bobo7bobo
+78bobo$94bo9bo78bo12b3o$107bo88bo$107b2o88bo$106bobo$183b2o22b3o$182b
+2o23bo$184bo23bo4$217b2o$217bobo$217bo4$98bo$98b2o$78b3o16bobo$80bo$
+79bo145b2o$202b2o20b2o$202bobo21bo$202bo8$52bo$52b2o$51bobo11$232b2o$
+62b2o168bobo$63b2o167bo21bo$62bo190b2o$253bobo$65b2o$13b2o49bobo$12bob
+o51bo$14bo214bo$228b2o$228bobo2$62b2o170b3o$61bobo170bo$63bo171bo4b2o$
+240bobo$240bo6bo$246b2o$246bobo11$286bo$285b2o$285bobo!

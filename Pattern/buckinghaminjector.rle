@@ -1,0 +1,6 @@
+#N buckinghaminjector.rle
+#C http://conwaylife.com/wiki/Injection
+#C http://www.conwaylife.com/patterns/buckinghaminjector.rle
+x = 23, y = 21, rule = B3/S23
+2bobo$3b2o$3bo17bo$20bo$20b3o3$10bo$11b2o$10b2o2$b2o$obo2b2o$2bob2o$6b
+o4$5b2o$6b2o$5bo!

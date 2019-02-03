@@ -1,0 +1,12 @@
+#N cismirroredprofessor_synth
+#O 
+#C Glider synthesis of the cis-mirrored professor.
+#C http://conwaylife.com/wiki/Professor.
+x = 131, y = 53, rule = B3/S23
+90bo$90bobo$90b2o3$49bo$47b2o36b3o$48b2o$39bobo41bo5bo$40b2o41bo5bo$
+40bo42bo5bo$54bo$53bo31b3o$53b3o5$83b2o3b2o33b2o3b2o$82bo2bobo2bo31bo
+2bobo2bo$82b2obobob2o31b2obobob2o$85bobo37bobo$82b2obobob2o31b2obobob
+2o$82b2obobob2o31b2obobob2o$85bobo37bobo$85bobo37bobo$82b2obobob2o31b
+2obobob2o$bo80bo2bobo2bo31bo2bobo2bo$2bo35b2o43b2o3b2o33b2o3b2o$3o36b
+2o15b2o$38bo7bo8b2o$45bobo9bo$45bobo$3b3o40bo$5bo$4bo15$59b3o$59bo$60b
+o!

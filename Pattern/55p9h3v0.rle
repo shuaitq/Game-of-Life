@@ -1,0 +1,7 @@
+#N 55p9h3v0.rle
+#O Paul Tooke, 2001
+#C http://conwaylife.com/wiki/55P9H3V0
+#C http://conwaylife.com/patterns/55p9h3v0.rle
+x = 21, y = 13, rule = B3/S23
+6b3o3b3o$2bob2o3bobo3b2obo$b3o3bobobobo3b3o$o3bo4bobo4bo3bo$bo7bobo7bo
+$8bobobo$8bobobo2$10bo$9bobo$7b2o3b2o$7bobobobo$7b2o3b2o!

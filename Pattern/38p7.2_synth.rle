@@ -1,0 +1,14 @@
+#N 38P7.2_synth
+#O gmc_nxtman
+#C Glider synthesis of 38P7.2
+#C http://conwaylife.com/wiki/38P7.2
+x = 175, y = 37, rule = B3/S23
+136bo$134bobo$135b2o$147bobo$132bo14b2o$133b2o13bo$132b2o2bo$136bobo$
+136b2o$133bo$72bo58bobo$73bo3bo30b2o22b2o6b2o$71b3ob2o30bo2bo28bo2bo
+22b2o$76b2o29bo2bo28bo2bo24bo5bo$108b2o30b2o24bo2b2o3bo$bo3bo159bo3bo
+4bo$2bobo28b2ob2o27b2ob2o27b2ob2o27b2ob2o30bo2bo3bobo$3ob3o26b2ob2o27b
+2ob2o27b2ob2o27b2ob2o31b4o2$3ob3o26b2ob2o27b2ob2o27b2ob2o27b2ob2o31b4o
+$2bobo28b2ob2o27b2ob2o27b2ob2o27b2ob2o30bo2bo3bobo$bo3bo159bo3bo4bo$
+108b2o30b2o24bo2b2o3bo$76b2o29bo2bo28bo2bo24bo5bo$71b3ob2o30bo2bo28bo
+2bo22b2o$73bo3bo30b2o22b2o6b2o$72bo58bobo$133bo$136b2o$136bobo$132b2o
+2bo$133b2o13bo$132bo14b2o$147bobo$135b2o$134bobo$136bo!

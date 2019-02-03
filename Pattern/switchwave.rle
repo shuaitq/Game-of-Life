@@ -1,0 +1,9 @@
+#N Switchwave
+#O Unknown
+#C http://conwaylife.com/wiki/Switchwave
+#C http://conwaylife.com/patterns/switchwave.rle
+x = 78, y = 78, rule = B3/S23
+69bobo2$69bo2bo$71b2o$72bo5$69b2o$71bo$69b2o6$52bobo6bobo$51bo9bobo$
+52bo2bo6bo$54b3o5$44bo$43bobo2$43bo2bo$45b2o$46bo5$43b2o$45bo$43b2o6$
+26bobo6bobo$25bo9bobo$26bo2bo6bo$28b3o5$18bo$17bobo2$17bo2bo$19b2o$20b
+o5$17b2o$19bo$17b2o6$obo6bobo$9bobo65bo$o2bo6bo$2b3o5$70bo!

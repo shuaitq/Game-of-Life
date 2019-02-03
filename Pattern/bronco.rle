@@ -1,0 +1,10 @@
+#N bronco.rle
+#O Tanner Jacobi, 2018
+#C http://conwaylife.com/wiki/Bronco
+#C http://conwaylife.com/patterns/bronco.rle
+x = 55, y = 48, rule = B3/S23
+o$b2o35bo$2o35bobo$38bo2$36b5o$35bo4bo12b2o$34bo2bo9b2o5bo$31bo2bob2o
+9bobob3o$30bobobo5bo8bobo$31bo2bo4bobo7b2o$34b2o2bo2bo$39b2o$52b2o$28b
+o23b2o$28b3o$31bo$30b2o7$bo$b3o$3bo15b2o$3bo15b2o3$49b2o$49b2o2$22b2o$
+23bo29b2o$20b3o30bo$20bo6b2o22bobo$26bobo22b2o$26bo$25b2o8b2o$35b2o$
+51b2o$51bobo$53bo$53b2o2$43b2o$43b2o!

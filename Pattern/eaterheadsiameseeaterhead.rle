@@ -1,0 +1,5 @@
+#N eaterheadsiameseeaterhead.rle
+#C http://conwaylife.com/wiki/Eater_head_siamese_eater_head
+#C http://conwaylife.com/patterns/eaterheadsiameseeaterhead.rle
+x = 6, y = 7, rule = B3/S23
+o$3o$3bo$2b2o$2bo$3b3o$5bo!

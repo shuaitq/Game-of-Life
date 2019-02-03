@@ -1,0 +1,5 @@
+#N Orthogonal on-off
+#C http://conwaylife.com/wiki/Orthogonal_on-off
+#C http://conwaylife.com/patterns/domino.rle
+x = 2, y = 1, rule = B3/S23
+2o!

@@ -1,0 +1,5 @@
+#C 15-cell 32829-generation methuselah
+#C found by Richard Wobus with Nathaniel Johnston's soup search
+#C   on Oct. 7, 2010
+x = 23, y = 31, rule = B3/S23
+3o20$3bo$3bo$3bo5$20b3o$9b3o10bo$22bo$21bo!

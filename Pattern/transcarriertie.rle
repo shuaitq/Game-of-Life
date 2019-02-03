@@ -1,0 +1,5 @@
+#N transcarriertie.rle
+#C http://conwaylife.com/wiki/Trans-carrier-tie
+#C http://conwaylife.com/patterns/transcarriertie.rle
+x = 7, y = 7, rule = B3/S23
+5b2o$3bo2bo$3b2o$b2o$2bo$o$2o!

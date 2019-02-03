@@ -1,0 +1,16 @@
+#N houndstooth.rle
+#C http://conwaylife.com/wiki/Houndstooth_agar
+#C http://conwaylife.com/patterns/houndstooth.rle
+x = 32, y = 32, rule = B3/S23:T32,32
+ob3ob3ob3ob3ob3ob3ob3ob2o$b3ob3ob3ob3ob3ob3ob3ob3o$3bo3bo3bo3bo3bo3bo
+3bo3bo$2bo3bo3bo3bo3bo3bo3bo3bo$ob3ob3ob3ob3ob3ob3ob3ob2o$b3ob3ob3ob3o
+b3ob3ob3ob3o$3bo3bo3bo3bo3bo3bo3bo3bo$2bo3bo3bo3bo3bo3bo3bo3bo$ob3ob3o
+b3ob3ob3ob3ob3ob2o$b3ob3ob3ob3ob3ob3ob3ob3o$3bo3bo3bo3bo3bo3bo3bo3bo$
+2bo3bo3bo3bo3bo3bo3bo3bo$ob3ob3ob3ob3ob3ob3ob3ob2o$b3ob3ob3ob3ob3ob3ob
+3ob3o$3bo3bo3bo3bo3bo3bo3bo3bo$2bo3bo3bo3bo3bo3bo3bo3bo$ob3ob3ob3ob3ob
+3ob3ob3ob2o$b3ob3ob3ob3ob3ob3ob3ob3o$3bo3bo3bo3bo3bo3bo3bo3bo$2bo3bo3b
+o3bo3bo3bo3bo3bo$ob3ob3ob3ob3ob3ob3ob3ob2o$b3ob3ob3ob3ob3ob3ob3ob3o$3b
+o3bo3bo3bo3bo3bo3bo3bo$2bo3bo3bo3bo3bo3bo3bo3bo$ob3ob3ob3ob3ob3ob3ob3o
+b2o$b3ob3ob3ob3ob3ob3ob3ob3o$3bo3bo3bo3bo3bo3bo3bo3bo$2bo3bo3bo3bo3bo
+3bo3bo3bo$ob3ob3ob3ob3ob3ob3ob3ob2o$b3ob3ob3ob3ob3ob3ob3ob3o$3bo3bo3bo
+3bo3bo3bo3bo3bo$2bo3bo3bo3bo3bo3bo3bo3bo!

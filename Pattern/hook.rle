@@ -1,0 +1,6 @@
+#N Hook
+#O Unknown
+#C http://conwaylife.com/wiki/Hook
+#C http://conwaylife.com/patterns/hook.rle
+x = 3, y = 2, rule = B3/S23
+obo$b2o!

@@ -1,0 +1,9 @@
+#N Pre-pulsar shuttle 28 variant
+#O Matthias Merzenich
+#C (One of) the smallest known period 28 oscillator in terms of population
+#C as of November 2016.
+#C http://conwaylife.com/wiki/Pre-pulsar_shuttle_28
+x = 22, y = 17, rule = B3/S23
+7b2o$2o5b2o8bo$bo14bob2o$bobo16bo$2b2o12bo2bobo$18bo2bo$19b2o2$7bo5bo$
+6b3o3b3o$2bo15bo$bobo13bobo$2bo15bo$8bo3bo$8bo3bo$3b2o3bo3bo3b2o$3b2o
+11b2o!

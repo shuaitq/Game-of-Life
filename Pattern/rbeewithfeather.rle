@@ -1,0 +1,5 @@
+#N rbeewithfeather.rle
+#C http://conwaylife.com/wiki/R-bee_with_feather
+#C http://conwaylife.com/patterns/rbeewithfeather.rle
+x = 6, y = 5, rule = B3/S23
+3bo$obobo$2obobo$3bobo$3b2o!

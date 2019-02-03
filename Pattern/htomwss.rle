@@ -1,0 +1,10 @@
+#N htomwss.rle
+#O Tanner Jacobi, 2011
+#C http://conwaylife.com/wiki/H-to-MWSS
+#C http://www.conwaylife.com/patterns/htomwss.rle
+x = 61, y = 54, rule = B3/S23
+19b3o$19bo2bo$19bo$19bo3bo$19bo$20bobo29b2o$52b2o3$58b2o$58b2o$54b2o$
+38bo15b2o$15bo22bo$14bobo16b2ob3o$14bobo16b2obo$15bo43b2o$59b2o7$17bo
+27b2o$16bobo27bo$17b2o27b3o4$8bo$8b3o$11bo$10b2o11b2o11bo$23b2o9b3o$
+34bo$34bo4$9bo21b2o21b2o$9bobo18bobo21b2o$9b3o18bo17b2o$11bo17b2o17b2o
+3$50b2o$43b2o5b2o$2b2o39b2o$3bo$3o20b2o$o22bo$24b3o$26bo!

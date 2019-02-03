@@ -1,0 +1,5 @@
+#N 31c/240 reaction
+#C A reaction consisting of Herschels climbing blocks, used by some spaceships, such as the shieldbug and the centipede.
+#C http://conwaylife.com/wiki/31c/240_reaction
+x = 10, y = 26, rule = B3/S23
+8b2o$8b2o22$3o$bo$b3o!

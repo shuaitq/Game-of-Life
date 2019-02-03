@@ -1,0 +1,6 @@
+#N unixonrichsp16.rle
+#C http://conwaylife.com/wiki/Unix_on_Rich%27s_p16
+#C http://conwaylife.com/patterns/unixonrichsp16.rle
+x = 23, y = 17, rule = B3/S23
+14bo3bo$13bobobobo$14b2ob2o2$11bo9bo$10bobo7bobo$10bo3b2ob2o3bo$11bo3b
+obo3bo$12b2obobob2o$5b2o7bo3bo$5b2o3$5b3o$2o2bob2o$2o2b2o$4b2o!

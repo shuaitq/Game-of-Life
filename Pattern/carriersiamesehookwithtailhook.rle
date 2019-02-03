@@ -1,0 +1,5 @@
+#N carriersiamesehookwithtailhook.rle
+#C http://conwaylife.com/wiki/Carrier_siamese_hook-with-tail_hook
+#C http://conwaylife.com/patterns/carriersiamesehookwithtailhook.rle
+x = 8, y = 4, rule = B3/S23
+2o$bo4b2o$bob2o2bo$2bob2o!

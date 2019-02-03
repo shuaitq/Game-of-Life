@@ -1,0 +1,12 @@
+#N silvergtohplusf166.rle
+#C http://conwaylife.com/wiki/Silver_G-to-H
+#C http://www.conwaylife.com/patterns/silvergtohplusf166.rle
+x = 125, y = 102, rule = B3/S23
+92b2o$44bo48bo$44b3o5b2o38bo$47bo4b2o38b2o$46b2o$123bo$122bobo$47b2o
+73bobo$47b2o3b2o13b2o54bo$52b2o13b2o26b2o15bo$95b2o15bo$112b3o$114bo2$
+22bo$20b3o$4bo14bo45b2o$4b3o12b2o43bobo38b2o$7bo56bo41bo$6b2o55b2o25b
+2o11b3o$90b2o11bo2$7b2o$7b2o17b2o48b2o$26b2o49bo$74b3o$74bo$86b2o$86bo
+$87b3o$23b2o64bo$23bo$25bo$24b2o$20b2o$20bo$21b3o$23bo6$29b2o$29bo$10b
+2o15bobo$10b2o15b2o12$9b2o$8bobo$8bo$7b2o9$19b2o$19b2o6$8b2o$9bo19b2o$
+9bobo17bo$10b2o15bobo$22bo4b2o$21bobo$21bobo$10b2o10bo$9bobo$9bo$8b2o$
+23b2o$23bo$24b3o$26bo8$b2o$obo$2bo!

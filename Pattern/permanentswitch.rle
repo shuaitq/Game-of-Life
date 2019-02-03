@@ -1,0 +1,7 @@
+#N permanentswitch.rle
+#C http://conwaylife.com/wiki/Permanent_switch
+#C http://www.conwaylife.com/patterns/permanentswitch.rle
+x = 59, y = 34, rule = B3/S23
+b2o$2bo$bo$b2o47b2o$51bo$50bo$50b2o$34bo$34bobo$o3b2o28b2o$2o2b2o$b2o
+22b2o$2o23b2o26b2o$53b2o5$13b2o$12bobo8b2o$14bo7bobo$22bo$21b2o25b2o$
+48b2o3$34b2o21b2o$35bo22bo$32b3o20b3o$32bo22bo$44b2o$44bo$45b3o$47bo!

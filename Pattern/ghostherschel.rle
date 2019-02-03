@@ -1,0 +1,5 @@
+#N ghostherschel.rle
+#C http://conwaylife.com/wiki/Ghost_Herschel
+#C http://www.conwaylife.com/patterns/ghostherschel.rle
+x = 3, y = 4, rule = B3/S23
+o$o$3o$2bo!

@@ -1,0 +1,6 @@
+#N simkinglidergun_synth.rle
+#C http://conwaylife.com/wiki/Simkin_glider_gun
+#C http://conwaylife.com/patterns/simkinglidergun_synth.rle
+x = 39, y = 33, rule = B3/S23
+24bo$22b2o$23b2o10$o$b2o2bo$2o3b2o$4bobo27bo$34bobo$34b2o2$b2o17bo8bo$
+obo18b2o5bo$2bo17b2o6b3o6$28b2o$27bobo$29bo$37bo$36b2o$36bobo!

@@ -1,0 +1,8 @@
+#N p156gun.rle
+#O Jason Summers, 2004
+#C http://conwaylife.com/wiki/Period-156_glider_gun
+#C http://conwaylife.com/patterns/p156gun.rle
+x = 42, y = 42, rule = B3/S23
+20b2o$20b2o$6b2o$5b2o$7bo$3bo$2b2o18b2o$2bobo17bo$22bo$23bo9$32bo2bo$
+33b3o$2o38b2o$2o38b2o$6b3o$6bo2bo9$18bo$19bo$19bo17bobo$18b2o18b2o$38b
+o$34bo$35b2o$34b2o$20b2o$20b2o!

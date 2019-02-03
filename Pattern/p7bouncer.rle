@@ -1,0 +1,10 @@
+#N p7bouncer.rle
+#O Noam Elkies, 1998
+#C http://conwaylife.com/wiki/P7_bouncer
+#C http://www.conwaylife.com/patterns/p7bouncer.rle
+x = 66, y = 65, rule = B3/S23
+64bo$63bo$63b3o5$57bo$56bo$56b3o14$b2o$2o$2bo3$36bo$35bo$8b2o25b3o$7b
+2o$9bo3$29bo$28bo$28b3o6$12b2o$12bobo$14bo$9bo2bob2o9b2o$9b4o2bo5b2o2b
+2o$13b3o4bobo$9b4o2bo5bo$8bo3bob2o$7bob4obo8b2o$7bobo2bobo8bo$6b2obobo
+bob2o7b3o$6bo2b3obo2bo9bo$8bo3bobo$9b2obob2o$10bo$8bobob4o$7bob4o2bo$
+7bo5bo$8b6obo$10bo3bobo$13bo2bo$14b2o!

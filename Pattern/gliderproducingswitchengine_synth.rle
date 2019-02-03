@@ -1,0 +1,11 @@
+#N Glider-producing switch engine_synth
+#O Mark D. Niemiec, Luka Okanishi
+#C Glider synthesis for a glider-producing switch engine.
+#C http://conwaylife.com/wiki/Glider-producing_switch_engine
+#C http://www.conwaylife.com/patterns/gliderproducingswitchengine_synth.rle
+x = 168, y = 54, rule = B3/S23
+bo$2bo$3o11$58bo$56b2o$57b2o$34bo$32bobo$33b2o6$165bo$164bobo2$163bo2b
+o$163b2o$163bo$148b2o$148b2o3$165b2o$164bo$29b3o132b2o$31bo116bo15b3o$
+30bo116b2o16b2o$147b2o14bob3o$148bobo11bo3bo$148b2o11bo2bo$147bo14b3o$
+146bo2bo12b2o$146bo$147b3o2$151bo$151bobo$151bo$152bobo5b2o$154bo5b2o$
+152bobo$152b2o!

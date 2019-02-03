@@ -1,0 +1,5 @@
+#N shillelaghsiamesesnake.rle
+#C http://conwaylife.com/wiki/Shillelagh_siamese_snake
+#C http://conwaylife.com/patterns/shillelaghsiamesesnake.rle
+x = 3, y = 8, rule = B3/S23
+2o$bo$o$2o$bo$o$obo$b2o!

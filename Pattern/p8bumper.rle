@@ -1,0 +1,8 @@
+#N p8bumper.rle
+#O Tanner Jacobi, 2016
+#C http://conwaylife.com/wiki/P8_bumper
+#C http://www.conwaylife.com/patterns/p8bumper.rle
+x = 63, y = 57, rule = B3/S23
+60bo$60bobo$60b2o8$50bo$50bobo$50b2o14$34bo$bo32bobo$2o32b2o$obo7$24bo
+$11bo12bobo$10b2o12b2o$10bobo7$16b2o$9b2o4bo2bo$9b2o5bobo$9b2o6bo$10bo
+$9bobo9b2o$8b2obo9bo$22b3o$24bo$9b2o$9b2o!

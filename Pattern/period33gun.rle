@@ -1,0 +1,14 @@
+#N period33gun.rle
+#O Arie Paap, 2018
+#C http://conwaylife.com/wiki/Period-33_glider_gun
+#C http://www.conwaylife.com/patterns/period33gun.rle
+x = 57, y = 37, rule = B3/S23
+b2o3b2o16bo$o4bobo15bobo$bo3b2o17bo$2bob2o19bo4b2o$8b2o15bo4b3o$8b2o
+14b2o5b3o$23bo8b3o$23bo9bo$4bo19bo2b2o3bo$11b2o14b2o3bobo$4b4ob2ob2o
+19b2o10b2o$5b2o4bo11bo8b3o10bobo5b2o$6bo11bo4b2o8bo13bo5bobo$16b2ob2ob
+3o21bob2o5bo$17b2o5bo21bobo$45b2o2bob3obo$44bo3bo3bo3bo$36bo8b3o5bobo$
+25b2o8b3o10b6o$24b3o8b2o10bo5bo$22b2o11bobo7bo2b5ob3o$37bo7b3o6b3o$19b
+2o15bo11b2o4bo$20bo14b3o7b2obo3bo$17b3o16b3o7bo2b2o2b4o$17bo19b2o7bo2b
+o3bo$31bo12bob2obo2bo$32b2o7b2o4b2o$31b2o7b4o3b2ob2o2bo$43bob2o6bobo$
+49b3obo2bo$42b2ob2o3bo3b2o$43bob2ob2ob3o$43bob2o4bobo$40bo5bo4b2o$41bo
+3bobo$39b3o4bo!

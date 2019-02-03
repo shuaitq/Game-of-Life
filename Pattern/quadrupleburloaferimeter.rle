@@ -1,0 +1,8 @@
+#N Quadruple burloaferimeter
+#O Dannyu NDos [David]
+#C A C4-symmetric quadruple burloaferimeter variant found by Dannyu NDos [David] in November 2016.
+#C http://conwaylife.com/wiki/Burloaferimeter
+x = 16, y = 16, rule = B3/S23
+6bo2bo6b$6b4o6b$16b$4b8o4b$3bo8bo3b$3bo3b3o2bo3b$2obobo2bo3bob2o$bobob
+2o3bobobob$bobobo3b2obobob$2obo3bo2bobob2o$3bo2b3o3bo3b$3bo8bo3b$4b8o4b$
+16b$6b4o6b$6bo2bo6b!

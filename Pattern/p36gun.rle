@@ -1,0 +1,11 @@
+#N p36gun.rle
+#O Jason Summers, 2004
+#C http://conwaylife.com/wiki/Period-36_glider_gun
+#C http://conwaylife.com/patterns/p36gun.rle
+x = 52, y = 49, rule = B3/S23
+48bo$46b3o$45bo$45b2o4$41bo$40bo3$35bo$30b4o3bo$33bo3bo$37bo$34bo7b2o$
+35b2o4bobo$41bo2bo$42b2o$38bo4bo$38b2o$37bo2bo$26bo11bobo4b2o$26bo11b
+2o7bo$26bo17bo$2o23b2o17bo3bo$bo21bo20bo3b4o$bobo18bo4bo18bo$2b2o18bo$
+13b3o8b3o$13bo$13bobo19bo$14b2o20b2o$23b2o10b2o$23bobo$25bo$12b3o8b3o$
+16bo$11bo4bo$15bo$12b2o17b2o$12bo11bo3bo5bob2o$12bo10bobo11bo$12bo10bo
+bo9b2o$20b2obobob8o2b3o$20b2obo12bo2bo$23bo13b2o$23bobo4b2o$24b2o4b2o!

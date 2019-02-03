@@ -1,0 +1,9 @@
+#N p9bumper.rle
+#O Tanner Jacobi, 2016
+#C http://conwaylife.com/wiki/P9_bumper
+#C http://www.conwaylife.com/patterns/p9bumper.rle
+x = 64, y = 55, rule = B3/S23
+61bo$61bobo$61b2o7$52bo$52bobo$52b2o13$bo$2o$obo$34bo$34bobo$34b2o4$
+10bo$9b2o$9bobo$25bo$25bobo$25b2o4$11b2o$10bobo$6b2o2bo$6bobob2o6b2o$
+8bo3bo4bo2bo$5bo2b5o5bobo$5b3o11bo$8bo3bo$7bo5bo9b2o$8b6o9bo$24b3o$10b
+2o14bo$10b2o!

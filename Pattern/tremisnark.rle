@@ -1,0 +1,7 @@
+#N Tremi-Snark
+#O Tanner Jacobi
+#C A color-preserving, period-tripling signal conduit with a repeat time of 43, found by Tanner Jacobi in 2017.
+#C http://conwaylife.com/wiki/Tremi-Snark
+x = 18, y = 25, rule = B3/S23
+15bo$13b3o$12bo$12b2o7$2b2o$bobo8bo$bo9bobo$2o9bobo$12bo4$9b2ob2o$5b2o
+2b2obo3b2o$5bo6bobo2bo$6b7ob2o$13bo$8b4obo$8bo2b2o!

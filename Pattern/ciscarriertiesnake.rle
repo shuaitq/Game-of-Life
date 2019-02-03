@@ -1,0 +1,5 @@
+#N ciscarriertiesnake.rle
+#C http://conwaylife.com/wiki/Cis-aircraft_carrier_tie_snake
+#C http://conwaylife.com/patterns/ciscarriertiesnake.rle
+x = 8, y = 5, rule = B3/S23
+2obo$ob2o$4b2o$4bo2bo$6b2o!

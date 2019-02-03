@@ -1,0 +1,9 @@
+#N period246glidergun.rle
+#O David Buckingham, 1996
+#C http://conwaylife.com/wiki/P246_gun
+#C http://www.conwaylife.com/patterns/period246glidergun.rle
+x = 43, y = 38, rule = B3/S23
+34bo$34b3o$32b2o3bo$31bobob2obo$32bobobobo$36bob2o$33bo2bo$34bobo$33b
+2ob2o2$2o$bo20b2o$bobo16b2o3bo$2b2o21bo15b2o$19bo5bo15bo$20bo3bo14bobo
+$21b3o15b2o7$29b2o$29b2o$22b2o$21bo$22b2o3$5b4o$4bo4bo$3bobo3bo$2bobo
+3bo$2bo$2bo$2bo2bo$3b2o!

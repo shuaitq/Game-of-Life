@@ -1,0 +1,6 @@
+#N Pedestrian Life period 106 glider gun
+#O 
+#C A statorless rotating period 106 glider gun in Pedestrian Life (B38/S23).
+#C http://conwaylife.com/wiki/Pedestrian_Life
+x = 8, y = 6, rule = B38/S23
+o2bo$5bo$o3bob2o$o3bo$ob2o$obo!

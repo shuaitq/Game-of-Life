@@ -1,0 +1,5 @@
+#N lwssgliderbounce.rle
+#C http://conwaylife.com/wiki/LWSS-glider_bounce
+#C http://www.conwaylife.com/patterns/lwssgliderbounce.rle
+x = 43, y = 15, rule = B3/S23
+b4o16b4o$o3bo15bo3bo$4bo19bo5b3o$o2bo16bo2bo6bo$31bo8$40b3o$40bo$41bo!

@@ -1,0 +1,9 @@
+#N blocker_synth
+#O Boris Shemyakin
+#C Glider synthesis of blocker
+#C http://conwaylife.com/wiki/blocker
+x = 64, y = 21, rule = B3/S23
+16bobo22bo$16b2o24bo$17bo22b3o$28b2o14b2o$27bo2bo12bo2bo$28b2o14b2o4$
+10bobo10bobo13bobo13bobo$11b2o13bo15bo15bo$11bo10bo4bo2b2o6bo4bo2b2o6b
+o4bo2b2o$7b3o12b2obo2bob2o6b2obo2bob2o6b2obo2bob2o$9bo16b2o14b2o14b2o$
+8bo4$2o$b2o$o!

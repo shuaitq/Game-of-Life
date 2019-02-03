@@ -1,0 +1,10 @@
+#N coesp8_synth
+#O
+#C Glider synthesis of Coe's p8
+#C http://conwaylife.com/wiki/Coe%27s_p8
+x = 143, y = 25, rule = B3/S23
+23b2o18b2o$22bo2bo16bo2bo$23b2o18b2o78bo$2bobo118bobo$2b2o40bo78b2o$3b
+o14bo19bo4b2o$17bobo17bobo3bobo11b2o5b2o11b2o5b2o11b2o2bobo$3o14bobo
+17bobo17b2o4bobo11b2o4bobo11b2o2bo20bo$o17bo19bo25bo19bo16bo2bo16b2o$b
+o100b2o17bobo$82b2o19b2o2b2o$82bobo22b2o$82bo7b2o39b2o$90bobo38bobo$
+90bo40bo6$132b2o$132bobo$132bo7b2o$140bobo$140bo!

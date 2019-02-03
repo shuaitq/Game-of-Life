@@ -1,0 +1,5 @@
+#N egyptianwalk.rle
+#C http://conwaylife.com/wiki/Egyptian_walk
+#C http://conwaylife.com/patterns/egyptianwalk.rle
+x = 7, y = 4, rule = B3/S23
+ob2o$2obo$3bob2o$3b2obo!

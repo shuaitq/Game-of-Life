@@ -1,0 +1,9 @@
+#N gliderduplicator.rle
+#C http://conwaylife.com/wiki/Glider_duplicator
+#C http://conwaylife.com/patterns/gliderduplicator.rle
+x = 76, y = 53, rule = B3/S23
+obo$b2o$bo17$20bo$21b2o$20b2o5$51b2o$52bo$52bobo$42bo10b2o$40b3o$39bo$
+39b2o$24b2o48b2o$25bo48b2o$25bob2o$26bo2bo23bo$27b2o24bo$42b2o9b3o$42b
+2o11bo4$51bo3b2o$50bobo3bo$49bobo3bo$45b2obobo3bo$45b2obo2b4obo5b2o$
+49bobo3bobo5bo$45b2ob2o2bo2bobo2b3o$46bobo2b2o3bo3bo$34b2o10bobo$34b2o
+11bo!

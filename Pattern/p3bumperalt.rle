@@ -1,0 +1,7 @@
+#N p3bumperalt.rle
+#C http://conwaylife.com/wiki/P3_bumper
+#C http://www.conwaylife.com/patterns/p3bumperalt.rle
+x = 59, y = 54, rule = B3/S23
+58bo$56b2o$57b2o7$49bo$47b2o$48b2o14$3o29bo$o31bobo$bo30b2o7$9b3o11bo$
+9bo13bobo$10bo12b2o7$9bo6b2o$4b4o3bo3bo2bo$7bo3bo4bobo$11bo5bo$8bo$4b
+2obo2b2obo7b2o$4bob2obob2obo6bo$8bobo2b2o7b3o$5b3o3bo12bo$5bo2b3o$8bo!

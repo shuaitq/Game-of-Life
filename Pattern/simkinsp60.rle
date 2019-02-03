@@ -1,0 +1,8 @@
+#N simkinsp60.rle
+#O Michael Simkin, 2015
+#C http://conwaylife.com/wiki/Simkin%27s_p60
+#C http://conwaylife.com/patterns/simkinsp60.rle
+x = 33, y = 31, rule = B3/S23
+22bo$13b2o5b3o$14bo4bo$14bob2o2bo$15bo5bo$16bo3b2o$17bo2$10bo$2o3bo4b
+2o$2o2b2o5b2o$5b2o4bo$6bo3bo6$22bo3bo$21bo4b2o$20b2o5b2o2b2o$21b2o4bo
+3b2o$22bo2$15bo$11b2o3bo$11bo5bo$12bo2b2obo$13bo4bo$10b3o5b2o$10bo!

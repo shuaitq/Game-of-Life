@@ -1,0 +1,16 @@
+#N p12cloverleafhassler.rle
+#C http://conwaylife.com/wiki/Cloverleaf_interchange
+#C http://conwaylife.com/patterns/p12cloverleafhassler.rle
+x = 49, y = 49, rule = B3/S23
+10b2obo21bob2o$14bo3bo11bo3bo$10bo7b2o9b2o7bo$11b2ob2o2bo11bo2b2ob2o$
+15bo2b2ob2o3b2ob2o2bo$14b2o7bobo7b2o$15bo3bo9bo3bo$20bob2ob2obo3$obo
+43bobo$o2bo17b3ob3o17bo2bo$3bo41bo$o21bo3bo21bo$bobobo16bo3bo16bobobo$
+3b4o14b3ob3o14b4o3$b4o17bo3bo17b4o$2bobobo14bobobobo14bobobo$7bo13bobo
+bobo13bo$4bo6bo3bo3b2o2bobo2b2o3bo3bo6bo$4bo2bo3bob3o2bo4bobo4bo2b3obo
+3bo2bo$5bobo3bo3bo3b4o3b4o3bo3bo3bobo2$5bobo3bo3bo3b4o3b4o3bo3bo3bobo$
+4bo2bo3bob3o2bo4bobo4bo2b3obo3bo2bo$4bo6bo3bo3b2o2bobo2b2o3bo3bo6bo$7b
+o13bobobobo13bo$2bobobo14bobobobo14bobobo$b4o17bo3bo17b4o3$3b4o14b3ob
+3o14b4o$bobobo16bo3bo16bobobo$o21bo3bo21bo$3bo41bo$o2bo17b3ob3o17bo2bo
+$obo43bobo3$20bob2ob2obo$15bo3bo9bo3bo$14b2o7bobo7b2o$15bo2b2ob2o3b2ob
+2o2bo$11b2ob2o2bo11bo2b2ob2o$10bo7b2o9b2o7bo$14bo3bo11bo3bo$10b2obo21b
+ob2o!

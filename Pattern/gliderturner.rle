@@ -1,0 +1,8 @@
+#N gliderturner.rle
+#C http://conwaylife.com/wiki/Glider_turner
+#C http://www.conwaylife.com/patterns/gliderturner.rle
+#N Glider turner
+#C http://conwaylife.com/wiki/Glider_turner
+x = 20, y = 21, rule = B3/S23
+9b2o$8b2ob4o$bo7b6o$o9b4o$3o5$3bo$bo3bo$o$o4bo$5o3$13b6o$13bo5bo$13bo$
+14bo4bo$16b2o!

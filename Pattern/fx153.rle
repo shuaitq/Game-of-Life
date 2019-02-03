@@ -1,0 +1,8 @@
+#N Fx153
+#O Paul Callahan, February 1997
+#C Repeat time 69 ticks
+#C http://conwaylife.com/wiki/Fx153
+#C http://www.conwaylife.com/patterns/fx153.rle
+x = 38, y = 27, rule = B3/S23
+27bo$2bo23bobo$2bo23bobo$3o9b2o11b2ob3o$o11b2o17bo$25b2ob3o$25b2obo9$
+36b2o$36b2o2$9bo$9bobo$9b3o$11bo2$23b2o$23bo$24b3o$26bo!

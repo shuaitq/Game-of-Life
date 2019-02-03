@@ -1,0 +1,17 @@
+#N l156reactions.rle
+#C http://conwaylife.com/wiki/L156
+#C http://conwaylife.com/patterns/l156reactions.rle
+x = 133, y = 144, rule = B3/S23
+100b2o$101bo$88bo11bo$88b3o9b2o$91bo$78b2o10b2o39bo$79bo50bobo$79bobo
+48bobo$65b2o13b2o49bo$65b2o36b2o15bo$103b2o15bo$120b3o$59b2o61bo$59b2o
+$63b2o$63b2o15bo$80bo$80b3o$82bo11b2o$58b2o34bo$58b2o35b3o$97bo$78bo3b
+2o$77bobo3bo$77b2o3bo$81bo$77b5obo$72b2o3bo4bobo$62bo9bo6bo2bobo$63bo
+6b3o5b2o3bo$60b3o$60bo14$70b2o$70b2o$o$b2o58b2obo$2o59bob2o3$63bo$62bo
+bo$62bobo$60b3ob2o20bo$59bo24b3o$53bo6b3ob2o17bo$53b3o6bob2o4b2o11b2o$
+56bo13b2o$39b2o14b2o$39b2o39b2o$79bo2bo$80b2o$33b2o$33b2o$37b2o$37b2o
+15bo$54bo$54b3o$56bo11b2o$32b2o34bo$32b2o35b3o$61bo3b2o4bo$52bo3b2o2bo
+bo3bo$51bobo3bo2b2o3bo$51b2o3bo7bo$55bo4b5obo$51b5obo2bo4bobo$46b2o3bo
+4bobobob2obobo$46bo6bo2bobob2obob2o$44b3o5b2o3bo16$44b2o$44b2o2$35b2ob
+o$35bob2o$20bo$18b3o$17bo$17b2o2$36bo$36b3o$27bo11bo$27b3o8b2o14bo$30b
+o22bobo$29b2o23bo4$51b2o$51bobo$53bo$28bo24b2o$28bobo18b2o$17b2o9b3o
+18bo$17b2o11bo11b2o6b3o$42bo9bo$43b3o$45bo16$91b2o$91bobo$91bo!

@@ -1,0 +1,16 @@
+#N carnivalshuttle2.rle
+#C http://conwaylife.com/wiki/Carnival_shuttle
+#C http://conwaylife.com/patterns/carnivalshuttle2.rle
+x = 80, y = 34, rule = B3/S23
+42b2ob2o$41bobobobo$41bobobobo20b2o$42bobobo20bobo$44bo20b3o$3ob3o19bo
+bo13bo2bo18bo3bo$3bo6bo3bo3bo3bo3bobo4bo3bo7bo4bo3bo5bo3b5o$2o3b2o3bob
+3o3b3obo6bo3b3obo3bo3bo4b3obo3b3o3b2o$3bo6bo3bo3bo3bo3bobo4bo3bo7bo4bo
+3bo5bo3b5o$3ob3o19bobo13bo2bo18bo3bo$44bo20b3o$42bobobo20bobo$41bobobo
+bo20b2o$2b3o36bobobobo26b2o$3bo38b2ob2o27b2o$3bo$72b6o$2b3o50bo15bo3bo
+2bo$22bo10bo9b2o9bobo15b2o3b2o$21bobo8bobo8b2o10bo17bo$22bo10bo5bo33bo
+bo$bobobo35bo5bo4bo5bobo12bobo$bobobo11bobo5bo4bo5bo4bo4bo6bo4bobo3bo
+3bo3bo5bo$bo3bo3bo3bo3bobo4bo6bo3bo6bo3bo6bo3bo6bob3o3bo4bobo$2bobo4b
+3obo6bo3bo6bo3bo6bo3bo6bo4bobo3bo3bo3bo5bo$bo3bo3bo3bo3bobo4bo6bo4bo4b
+o5bo4bo5bobo12bobo$bobobo11bobo5bo4bo5bo36bobo$bobobo32bo5bo10bo17bo$
+22bo10b2o8bobo8bobo15b2o3b2o$21bobo9b2o9bo10bo15bo3bo2bo$22bo49b6o2$
+74b2o$74b2o!

@@ -1,0 +1,6 @@
+#N Worm
+#O ?
+#C An 11-bit induction coil.
+#C http://conwaylife.com/wiki/Worm
+x = 6, y = 4, rule = B3/S23
+b2o$obo$o4bo$b5o!

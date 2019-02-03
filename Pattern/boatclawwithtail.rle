@@ -1,0 +1,5 @@
+#N boatclawwithtail.rle
+#C http://conwaylife.com/wiki/Claw_with_boat_with_tail
+#C http://conwaylife.com/patterns/boatclawwithtail.rle
+x = 6, y = 7, rule = B3/S23
+2o$obo$bobo$3bo$2bo$3b3o$5bo!

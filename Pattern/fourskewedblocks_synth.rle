@@ -1,0 +1,6 @@
+#N fourskewedblocks_synth.rle
+#C http://conwaylife.com/wiki/Four_skewed_blocks
+#C http://conwaylife.com/patterns/fourskewedblocks_synth.rle
+#C http://conwaylife.com/ref/mniemiec/16/16blocks.rle
+x = 29, y = 10, rule = B3/S23
+21b2o$21b2o$2bobo$3b2o22b2o$3bo23b2o$bo14b2o$2o14b2o$obo$22b2o$22b2o!

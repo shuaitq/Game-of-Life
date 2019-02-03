@@ -1,0 +1,22 @@
+#N minipressurecooker_synth
+#O David Buckingham, Goldtiger997
+#C Glider synthesis of Mini Pressure Cooker
+#C http://conwaylife.com/wiki/Mini_pressure_cooker
+x = 448, y = 150, rule = B3/S23
+174bo$175b2o$174b2o6$210bo$208bobo$209b2o2$281bobo$194bo86b2o$192bobo
+87bo$193b2o25$230bo$231b2o$230b2o$234b2o$233bobo$224bo10bo$225b2o$224b
+2o2$232b2o3bo$233b2ob2o$232bo3bobo$247bo$246b2o$246bobo12$232b2o$227b
+3ob2o$229bo3bo$228bo17$18bo$16bobo$17b2o264b2o$261b3o19bobo$261bo21bo$
+2bo259bo$obo278bo$b2o277b2o$280bobo5$201b2o$172b3o25bobo$174bo27bo77bo
+$173bo105b2o$279bobo$175b2o$176b2o20b3o$175bo24bo$199bo4$277b3o$277bo$
+176b2o100bo$177b2o$176bo$280b2o$280bobo$38bo241bo$39b2o$38b2o$42b2o$
+41bobo$32bo10bo$33b2o$32b2o316bo$293bobo55bo$40b2o3bo247b2o54b3o$41b2o
+b2o248bo$40bo3bobo$55bo66bo79bo79bo12b2o51bo13bo79bo$54b2o65bobo77bobo
+77bobo11bobo50b2o11bobo77bobo$54bobo64bobo77bobo77bobo11bo51bobo11bobo
+77bobo$120b2ob2o75b2ob2o75b2ob2o75b2ob2o75b2ob2o$119bo2bo2bo73bo2bo2bo
+73bo2bo2bo7bo65bo2bo2bobo69bobo5bobo$118bobo3bobo71bobo3bobo71bobo3bob
+o5b2o56b3o5bobo2b2ob2o69b2obobobob2o$119bo5bo73bo5bo73bo5bo6bobo57bo6b
+o4bo75bo3bo$282bo68bo10bobo75bobobo$281bobo77bobo77bobo$282bo79bo79bo
+2$285b2o72bo$205b2o77bobo71b2o$200b2o2b2o80bo5bo65bobo$120b2o77bo2bo3b
+o84b2o58b3o$115b3ob2o78bo2bo88bobo59bo$117bo3bo78b2o150bo$116bo165b3o
+76b2o$284bo75b2o$283bo78bo!

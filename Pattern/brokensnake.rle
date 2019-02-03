@@ -1,0 +1,5 @@
+#N brokensnake.rle
+#C http://conwaylife.com/wiki/Broken_snake
+#C http://conwaylife.com/patterns/brokensnake.rle
+x = 3, y = 7, rule = B3/S23
+b2o$2bo$bo$b2o$2bo$o$2o!

@@ -1,0 +1,17 @@
+#N period48glidergun.rle
+#O Bill Gosper, 1997
+#C http://conwaylife.com/wiki/Period-48_glider_gun
+#C http://www.conwaylife.com/patterns/period48glidergun.rle
+x = 45, y = 41, rule = B3/S23
+17b2o11b2o$16bo2bo9bo2bo$16bobo3b2ob2o3bobo$14b2o2bobo7bobo2b2o$15bobo
+bo4bo4bobobo$14bo2b2o2b7o2b2o2bo$14b2o5bobobobo5b2o$23bobo$5bo2b2o9b3o
+5b3o$4bobo2bo2bo5bobobo3bobobo$4bob2obobobo4b2o2b5o2b2o$3b2obo2bobo2bo
+$3bo2bob2o2bo$4b3obobo3b3o$6b2obo5b2o$2bobo2bobo3bo2bo4bobobo$2b2o2b2o
+bob2o2b3o4b3o13b2o$8b2obo3b2o6bo13bo2bo$2b5o4bo24b2o$bo4bob3o17b2o5b3o
+5bo$bob2obobo6b2o7bo3bobo4bo2bo3bobo$2obo2bo6b4o8bo4bo5b3o3b2o$bobobob
+o5b2o2bo5b3o4b2o$bobob2obo2bo24b3o3b2o$2ob2o2b2o3b4o19bo2bo3bobo$3bo2b
+3o2bo2b2o4bo14b3o5bo$3bobob2o5bo4bobo8bo5b2o$2b2obo2b2obo2bo3bo3bo8bo
+5bo2bo$4bo3b2o2bo2bo3bobo7b3o6b2o$4bobo7bo5bo$3b2ob2o10b3o$10b2o4b7o4b
+2o$10bo2bo2b2obob2o2bo2bo$11b2ob4o3b4ob2o$8b3o2bo11bo2b3o$7bo3b2ob2o7b
+2ob2o3bo$7b2obo3b2o7b2o3bob2o$8bob3o3bo5bo3b3obo$7bo6b2o7b2o6bo10bo$8b
+6o11b6o12bo$10bo2bo11bo2bo12b3o!

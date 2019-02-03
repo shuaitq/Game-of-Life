@@ -1,0 +1,24 @@
+#N duelingbanjos_synth.rle
+#C http://conwaylife.com/wiki/Dueling_banjos
+#C http://conwaylife.com/patterns/duelingbanjos_synth.rle
+x = 170, y = 197, rule = B3/S23
+133bobo$134b2o$134bo31b2o$166b2o$131bo$132b2o32b4o$30b2o28b2o28b2o28b
+2o9b2o6b2o9b2o14bo2bo$31bo29bo29bo29bo17bobo9bo$2o29bobo27bobo27bobo
+27bobo15bo11bobo$b2o29b2o28b2o28b2o28b2o28b2o$o3b2o131b2o$4bobo129bobo
+$4bo133bo4$64bo$64bobo$60bo3b2o$61b2o29b2o28b2o28b2o$60b2o29bobo27bobo
+27bobo$91bo29bo29bo$90b2o28b2o28b2o20$16b2o28b2o28b2o28b2o28b2o28b2o$
+16b2o28b2o28b2o28b2o28b2o28b2o2$16b4o26b4o26b4o26b4o26b4o26b4o$2o14bo
+2bo10b2o14bo2bo10b2o14bo2bo10b2o14bo2bo10b2o8bo5bo2bo10b2o14bo2bo$bo
+29bo29bo29bo29bo9bo19bo$bobo27bobo27bobo27bobo27bobo5b3o19bobo$2b2o28b
+2o28b2o28b2o28b2o28b2o5bo$79bo78b2o$78bo78b2o6b3o$78b3o59bo17b2o4bobo$
+75b2o62b2o23b2o$74bobo62bobo$76bo87b2o$18bo139b2o4bobo$16bobo117b2o19b
+2o6b3o$17b2o117bobo19b2o$2b2o28b2o28b2o18b2o8b2o28b2o13bo14b2o5bo$bobo
+15bo11bobo27bobo18bobo6bobo27bobo5b3o11b2o6bobo$bo17bobo9bo29bo20bo8bo
+29bo9bo10b2o7bo$2o9b2o6b2o9b2o14bo2bo10b2o14bo2bo10b2o14bo2bo10b2o8bo
+5bo2bo4bo5b2o14bo2bo$12b2o32b4o26b4o26b4o26b4o26b4o$11bo$46b2o28b2o28b
+2o28b2o28b2o$14bo31b2o28b2o28b2o28b2o28b2o$14b2o$13bobo34$50bo$51b2o$
+50b2o10$130bobo$130b2o$131bo6$82bo$80bobo$81b2o2$79bo$80bo$73bobo2b3o$
+74b2o$74bo2$122bobo$122b2o$123bo4$98bo$96b2o$68bo28b2o$69bo$67b3o9$72b
+2o$73b2o$72bo19b2o$92bobo17b2o$92bo18b2o$113bo2$84b2o$85b2o$84bo20$63b
+2o3b2o$64b2obobo$63bo5bo3$70b3o$72bo61b2o$71bo61b2o3b3o$135bo2bo$139bo
+5$50b2o90b2o$51b2o89bobo$50bo91bo!

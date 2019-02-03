@@ -1,0 +1,12 @@
+#N bouncerr2.rle
+#C http://conwaylife.com/wiki/Bouncer
+#C http://www.conwaylife.com/patterns/bouncerr2.rle
+x = 29, y = 50, rule = B3/S23
+8b2o$5bo2bobo$4bobobobo7bobo$3bobobo2b2o6b2o$3bo3bobo2bo6bo$2ob2ob2obo
+b2o9b2o$obo4bobo2bo5b2o2b2o$2bob9o4bobo$2bo2bo5b2o5bo$3bo3bobo2bo12b2o
+$4b3ob2ob2o7b2o2bo2bo$6bo4bo7b3o2bo2bo$7b3obo5b3o3bo$10bob2o5bo4bobo$
+9bo2bo2bobo9b2o$9b2o2b2o2bo9b2o$16b2o$13b2ob2o$12bo2bobobo$12b2o2bo2b
+3o$13bobo2bo3bo$13bob2obo2b2o$14bo2bo$15b2o11$8b2o$5bo2bobo$4bobobobo
+7bobo$3bobobo2b2o6b2o$3bo3bobo2bo6bo$2ob2ob2obob2o9b2o$obo4bobo2bo5b2o
+2b2o$2bob9o4bobo$2bo2bo5b2o5bo$3bo3bobo2bo$4b3ob2ob2o7b2o$6bo4bo8bo$7b
+3obo9b3o$10bo12bo$9bo$9b2o!

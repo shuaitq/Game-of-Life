@@ -1,0 +1,9 @@
+#N BF20H.rle
+#C http://conwaylife.com/wiki/BF20H
+#C http://conwaylife.com/patterns/BF20H.rle
+x = 51, y = 60, rule = B3/S23
+49bo$48bobo$48bobo$49bo$38bo$30b2o6bo$31b2o5b3o$30b2o8bo$30bo$12bo$12b
+3o$15bo$14b2o6$5bo$5b3o23b2o$8bo21bo2bo$7b2o22b2o8$17b2o$17b2o6$49bo$
+48bobo$48bobo$9b2o38bo$4b2o2bo2bo26bo$bo2bo4bobo18b2o6bo$obobo5bo20b2o
+5b3o$bo2bob2o22b2o8bo$4bo2bo22bo$5bo4bo$6b5o2$8bo$7bobo26b2o$8bo23b2o
+2b2o$31bobo$32bo2$27b3o4b2o$27b3o4bo$27b3o5b3o$24b3o10bo$24b3o$24b3o!

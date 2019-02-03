@@ -1,0 +1,13 @@
+#N Jaws
+#O Nick Gotts
+#C A 150-cell breeder found by Nick Gotts in 1997.
+#C http://conwaylife.com/wiki/Jaws
+x = 654, y = 2881, rule = B3/S23
+508bo$508bo$503b2o4bo$506bobo$505b2obo7$518bo$516b2ob2o2$516b2o$516bo$
+518bo$518bo299$387bobo$390bo$386bo2bo$385b3o6$398bo$397bobo2$396bo2bo$
+396b2o$396bo218$191bo$190b3o$190b3o$193b3o26$165b2o$164b3o$165b2o$167b
+o$167bo$167bo54$436b3o$433b3o$433b3o$434bo5$446bo$446bo$446bo$444b2o$
+443b3o$444b2o84$95bo$94b3o$94b3o$97b3o26$69b2o$68b3o$69b2o$71bo$71bo$
+71bo519$25b3o$26bo2bo$30bo$27bobo25$o$2o$o2bo2$bobo$2bo385$75b3o$76bo
+2bo$80bo$77bobo25$50bo$50b2o$50bo2bo2$51bobo$52bo1111$649b2o$648bobob
+2o$651b3o$652b2o24$625bo$624bo$624b2o$626bo$625b3o$625b3o!

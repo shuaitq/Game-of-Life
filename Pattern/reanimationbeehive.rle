@@ -1,0 +1,8 @@
+#N reanimationbeehive.rle
+#C http://conwaylife.com/wiki/Reanimation
+#C http://www.conwaylife.com/patterns/reanimationbeehive.rle
+x = 34, y = 25, rule = B3/S23
+10bo$9bobo$9bobo$10bo2$15b3o13b3o$14bo2bo5b3o4bo2bo$17bo4bo2bo7bo$13bo
+3bo4bo3bo2bo3bo$17bo2bo3bobo6bo$2b3o12bobo8b2o2bo$bo2bo14bo8b5o$4bo10b
+3o3bo6b2o$o3bo26b2o$o3bo$4bo$bobo15bo$18b3o$17b2obo$4bo12b3o$3b3o11b3o
+$3bob2o10b3o$4b3o11b2o$4b3o$4b2o!

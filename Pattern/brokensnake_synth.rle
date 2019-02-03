@@ -1,0 +1,6 @@
+#N brokensnake_synth.rle
+#C http://conwaylife.com/wiki/Broken_snake
+#C http://conwaylife.com/patterns/brokensnake_synth.rle
+x = 38, y = 18, rule = B3/S23
+5bo$5bobo$5b2o29b2o$37bo$36bo$36b2o$37bo$3bo31bo$3bobo29b2o$3b2o$o$b2o
+$2o3$3o$2bo$bo!

@@ -1,0 +1,8 @@
+#N monogram_synth
+#O Ivan Fomichev, Chris Cain
+#C Glider synthesis of monogram
+#C http://conwaylife.com/wiki/monogram
+x = 64, y = 61, rule = B3/S23
+61bobo$61b2o$62bo$bo$2bo$3o44bo$45b2o$46b2o$21bo$22b2o$21b2o5$39bo$38b
+o$38b3o$34bo$32b2o$33b2o2$19bo$17bobo$18b2o2$26bo$26bobo$26b2o$38bo$
+37b2o$37bobo5$16b2o$15bobo$17bo20$47b2o$47bobo$47bo!

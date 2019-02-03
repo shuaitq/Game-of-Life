@@ -1,0 +1,5 @@
+#N shiponsnake.rle
+#C http://conwaylife.com/wiki/Ship_tie_snake
+#C http://conwaylife.com/patterns/shiponsnake.rle
+x = 7, y = 5, rule = B3/S23
+2obo$ob2o$4b2o$4bobo$5b2o!

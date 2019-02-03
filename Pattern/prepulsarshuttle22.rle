@@ -1,0 +1,8 @@
+#N prepulsarshuttle22.rle
+#C http://conwaylife.com/wiki/Pre-pulsar_shuttle_oscillators
+#C http://conwaylife.com/patterns/prepulsarshuttle22.rle
+x = 24, y = 19, rule = B3/S23
+b2o18b2o$o2bo2b2o8b2o2bo2bo$b2o2bobo8bobo2b2o$3b2o14b2o$3bo16bo$2obo8b
+3o5bob2o$o2bob2o5bobob3obo2bo$2b2ob2o5b3ob3ob2o4$2b2ob2o5b3ob3ob2o$o2b
+ob2o5bobob3obo2bo$2obo8b3o5bob2o$3bo16bo$3b2o14b2o$b2o2bobo8bobo2b2o$o
+2bo2b2o8b2o2bo2bo$b2o18b2o!

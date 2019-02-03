@@ -1,0 +1,9 @@
+#N period256glidergun.rle
+#O David Buckingham, 1995
+#C http://conwaylife.com/wiki/Period-256_glider_gun
+#C http://www.conwaylife.com/patterns/period256glidergun.rle
+x = 49, y = 49, rule = B3/S23
+31b2o$31b2o5b2o$38b2o3$7b2o8b2o17b2o$7b2o9bo17b2o$18bobo21b2o$19b2o21b
+2o$b2o$b2o$5b2o$5b2o15bo$22bobo$22b3o$24bo$2o$2o41b2o$43bo$41bobo$41b
+2o11$6b2o39b2o$6bo40b2o$7bo$6b2o$22bobo$23b2o17b2o$23bo18b2o$46b2o$46b
+2o$5b2o$5b2o$11b2o27b2o$11b2o27b2o3$9b2o$9b2o5b2o$16b2o!

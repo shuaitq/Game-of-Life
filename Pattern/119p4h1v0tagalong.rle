@@ -1,0 +1,10 @@
+#N 119P4H1V0 tagalong
+#O Dean Hickerson
+#C A tagalong for 119P4H1V0
+#C http://www.conwaylife.com/wiki/119P4H1V0
+#C http://www.conwaylife.com/patterns/119p4h1v0tagalong.rle
+x = 44, y = 19, rule = B3/S23
+33bo6b2obo$16bo15bobo4bob3o$6bobo6bo5b2o8bo7b2o$6bo4bo4bob6o4b2o8bobo$
+6bob8o10bo2bob3ob3ob3o$9bo5bo7b4o4b3obo4bo$4b2o17b3obo8b3obo$bo2b2o7b
+2o8b2o13b2o$bo2bo$o$bo2bo$bo2b2o7b2o8b2o$4b2o17b3obo$9bo5bo7b4o4b3o$6b
+ob8o10bo2bob3o$6bo4bo4bob6o4b2o$6bobo6bo5b2o8bo$16bo15bobo$33bo!

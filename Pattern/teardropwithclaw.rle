@@ -1,0 +1,5 @@
+#N teardropwithclaw.rle
+#C http://conwaylife.com/wiki/Teardrop_with_claw
+#C http://conwaylife.com/patterns/teardropwithclaw.rle
+x = 6, y = 5, rule = B3/S23
+2o$o2b2o$b2o2bo$3bobo$3b2o!

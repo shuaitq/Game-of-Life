@@ -1,0 +1,4 @@
+#N 10gm.rle
+#C http://conwaylife.com/ref/mniemiec/10/10gm.rle
+x = 87, y = 8, rule = B3/S23
+84bo$82bo2bo$3bobo80bo$4b2o75bo4bo$4bo76bo4bo$3o78bo3bo$2bo79bobo$bo!

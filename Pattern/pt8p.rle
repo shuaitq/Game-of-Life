@@ -1,0 +1,5 @@
+#N pt8p.rle
+#C http://conwaylife.com/wiki/PT8P
+#C http://conwaylife.com/patterns/pt8p.rle
+x = 10, y = 10, rule = B3/S23
+5b2o$5bo$7bo$6b2o2$6b2o$3o2bobo$obo3bo$obo4b3o$9bo!

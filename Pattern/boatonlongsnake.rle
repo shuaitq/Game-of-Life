@@ -1,0 +1,5 @@
+#N boatonlongsnake.rle
+#C http://conwaylife.com/wiki/Boat_tie_long_snake
+#C http://conwaylife.com/patterns/boatonlongsnake.rle
+x = 6, y = 8, rule = B3/S23
+2o$o$bo$2bo$b2o$3b2o$3bobo$4bo!

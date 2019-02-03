@@ -1,0 +1,18 @@
+#N 28p7.3bumperbouncer.rle
+#C http://conwaylife.com/wiki/28P7.3
+#C http://conwaylife.com/patterns/28p7.3bumperbouncer.rle
+x = 79, y = 64, rule = B3/S23
+39b2ob2o$37bo2bobo12b2o$36b3o4bo8b2o2bo$35bo3b4o8bobobo$35b3o12bo4b2o$
+34b7o9b3obo2bo$33b2o3bo2bo9b2o3bo$34bo5b2o8b3obo2b3o$31b3o21b2o2bo$31b
+o13bo10bo$44bobo8bo$44bo2bo3b2o3b3o$45b2o4bo6bo2$43bo18b2o$43b2o18bo$
+42bobo18bobo$64b2o$69bo$68bobo$68bo$59b2o7b2o$12b2o45b2o5bobo2bo$2o4bo
+2bo2bo51bobobob2o$bo2b6o4bo49b2o2bo$bobo6b4obob2o41b2o6bob2o$2obob2o2b
+o3bobobo42bobo6bobo$bo4bob4o3bobo43bo$bob2obobo4bobob2ob2o$2o2bobob4o
+4bo4bo$2bobob2o4b3o3b3o49bo$2bo2bo3b3o2bobobo42b3o3bo2b3o3b2o$b2o3b3o
+2bo3b3o42bobobo2b3o3bo2bo$8bo49b3o3b3o4b2obobo$57bo4bo4b4obobo2b2o$57b
+2ob2obobo4bobob2obo$17bo43bobo3b4obo4bo$7bobo6bobo42bobobo3bo2b2obob2o
+$7b2obo6b2o41b2obob4o6bobo$10bo2b2o49bo4b6o2bo$7b2obobobo51bo2bo2bo4b
+2o$7bo2bobo5b2o45b2o$9b2o7b2o$10bo$8bobo$9bo$13b2o$13bobo18bobo$15bo
+18b2o$15b2o18bo2$20bo6bo4b2o$20b3o3b2o3bo2bo$23bo8bobo$22bo10bo13bo$
+19bo2b2o21b3o$19b3o2bob3o8b2o5bo$22bo3b2o9bo2bo3b2o$21bo2bob3o9b7o$22b
+2o4bo12b3o$23bobobo8b4o3bo$22bo2b2o8bo4b3o$22b2o12bobo2bo$35b2ob2o!

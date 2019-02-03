@@ -1,0 +1,5 @@
+#N boatwithextralongtail.rle
+#C http://conwaylife.com/wiki/Boat_with_extra_long_tail
+#C http://conwaylife.com/patterns/boatwithextralongtail.rle
+x = 4, y = 8, rule = B3/S23
+2o$obo$bobo$3bo$2bo$bo$o$2o!

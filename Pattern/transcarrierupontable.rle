@@ -1,0 +1,5 @@
+#N transcarrierupontable.rle
+#C http://conwaylife.com/wiki/Trans-aircraft_carrier_up_on_table
+#C http://conwaylife.com/patterns/transcarrierupontable.rle
+x = 7, y = 4, rule = B3/S23
+5b2o$2o3bo$o2bobo$2b2ob2o!

@@ -1,0 +1,8 @@
+#N naturalheisenburp.rle
+#C http://conwaylife.com/wiki/Natural_Heisenburp
+#C http://www.conwaylife.com/patterns/naturalheisenburp.rle
+x = 141, y = 141, rule = B3/S23
+2o$obo$o18$17b3o$17bo$18bo24$70b2o$69bobo15b2o$69bo17b2o$69b3o4$69b3o$
+60b2o7bo17b2o$60b2o7bobo15b2o$70b2o10$53bo5bo$52b3o3b3o$52bob2ob2obo$
+54b2ob2o10b2o$54b2ob2o10bobo$54b2ob2o10bo12$52b2o5b2o$52b2o5b2o54$138b
+2o$138bobo$138bo!

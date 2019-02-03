@@ -1,0 +1,5 @@
+#N twinbeesshuttlespark.rle
+#C http://conwaylife.com/wiki/Twin_bees_shuttle_spark
+#C http://www.conwaylife.com/patterns/twinbeesshuttlespark.rle
+x = 5, y = 5, rule = B3/S23
+2b2o$2b2o$bo2bo$ob2o$ob2o!

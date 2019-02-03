@@ -1,0 +1,5 @@
+#N shipontripole.rle
+#C http://conwaylife.com/wiki/Tripole_tie_ship
+#C http://conwaylife.com/patterns/shipontripole.rle
+x = 9, y = 9, rule = B3/S23
+2o$obo$b2o$3b2o$3bobo2$5bobo$8bo$7b2o!

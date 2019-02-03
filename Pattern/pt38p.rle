@@ -1,0 +1,5 @@
+#N pt38p.rle
+#C http://conwaylife.com/wiki/PT38P
+#C http://conwaylife.com/patterns/pt38p.rle
+x = 26, y = 8, rule = B3/S23
+2o8b3o8b2o$o2bo6bobo8b2o$2b2o6bobo2$22b2o$22bo$23b3o$25bo!

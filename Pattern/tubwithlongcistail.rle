@@ -1,0 +1,5 @@
+#N tubwithlongcistail.rle
+#C http://conwaylife.com/wiki/Tub_with_long_cis-tail
+#C http://conwaylife.com/patterns/tubwithlongcistail.rle
+x = 6, y = 8, rule = B3/S23
+2bo$bobo$obo$o$bo$2bo$3bobo$4b2o!

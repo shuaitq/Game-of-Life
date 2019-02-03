@@ -1,0 +1,19 @@
+#N 50P35_synth
+#O Jeremy Tan
+#C Glider synthesis of 50P35
+#C http://conwaylife.com/wiki/50P35
+x = 218, y = 69, rule = B3/S23
+124bo$123bo$123b3o6$118bobo$118b2o$119bo4$105bo$103bobo$104b2o$108bo$
+106b2o$107b2o2$172bo$31bo138b2o$15bobo11b2o140b2o$16b2o12b2o110b2o35b
+2o35b2o$16bo125bo21bo14bo36bo$140bobo22b2o10bobo34bobo$140b2o22b2o11b
+2o35b2o$13bo14bo$14b2o10bobo33b3o34b3o34b3o34b3o26bo2bobo2b3o$13b2o12b
+2o3bo170bobobo$30b2o34b2o35b2o35b2o35b2o22bo12b2o$13bo17b2o33bobo34bob
+o34bobo34bobo21b2ob2o8bobo$13b2o36bo3bo12bo19bo3bo12bo19bo3bo12bo19bo
+3bo12bo36bo$12bobo3bobo16b2o12bo3bo12b2o4b2o12bo3bo12b2o4b2o12bo3bo12b
+2o4b2o12bo3bo12b2o4b2o29b2o$18b2o18bo12bo3bo19bo12bo3bo19bo12bo3bo19bo
+12bo3bo19bo$2o17bo18bobo34bobo34bobo34bobo34bobo8b2ob2o$b2o36b2o35b2o
+35b2o35b2o35b2o12bo$o3b2o12b2o175bobobo$4bobo10b2o23b3o34b3o34b3o34b3o
+34b3o2bobo2bo$4bo14bo$113b2o35b2o11b2o22b2o$112bobo34bobo10b2o22bobo$
+16bo95bo36bo14bo21bo$b2o12b2o94b2o35b2o35b2o$2b2o11bobo138b2o$bo155b2o
+$156bo2$72b2o$73b2o$72bo$75b2o$75bobo$75bo4$61bo$61b2o$60bobo6$55b3o$
+57bo$56bo!

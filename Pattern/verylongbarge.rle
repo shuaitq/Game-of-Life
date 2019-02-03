@@ -1,0 +1,5 @@
+#N verylongbarge.rle
+#C http://conwaylife.com/wiki/Very_long_barge
+#C http://conwaylife.com/patterns/verylongbarge.rle
+x = 6, y = 6, rule = B3/S23
+4bo$3bobo$2bobo$bobo$obo$bo!

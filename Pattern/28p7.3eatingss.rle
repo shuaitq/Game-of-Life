@@ -1,0 +1,8 @@
+#N 28p7.3eatingss.rle
+#C http://conwaylife.com/wiki/28P7.3
+#C http://conwaylife.com/patterns/28p7.3eatingss.rle
+x = 41, y = 25, rule = B3/S23
+30bo$28b3o$27bo$27b2o2$2b2o$bo2bo$bob2o$3bo$obo3bo$8bo11bo2bo$2bo5bo4b
+5o6bo6bo$2bo6bo2bo4bo2bo3bo4bobo6bobo$3b3o3bo7bo3b4o5b2o5bob2o$4b2o2bo
+3bo3bo16b2o2bo$14bo18bobobob2o$35bobo2bo$34b2o2bo$35b2ob2o$35b2obo$35b
+3o$33b3o$32bobo$32bo$31b2o!

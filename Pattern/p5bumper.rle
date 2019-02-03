@@ -1,0 +1,9 @@
+#N p5bumper.rle
+#O Tanner Jacobi, 2016
+#C http://conwaylife.com/wiki/P5_bumper
+#C http://www.conwaylife.com/patterns/p5bumper.rle
+x = 59, y = 52, rule = B3/S23
+58bo$56b2o$57b2o7$48bo$48bobo$48b2o13$bo$2o31bo$obo28b2o$32b2o6$9b2o$
+9bobo11bo$9bo13bobo$23b2o3$3b2o2bo$3bo2bobo$4bobobo$3b2obob2o$2bo3b2o
+2bo5b2o$bo2b2o3b3o3bo2bo$bobob2o2b3o4bobo$2bob2o3b3o5bo$6b2o2bo$5obob
+2o11b2o$o2bo2bobo12bo$5bo2bo13b3o$6b2o16bo!

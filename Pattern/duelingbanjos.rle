@@ -1,0 +1,8 @@
+#N duelingbanjos.rle
+#O Apple Bottom, 2019
+#C http://conwaylife.com/wiki/Dueling_banjos
+#C http://conwaylife.com/patterns/duelingbanjos.rle
+x = 20, y = 25, rule = B3/S23
+16b2o$16b2o2$16b4o$2o14bo2bo$bo$bobo$2b2o5bo$8b2o$7b2o6b3o$8b2o4bobo$
+14b2o2$14b2o$8b2o4bobo$7b2o6b3o$8b2o$2b2o5bo$bobo$bo$2o14bo2bo$16b4o2$
+16b2o$16b2o!

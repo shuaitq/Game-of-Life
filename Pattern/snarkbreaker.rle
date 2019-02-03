@@ -1,0 +1,13 @@
+#N snarkbreaker.rle
+#C http://conwaylife.com/wiki/Snarkbreaker
+#C http://conwaylife.com/patterns/snarkbreaker.rle
+x = 819, y = 907, rule = B3/S23
+107b2o$107b2o94$3b2o$4bo$2bo$2b5o14b2o$7bo13bo$4b3o12bobo$3bo15b2o$3b
+4o$b2o3bo3b2o$o2b3o4b2o$2obo$3bo$3b2o3$11b2o$12bo$9b3o$9bo9$34b2o$34bo
+bo$34bo21$58bo$57b2o$57bobo21$80b2o$80bobo$80bo28$109b3o$109bo$110bo
+21$133b2o$132b2o$134bo36$170b3o$170bo$171bo20$193b2o$193bobo$193bo23$
+218b2o$217b2o$219bo37$256b3o$256bo$257bo28$286b3o$286bo$287bo21$309b3o
+$309bo$310bo25$336b3o$336bo$337bo20$359b2o$359bobo$359bo24$384b3o$384b
+o$385bo39$425b3o$425bo$426bo120$548b2o$548bobo$548bo22$572b2o$572bobo$
+572bo151$725b2o$724b2o$726bo43$769b3o$769bo$770bo22$794b2o$793b2o$795b
+o19$815bo$817bo$816b2o$816bobo!

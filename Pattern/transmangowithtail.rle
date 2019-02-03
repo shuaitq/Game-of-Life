@@ -1,0 +1,5 @@
+#N transmangowithtail.rle
+#C http://conwaylife.com/wiki/Trans-mango_with_tail
+#C http://conwaylife.com/patterns/transmangowithtail.rle
+x = 6, y = 7, rule = b3/S23
+bo$obo$o2bo$bobo$2bo$3b3o$5bo!

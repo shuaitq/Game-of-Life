@@ -1,0 +1,8 @@
+#N quad_synth
+#O Tanner Jacobi, Martin Grant, Mark Niemec
+#C Glider synthesis of quad
+#C http://conwaylife.com/wiki/quad
+x = 101, y = 18
+5boo$bo3bobo$bbobbo27boo28boo28boo$3o30boo28boo28boo$$14bo$14bobo$14b
+oo$$27bo29bo29bo$27bo29bo29bo$27bo29bo11bobo15bo$69boo28bo$70bo27bobo$
+98boo$68b3o$70bo$69bo!

@@ -1,0 +1,23 @@
+#N carrierbridgecarrier_synth.rle
+#C http://conwaylife.com/wiki/Carrier_bridge_carrier
+#C http://conwaylife.com/patterns/carrierbridgecarrier_synth.rle
+#O http://conwaylife.com/ref/mniemiec/12/12-107.rle
+x = 132, y = 117, rule = B3/S23
+111bo$110bo$110b3o2$58bo$57bo$57b3o$117bo$84bobo30bobo$39bo45b2o30b2o$
+37bobo23bo21bo$38b2o23bobo$bo61b2o27bo$2bo49bo37bobo$3o48bo39b2o$51b3o
+$93bobo$50bo42b2o$28b2o21bo26b2o14bo33b2o$26bo2bo19b3o24bo2bo46bo2bo$
+26b2o2b2o44b2o2b2o44b2o2b2o$4bobo24bo49bo49bo$5b2o22bo21b2o26bo49bo$5b
+o23b2o19b2o27b2o48b2o$52bo50bo$6b3o92b2o$8bo93b2o$7bo7b2o88b3o$15bobo
+87bo$15bo90bo$58b3o$58bo$59bo$110b2o$109b2o$111bo8$108bo$106bobo$107b
+2o2$104b2o$105b2o21b2o$88b2o14bo3b2o16bo2bo$66bo21bobo17bobo15b2o2b2o$
+64bobo3bo18b2o18b2o3b3o14bo$65b2o2b2o43bo14bo$69bobo39bo3bo13b2o$64bo
+46b2o$63b2o45bobo$63bobo7$31bo$29bobo$30b2o2$29b2o$29bobo16b2o18b2o18b
+2o18b2o18b2o$26bo2bo16bo2bo16bo2bo16bo2bo16bo2bo16bo2bo$24bobo19b2o18b
+2o18b2o18b2o18b2o2b2o$25b2o50bo20bo32bo$77bobo10b3o6b2o9b3o7bo8bo$24b
+2o51b2o19b2o20bobo6b2o$24bobo93b2o$24bo49b3o$74bo42b3o$75bo41bo$118bo
+4$113b3o$113bo$114bo11$93bo$94bo$92b3o$96bo31b2o$96bobo27bo2bo$96b2o
+28b2o2b2o$45bobo52bo30bo$46b2o51bo15b3o4b2o5bo$46bo52b3o20b2o5b2o$69b
+2o18b2o22bo5bo$69bobo17bobo10b2o9bo5bo$72bo19bo9bobo8bo5bo6b2o$48bobo
+22bo19bo8bo23b2o$49b2o23bo19bo20b3o$49bo25bo19bo$74b2o8b2o8b2o27b3o$
+50b3o32b2o$52bo4b2o25bo36bo5bo$51bo4b2o30bo32bo5bo$58bo29b2o31bo5bo$
+87bobo$123b3o!

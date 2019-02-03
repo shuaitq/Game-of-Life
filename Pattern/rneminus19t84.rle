@@ -1,0 +1,7 @@
+#C RNE-19T84
+#C Paul Callahan, October 1997
+#C http://conwaylife.com/wiki/RNE-19T84
+#C http://www.conwaylife.com/patterns/rneminus19t84.rle
+x = 15, y = 27, rule = B3/S23
+7b2o$7bo$5bobo$5b2o$bo$obo$obo$bo2$13b2o$13bo$11bobo$2bo8b2o$2b2o$b2o
+7$5b2obo$5b2ob3o$11bo$5b2ob3o$4bo2b2o$4b2o!

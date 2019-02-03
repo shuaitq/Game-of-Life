@@ -1,0 +1,6 @@
+#N catereron28p7.3.rle
+#C http://conwaylife.com/wiki/Caterer_on_28P7.3
+#C http://conwaylife.com/patterns/catereron28p7.3.rle
+x = 17, y = 13, rule = B3/S23
+obo$2obo$3bo2b2o$2obobobo2b2o$o2bo2bo5bo$2bo6bo$4bo4bo3bo$2b3o4bo3b4o$
+11bo$6b2o$6bobo$8bo$8b2o!

@@ -1,0 +1,7 @@
+#N pyrotechnecium.rle
+#O David Buckingham, 1972
+#C http://conwaylife.com/wiki/Pyrotechnecium
+#C http://www.conwaylife.com/patterns/pyrotechnecium.rle
+x = 16, y = 10, rule = B3/S23
+7bo$5b5o$4bo5bo$bo2bobob2obo$obobobo4bo2bo$bo2bo4bobobobo$4bob2obobo2b
+o$5bo5bo$6b5o$8bo!

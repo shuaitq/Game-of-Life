@@ -1,0 +1,5 @@
+#N p6thumb.rle
+#C http://conwaylife.com/wiki/P6_Thumb
+#C http://conwaylife.com/patterns/p6thumb.rle
+x = 9, y = 9, rule = B3/S23
+5bo$4bobo$o2b2obo$2o2bo2b2o$5bobo$6obo$o5bo$3b3o$3bo!

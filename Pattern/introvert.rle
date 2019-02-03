@@ -1,0 +1,7 @@
+#N introvert.rle
+#O Dean Hickerson, 1995
+#C http://conwaylife.com/wiki/P10_traffic_light_hassler
+#C http://conwaylife.com/patterns/introvert.rle
+x = 17, y = 20, rule = B3/S23
+5b2o3b2o$5b2o3b2o4$4b3o3b3o$2o13b2o$2o2bobo3bobo2b2o$5bo5bo3$5bo5bo$2o2bobo3b
+obo2b2o$2o13b2o$4b3o3b3o4$5b2o3b2o$5b2o3b2o!

@@ -1,0 +1,8 @@
+#N Quadruple burloaferimeter 2
+#O Apple Bottom
+#C A C4_4-symmetric quadruple burloaferimeter variant found by Apple Bottom on Catagolue on June 16 2017.
+#C http://conwaylife.com/wiki/Burloaferimeter
+x = 16, y = 16, rule = B3/S23
+6b2o2b2o4b$6b2o2b2o4b$16b$4b8o4b$2obo8bo3b$2obo3b3o2bo3b$3bobobo4bob2o$
+3bobo3b2obob2o$2obob2o3bobo3b$2obo4bobobo3b$3bo2b3o3bob2o$3bo8bob2o$4b
+8o4b$16b$4b2o2b2o6b$4b2o2b2o6b!

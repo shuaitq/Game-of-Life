@@ -1,0 +1,11 @@
+#N 209P8.rle
+#C http://conwaylife.com/wiki/209P8
+#C http://conwaylife.com/patterns/209P8.rle
+x = 34, y = 23, rule = B3/S23
+14bob2o$14b2obo$2o15bob2o8bo$2obo6b2o5bo2bo3b2o2bobo$4bo5bobob2ob2o5bo
+3bobo$bo10bobobo2b4obo2b2o2b2o$2bob2o5b2o3bobo3bobobo2bobo$4b2o3b2obo
+5bob2o2bob2obobo$9bobo3b2obo2b2obobo2bob2o$10bo2bo6bobo2b3o5bo$11b9o4b
+o3b2o3bo$33bo$11b9o4bo3b2o3bo$10bo2bo6bobo2b3o5bo$9bobo3b2obo2b2obobo
+2bob2o$4b2o3b2obo5bob2o2bob2obobo$2bob2o5b2o3bobo3bobobo2bobo$bo10bobo
+bo2b4obo2b2o2b2o$4bo5bobob2ob2o5bo3bobo$2obo6b2o5bo2bo3b2o2bobo$2o15bo
+b2o8bo$14b2obo$14bob2o!

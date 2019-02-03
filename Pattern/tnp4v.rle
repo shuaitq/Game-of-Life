@@ -1,0 +1,6 @@
+#N tnp4v.rle
+#C http://conwaylife.com/wiki/T-nosed_p4
+#C http://conwaylife.com/patterns/tnp4v.rle
+x = 17, y = 12, rule = B3/S23
+2$7b3o2$6bo3bo$2b2obo5bob2o$2bo11bo$3b2o7b2o$3o2b7o2b3o$o2bo9bo2bo$b2o
+5bo5b2o$7b3o!

@@ -1,0 +1,9 @@
+#N fox_synth
+#O Chris Cain
+#C Glider synthesis of fox
+#C http://conwaylife.com/wiki/fox
+x = 100, y = 41, rule = B3/S23
+84bo$82b2o$83b2o3$59bo$57bobo$58b2o8bo$67bo$67b3o4$67bo$67bobo$67b2o2$
+74bobo$74b2o19b3o$75bo17bo$93bo3bo$93bobo$95bo2b2o$97bo5$2bo27b2o38b2o
+$2o27bo2bo22b3o11bo2bo$b2o26bo2bo24bo11bo2bo$30b2o24bo13b2o3$b3o$bo$2b
+o2$76b3o$76bo$77bo!

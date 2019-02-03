@@ -1,0 +1,8 @@
+#N speedbooster.rle
+#C http://conwaylife.com/wiki/Speed_booster
+#C http://www.conwaylife.com/patterns/speedbooster.rle
+x = 64, y = 23, rule = B3/S23
+bo37bo$2bo37bo$3o35b3o2$46bobo$44bo3bo$36bo7bo$35b4o4bo4bo8b2o$34b2obo
+bo4bo12b2o$23b2o8b3obo2bo3bo3bo$23b2o9b2obobo6bobo$35b4o$36bo$45b3o$
+45bobo3b2o$44b2o5bo2bo$37bobo5bo9bo6b2o$35bo3bo2b2o11bo6b2o$28b2o5bo
+10bo8bo$28b2o4bo4bo7b2o2bo2bo$35bo7bobo2bo2b2o$35bo3bo5b3o$37bobo!

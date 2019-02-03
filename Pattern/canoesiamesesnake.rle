@@ -1,0 +1,5 @@
+#N canoesiamesesnake.rle
+#C http://conwaylife.com/wiki/Canoe_siamese_snake
+#C http://conwaylife.com/patterns/canoesiamesesnake.rle
+x = 8, y = 5, rule = B3/S23
+2ob2o$ob2obo$6bo$7bo$6b2o!

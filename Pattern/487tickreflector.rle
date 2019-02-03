@@ -1,0 +1,18 @@
+#N 487tickreflector.rle
+#O Adam P. Goucher, 2009
+#C http://conwaylife.com/wiki/487-tick_reflector
+#C http://conwaylife.com/patterns/487tickreflector.rle
+x = 270, y = 174, rule = B3/S23
+162b2o$162b2o3$160b2o$160b2o$147b2o$148bo102b2o$148bobo100b2o5b2o$149b
+2o107b2o$220b2o$220bobo$222bo33b2o$138b2o82b2o32b2o$139bo122b2o$139bob
+o120b2o$140b2o2$158b2o37b2o$158b2o37b2o26b2o$225b2o$169b2o$168bo2bo$
+168bobo$169bo3$235b2o$236bo28b2o$220b2o11b3o29bo$151b2o67b2o11bo29bobo
+$151b2o110b2o2$206b2o23b2o$207bo23bo$175bo28b3o22bobo$175b3o26bo24b2o$
+178bo37b2o$177b2o37bo$217b3o$219bo3$262b2o$262b2o$187b2o$180b2o5bobo$
+180b2o7bo$189b2o$123bo$123b2o$122bobo$250bo$250b3o$181b2o70bo$181b2o
+69b2o$192b2o53bo$175b2o8bo6bo54b3o$174bobo7bobo3bobo57bo$174bo9b2o4b2o
+57b2o$173b2o3$176b2o$175bobo$175bo70b2o$174b2o70b2o17b2o$265b2o2$203b
+2o$183b2o18bo62b2o$183b2o16bobo62bo$201b2o50b2o12b3o$254bo14bo$251b3o$
+251bo$192bo$191bobo$192bo2$220b2o$220b2o3b2o$225b2o2$191b2o$191b2o33b
+2o$220b2o4bo$220b2o5b3o$229bo2$209b2o$209bobo$211bo$197b2o12b2o$197b2o
+77$b2o$obo$2bo!

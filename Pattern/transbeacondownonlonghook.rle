@@ -1,0 +1,5 @@
+#N transbeacondownonlonghook.rle
+#C http://conwaylife.com/wiki/Trans-beacon_down_on_long_hook
+#C http://conwaylife.com/patterns/transbeacondownonlonghook.rle
+x = 7, y = 8, rule = B3/S23
+2o$o$3bo$2b2o2$2b4o$2bo3bo$5b2o!

@@ -1,0 +1,6 @@
+#N prepreblockmakelwss.rle
+#C http://conwaylife.com/wiki/Pre-pre-block
+#C http://www.conwaylife.com/patterns/prepreblockmakelwss.rle
+x = 23, y = 20, rule = 23/3
+10bo$10bo$10bo5$b2o17b2o$obo16b2o$2bo18bo$10bo$10bo$10bo5$b2o17b2o$obo
+17bobo$2bo17bo!

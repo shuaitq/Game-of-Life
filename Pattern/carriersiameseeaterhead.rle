@@ -1,0 +1,5 @@
+#N carriersiameseeaterhead.rle
+#C http://conwaylife.com/wiki/Carrier_siamese_eater_head
+#C http://conwaylife.com/patterns/carriersiameseeaterhead.rle
+x = 7, y = 5, rule = B3/S23
+5b2o$2b2o2bo$bob2o$bo$2o!

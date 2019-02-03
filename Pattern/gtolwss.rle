@@ -1,0 +1,22 @@
+#N gtolwss.rle
+#O Chris Cain
+#C http://conwaylife.com/wiki/G-to-LWSS
+#C http://conwaylife.com/patterns/gtolwss.rle
+x = 168, y = 75, rule = B3/S23
+162b3o$162bo2bo$162bo$72b2o11bo76bo$72b2o10bobo76bobo$84bobo2b2o3bo$
+83b2ob2o2bo2bobo$87bobo3bobo$83b2obo2b4obo$83b2obobo3bo$87bobo3bo$88bo
+bo3bo43bo$89bo3b2o43b3o$108bo32bo$106b3o31b2o$105bo$80b2o23b2o$80b2o$
+65b2o$64bo2bo$63bob2o$63bo$62b2o$77b2o$77bo36b2o$78b3o33b2o$12b2o11bo
+54bo10b2o$12b2o10bobo63bobo$24bobo2b2o3bo55bo$23b2ob2o2bo2bobo53b2o10b
+2o$27bobo3bobo66bo$23b2obo2b4obo64b3o9b2o36b2o$23b2obobo3bo66bo11bo19b
+2o16bobo$27bobo3bo78bo17bobo18bo$28bobo3bo76b2o17bo20b2o$29bo3b2o58b2o
+11bo22b2o$48bo44b2o10bobo$46b3o56bobo2b2o3bo$45bo58b2ob2o2bo2bobo$20b
+2o23b2o61bobo3bobo$20b2o82b2obo2b4obo21bo2bob2o$5b2o97b2obobo3bo23b4ob
+o$4bo2bo100bobo3bo27bobo$3bob2o102bobo3bo23b2o2b2o$3bo106bo3b2o23bo$2b
+2o125bo10bo$17b2o38b2o68b3o9b2o2bo$17bo38bo2bo66bo16b3o$18b3o36b2o42b
+2o23b2o18bo$20bo11b2o49b2o16b2o42b2o$33bo49bo2b2o$30b3o6bob2o17b2o22b
+2o2bo$30bo6b3ob2o17bo26bo$36bo24b3o20b3o$37b3ob2o20bo19bo$2o37bobo41b
+2o13b2o$b2o36bobo4b2o50bo36b2o$o39bo6bo51b3o33b2o$44b3o54bo10b2o$44bo
+66bobo52b2o$111bo54b2o$110b2o10b2o$73b2o48bo$72bobo5b2o38b3o9b2o$72bo
+7b2o38bo11bo19b2o$71b2o60bo17bobo$132b2o17bo$85bo64b2o$81b2obobo$80bob
+obobo$77bo2bobobobob2o$77b4ob2o2bo2bo$81bo4b2o$79bobo$79b2o!

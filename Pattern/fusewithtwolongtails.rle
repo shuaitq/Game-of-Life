@@ -1,0 +1,5 @@
+#N fusewithtwolongtails.rle
+#C http://conwaylife.com/wiki/Fuse_with_two_long_tails
+#C http://conwaylife.com/patterns/fusewithtwolongtails.rle
+x = 4, y = 8, rule = B3/S23
+2b2o$2bo$3bo$bobo$obo$o$bo$2o!

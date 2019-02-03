@@ -1,0 +1,6 @@
+#N extendedp6shuttle.rle
+#C http://conwaylife.com/wiki/P6_shuttle
+#C http://www.conwaylife.com/patterns/extendedp6shuttle.rle
+x = 25, y = 24, rule = B3/S23
+o$3o$3bo$2b2o2$6bo$5b4o$6bo2bo$7b3o2$10b3o$10bo2bo$11b4o$13bo2$17bo$
+16b3o$17bobo$17bobo$18b2o$21b2o$21bobo$23bo$23b2o!

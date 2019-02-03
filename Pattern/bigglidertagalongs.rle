@@ -1,0 +1,12 @@
+#C Tagalongs for one or more "big gliders".
+#C The block in the center tagalong can be removed
+#C   or replaced with tagalong parts of Canada goose or Orion 2.
+#C http://www.conwaylife.com/wiki/Big_glider
+#C http://www.conwaylife.com/patterns/bigglidertagalongs.rle
+x = 34, y = 28, rule = B3/S23
+13b3o$13bo2b3o$14bobo$10b2o7bo$10bobo4bo2bo$10bo8b2o$11b2o$11bo2bo5bob
+2o$11bo9b2obo$4b2obo5bobo6b2o2bo4b2o$4bo3bo5b2obo4b2o3bo3bobo$4bo4bo8b
+o7bo4bo$6b2o9b4o3bobo3b2o$3o5bobo6bob2o3b4o$o10bo6bo3b2obo$3bo5bo13b2o
+$o2bo6bob2o5bob3o$bo2bo6b4o5bo2bo$2bo3bo8bo$4bo2bo7b2o$5bo2bo4b2o3bo4b
+o$7b2o4b2obobo3bobo$7b2o2b2o2b2obo2bo$8bo2b2o8bo2bo$9b2o2bo8bo3b2o$10b
+ob2o12b2o2$11b3o!

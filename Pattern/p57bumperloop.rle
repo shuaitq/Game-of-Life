@@ -1,0 +1,11 @@
+#N p57bumperloop.rle
+#O Entity Valkyrie, 2018
+#C http://conwaylife.com/wiki/P57_bumper_loop
+#C http://conwaylife.com/patterns/p57bumperloop.rle
+x = 44, y = 44, rule = B3/S23
+14bo$14b3o$17bo7b3o$16b2o11bo$26bo2bobo2$12b2o8b2o3b4obo$12bo9bo5b3o2b
+o$10bobo8bo9bo$10b2o9b2o8bo2bo$7b2o25bo$5b2obo24bo$3b2obo27b3o$8bo27bo
+$3bo$3bob3o34b2o$b2o39bo$3bo36bobo$40b2o$6bobo$6bo2bo$5bo2b2o$34b2o2bo
+$34bo2bo$35bobo$2b2o$bobo36bo$bo39b2o$2o34b3obo$40bo$7bo27bo$7b3o27bob
+2o$10bo24bob2o$9bo25b2o$9bo2bo8b2o9b2o$12bo9bo8bobo$10bo2b3o5bo9bo$11b
+ob4o3b2o8b2o2$12bobo2bo$14bo11b2o$16b3o7bo$27b3o$29bo!

@@ -1,0 +1,6 @@
+#N Small lake variants
+#C Two variants of the Small lake.
+#C http://conwaylife.com/wiki/Small_lake
+x = 21, y = 9, rule = B3/S23
+4bo11bo$3bobo9bobo$3bobo9bobo$b3ob3o5b2obob2o$o7bo3bo3bo3bo$b3ob3o5b2o
+bob2o$3bobo9bobo$3bobo9bobo$4bo11bo!

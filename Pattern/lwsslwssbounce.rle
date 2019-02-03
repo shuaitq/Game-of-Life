@@ -1,0 +1,6 @@
+#N lwsslwssbounce.rle
+#C http://conwaylife.com/wiki/LWSS-LWSS_bounce
+#C http://www.conwaylife.com/patterns/lwsslwssbounce.rle
+x = 55, y = 4, rule = B3/S23
+o2bo16bo2bo7bo2bo16bo2bo$4bo19bo5bo19bo$o3bo15bo3bo5bo3bo15bo3bo$b4o
+16b4o5b4o16b4o!

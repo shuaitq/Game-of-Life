@@ -1,0 +1,6 @@
+#N Kickback reaction
+#O Unknown
+#C http://conwaylife.com/wiki/Kickback_reaction
+#C http://conwaylife.com/patterns/kickbackreaction.rle
+x = 8, y = 7, rule = B3/S23
+5bo$6b2o$5b2o2$b2o$obo$2bo!

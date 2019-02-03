@@ -1,0 +1,13 @@
+#N P130shuttle2.rle
+#C http://conwaylife.com/wiki/P130_shuttle
+#C http://conwaylife.com/patterns/P130shuttle2.rle
+x = 50, y = 40, rule = B3/S23
+42bo2b2o$5b2o34bobo2bo$5b2o7bo26bobobo$14bo25b2obob2o$15bo24bo2bo3bo$
+20b2o19bo2b3obo$2o4b2o11bo2bo17bo2b2o3bo$2o3bo2bo11b2o19bo2b4o$5bobo
+16b2o14bo2bo$6bo15b4o14b2obob5o$21bo4bo14bobo2bo2bo$3bo17bobobo15bo2bo
+$2bobo15bo3b2o16b2o$2b2o19bo2$23bo$20bo3b2o$21bobobo$21bo4bo14bo6b2o$
+22b4o14bobob2o2bo$3b2ob2o16b2o14bobobobobo$bo2bobobo11b2o17b2obo3bob2o
+$b2obo2bo11bo2bo16bo2b2ob2o2bo$4bo15b2o18bo7bo$4b2o34bo7bo$2b2o2bobo
+30bo2b2ob2o2bo$bo2bo2b2o30b2obo3bob2o$2b2o36bobobobobo$40bobob2o2bo$
+11b5o25bo6b2o$10bo5bo$8b3o5b3o$7bo11bo$8b4obob3obo$12b3o3bo$7bob2o5bo$
+7b2obobobob2o$11bo2bobo$12b2o2bo$16b2o!

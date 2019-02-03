@@ -1,0 +1,5 @@
+#N tubbendlinetub.rle
+#C http://conwaylife.com/wiki/Tub_bend_line_tub
+#C http://conwaylife.com/patterns/tubbendlinetub.rle
+x = 6, y = 8, rule = B3/S23
+bo$obo$bobo$3bo$2bo$2bobo$3bobo$4bo!

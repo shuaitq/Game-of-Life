@@ -1,0 +1,6 @@
+#N Nine
+#O Unknown
+#C http://conwaylife.com/wiki/Nine
+#C http://conwaylife.com/patterns/nine.rle
+x = 3, y = 4, rule = B3/S23
+o$o$obo$b2o!

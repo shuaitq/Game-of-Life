@@ -1,0 +1,7 @@
+#N 42p10.3.rle
+#C http://conwaylife.com/wiki/42P10.3
+#C http://conwaylife.com/patterns/42p10.3.rle
+#C First period-10 oscillator to be discovered, no later than 1976.
+x = 13, y = 13, rule = B3/S23
+6b2o$6b2o2$4b4o$3bo4bo$o2b5obo$3o6bo$3bo3bobob2o$2bo2bo4bobo$2bob2ob3o$3bo2bo
+$4bo2bo$5b2o!

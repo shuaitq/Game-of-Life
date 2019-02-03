@@ -1,0 +1,5 @@
+#N transsnaketie.rle
+#C http://conwaylife.com/wiki/Trans-snake-tie
+#C http://conwaylife.com/patterns/transsnaketie.rle
+x = 6, y = 6, rule = B3/S23
+2bob2o$2b2obo$2o$bo$o$2o!

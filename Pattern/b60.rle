@@ -1,0 +1,6 @@
+#N b60.rle
+#O Michael Simkin, 2015
+#C http://conwaylife.com/wiki/B60
+#C http://www.conwaylife.com/patterns/b60.rle
+x = 21, y = 13, rule = B3/S23
+o11b2o5b2o$3o9b2o5b2o$2bo$2bo12b2o$15b2o5$6bo$6bobo$6b3o$8bo!

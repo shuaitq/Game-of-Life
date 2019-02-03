@@ -1,0 +1,5 @@
+#N nonominoswitchenginepredecessor.rle
+#C http://conwaylife.com/wiki/Nonomino_switch_engine_predecessor
+#C http://www.conwaylife.com/patterns/nonominoswitchenginepredecessor.rle
+x = 6, y = 3, rule = B3/S23
+3o$2bobo$2b4o!

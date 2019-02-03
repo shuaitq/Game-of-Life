@@ -1,0 +1,6 @@
+#N unixon34p14shuttle.rle
+#C http://conwaylife.com/wiki/Unix_on_34P14_shuttle
+#C http://conwaylife.com/patterns/unixon34p14shuttle.rle
+x = 18, y = 22, rule = B3/S23
+b2o$b2o2$bo$obo$o2bo2b2o$4bob2o$2b2o4$8b2o$3b2o2b2obo5b2o$3b2o3bobo5b
+2o$10bo$12bo2$12bo$10bo$3b2o3bobo5b2o$3b2o2b2obo5b2o$8b2o!

@@ -1,0 +1,5 @@
+#N honeybarge.rle
+#C http://conwaylife.com/wiki/Honeybarge
+#C http://conwaylife.com/patterns/honeybarge.rle
+x = 6, y = 5, rule = B3/S23
+2o2bo$o2bobo$bobobo$2bobo$3bo!

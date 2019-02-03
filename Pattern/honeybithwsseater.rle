@@ -1,0 +1,5 @@
+#N honeybithwsseater.rle
+#C http://conwaylife.com/wiki/Honeybit
+#C http://www.conwaylife.com/patterns/honeybithwsseater.rle
+x = 25, y = 9, rule = B3/S23
+2b2o$o4bo16b2o$6bo14bo2bo$o5bo14bo2bo$b6o15b2o3$21b2o$21b2o!

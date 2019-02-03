@@ -1,0 +1,5 @@
+#N bargewithverylongtail.rle
+#C http://conwaylife.com/wiki/Barge_with_very_long_tail
+#C http://conwaylife.com/patterns/bargewithverylongtail.rle
+x = 8, y = 5, rule = B3/S23
+bo$obo$bobo2b2o$2bo2bobo$3b2o!

@@ -1,0 +1,13 @@
+#N quasar2.rle
+#C http://conwaylife.com/wiki/Quasar
+#C http://www.conwaylife.com/patterns/quasar2.rle
+x = 45, y = 45, rule = B3/S23
+18b3o3b3o2$16bo4bobo4bo$16bo4bobo4bo$16bo4bobo4bo$18b3o3b3o2$16b3o7b3o
+$10b3o2bo4bo3bo4bo2b3o$15bo4bo3bo4bo$8bo4bobo4bo3bo4bobo4bo$8bo4bo17bo
+4bo$8bo4bo2b3o7b3o2bo4bo$10b3o19b3o2$8b3o23b3o$2b3o2bo4bo19bo4bo2b3o$
+7bo4bo19bo4bo$o4bobo4bo19bo4bobo4bo$o4bo33bo4bo$o4bo2b3o23b3o2bo4bo$2b
+3o35b3o2$2b3o35b3o$o4bo2b3o23b3o2bo4bo$o4bo33bo4bo$o4bobo4bo19bo4bobo
+4bo$7bo4bo19bo4bo$2b3o2bo4bo19bo4bo2b3o$8b3o23b3o2$10b3o19b3o$8bo4bo2b
+3o7b3o2bo4bo$8bo4bo17bo4bo$8bo4bobo4bo3bo4bobo4bo$15bo4bo3bo4bo$10b3o
+2bo4bo3bo4bo2b3o$16b3o7b3o2$18b3o3b3o$16bo4bobo4bo$16bo4bobo4bo$16bo4b
+obo4bo2$18b3o3b3o!

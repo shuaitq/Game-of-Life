@@ -1,0 +1,6 @@
+#N verylongshillelagh_synth.rle
+#C http://conwaylife.com/wiki/Very_long_shillelagh
+#C http://www.conwaylife.com/patterns/verylongshillelagh_synth.rle
+x = 43, y = 19, rule = B3/S23
+4bo$5bo$3b3o3$40b2o$40bobo$42bo$41bo$40bo$39bo$3o36b2o$2bo7bo$bo7bo$9b
+3o2$10bo$9b2o$9bobo!

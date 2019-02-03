@@ -1,0 +1,5 @@
+#N ridiculouslylongship.rle
+#C http://conwaylife.com/wiki/Ridiculously_long_ship
+#C http://conwaylife.com/patterns/ridiculouslylongship.rle
+x = 11, y = 11, rule = B3/S23
+2o$obo$bobo$2bobo$3bobo$4bobo$5bobo$6bobo$7bobo$8bobo$9b2o!

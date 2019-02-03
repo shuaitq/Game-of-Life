@@ -1,0 +1,7 @@
+#N p64tbh.rle
+#O carybe, 2018
+#C http://conwaylife.com/wiki/P64_thunderbird_hassler
+#C http://conwaylife.com/patterns/p64tbh.rle
+x = 15, y = 27, rule = B3/S23
+3b2o$3b2obo$7bo$4bo$5bob2o$7b2o6$12bo$o5b2o3bobo$o4bo2bobo3bo$o5b2o3bo
+bo$12bo6$7b2o$5bob2o$4bo$7bo$3b2obo$3b2o!

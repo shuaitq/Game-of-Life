@@ -1,0 +1,5 @@
+#N remarkablylongshillelagh.rle
+#C http://conwaylife.com/wiki/Remarkably_long_shillelagh
+#C http://conwaylife.com/patterns/remarkablylongshillelagh.rle
+x = 6, y = 9, rule = B3/S23
+b2o$obo$o$bo$2bo$3bo$4bo$5bo$4b2o!

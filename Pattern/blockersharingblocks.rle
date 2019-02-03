@@ -1,0 +1,6 @@
+#N blockersharingblocks.rle
+#C http://conwaylife.com/wiki/Blocker
+#C http://conwaylife.com/patterns/blockersharingblocks.rle
+x = 18, y = 12, rule = B3/S23
+6bobo5bobo$5bo7bo$2o2bo4bo2bo4bo$2obo2bob2obo2bob2o$4b2o6b2o3$14bobo$
+5bo7bo$3ob2o2b2o2bo4bo$4o4b2obo2bob2o$4b2o6b2o!

@@ -1,0 +1,8 @@
+#N catereronbeluchenkosp13.rle
+#O Jason Summers
+#C http://conwaylife.com/wiki/Caterer_on_Beluchenko's_p13
+#C http://conwaylife.com/patterns/catereronbeluchenkosp13.rle
+#C Smallest period-39 oscillator by population, found 6 January 2009
+x = 21, y = 16, rule = B3/S23
+3b2o4b3o$2bo$5bo5bo$bo3bo5b2o$obo2bo4bo$o2bo9bo$b2o6bo3bo$14b2o$5b2o2b
+3o5bo$5b2o5bo4b2obo$12bo3bo3bo$12bobo5bo3$11b2o$11b2o!

@@ -1,0 +1,8 @@
+#N centuryeaterreaction.rle
+#C Century eater ( http://conwaylife.com/wiki/Century_eater )
+#C replacing a constellation in Paul Callahan's bistable switch:
+#C http://conwaylife.com/wiki/Bistable_switch
+#C http://conwaylife.com/patterns/centuryeaterreaction.rle
+x = 30, y = 43, rule = B3/S23
+12bob2o$12b2obo2$10b5o$9bo2bo2bo$9b2o3bobo$15b2o16$28b2o$28b2o2$o$b2o$
+2o11$4b2o$3bobo$3bo$2b2o8b2o$12b2o!

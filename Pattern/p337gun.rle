@@ -1,0 +1,15 @@
+#N p337gun.rle
+#O Entity Valkyrie
+#C http://conwaylife.com/wiki/RRx56H
+#C http://conwaylife.com/patterns/p337gun.rle
+x = 80, y = 97, rule = B3/S23
+6b2o$7bo14b2o$7bobo12b2o9b2o$8b2o23b2o2$4b2o36b2o$4bo37b2o$5b3o$7bo$2b
+2o$3bo30b3o5b2o$2bo39b2o$2b2o2b2o$5bobo$4obo$o2bob2o20bo$25b2o$26b2o4b
+2o$32b2o$55bo$53b3o$43b3o6bo$43bo8b2o$42b3o6$57b2o$57bo$55bobo$55b2o3$
+41b2o$7b2o31bobo$7b2o31bo$39b2o2$75b2o$66b2o7b2o$43b2o21b2o$43b2o$30b
+2o4b2o$29bo2bo3b2o37bo$30b2o42bobo$74bobo$4bo70bo$3bobo$3bobo42b2o$4bo
+37b2o3bo2bo$42b2o4b2o$35b2o$12b2o21b2o$3b2o7b2o$3b2o2$39b2o$39bo31b2o$
+37bobo31b2o$37b2o3$23b2o$22bobo$22bo$21b2o6$35b3o$26b2o8bo$27bo6b3o$
+24b3o$24bo$46b2o$46b2o4b2o$53b2o$52bo20b2obo2bo$74bob4o$72bobo$72b2o2b
+2o$36b2o39bo$36b2o5b3o30bo$76b2o$72bo$72b3o$36b2o37bo$36b2o36b2o2$45b
+2o23b2o$45b2o9b2o12bobo$56b2o14bo$72b2o!

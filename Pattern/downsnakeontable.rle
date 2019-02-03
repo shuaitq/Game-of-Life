@@ -1,0 +1,5 @@
+#N downsnakeontable.rle
+#C http://conwaylife.com/wiki/Down_snake_on_table
+#C http://conwaylife.com/patterns/downsnakeontable.rle
+x = 7, y = 4, rule = B3/S23
+2obob2o$ob2obo$5bo$5b2o!

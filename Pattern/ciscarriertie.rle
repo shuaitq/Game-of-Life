@@ -1,0 +1,5 @@
+#N ciscarriertie.rle
+#C http://conwaylife.com/wiki/Cis-carrier-tie
+#C http://conwaylife.com/patterns/ciscarriertie.rle
+x = 6, y = 8, rule = B3/S23
+4b2o$5bo$3bo$3b2o$b2o$2bo$o$2o!

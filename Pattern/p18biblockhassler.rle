@@ -1,0 +1,7 @@
+#N p18biblockhassler.rle
+#O Noam Elkies, 1995
+#C http://conwaylife.com/wiki/P18_bi-block_hassler
+#C http://conwaylife.com/patterns/p18biblockhassler.rle
+x = 15, y = 20, rule = B3/S23
+4bo$4obo$3obobo$5bobo$6bo$5b2o$5b2o3bo$5b2o2bobob2o$13b2o3$7bo2bo$7bo$
+6bo4bo$5bobo2b2o$3b2obo3$3bo2bo$5b2o!

@@ -1,0 +1,8 @@
+#N periodmultiplier.rle
+#C http://conwaylife.com/wiki/Period_multiplier
+#C http://www.conwaylife.com/patterns/periodmultiplier.rle
+#C Period multiplier example
+#C http://conwaylife.com/wiki/Period_multiplier
+x = 45, y = 32, rule = B3/S23
+20bo$20b3o$23bo$12b2o8b2o$13bo$13bobo$2o12b2o$obo$2bo$2b2o3$43b2o$43b
+2o2$bo3b2o$b2o2b2o$2b2o$b2o9$33b2o$9b2o22b2o$8bobo$8bo$7b2o!

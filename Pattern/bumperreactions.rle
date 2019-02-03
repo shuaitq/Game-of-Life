@@ -1,0 +1,7 @@
+#N bumperreactions.rle
+#C http://conwaylife.com/wiki/Bumper
+#C http://www.conwaylife.com/patterns/bumperreactions.rle
+x = 20, y = 44, rule = B3/S23
+13bo$13bobo$13b2o2$11b2o$4b2o4bo2bo$4b2o5bobo$4b2o6bo$5bo$4bobo9b2o$3b
+2obo9bo$17b3o$19bo$4b2o$4b2o14$13bo$13bobo$13b2o2$5b2o4b2o$5b2o3bo2bo$
+11bobo$12bo$5bo$4b3o9b2o$2b2ob2o9bo$bo2bo12b3o$4bo14bo2$o2bo$b2o!

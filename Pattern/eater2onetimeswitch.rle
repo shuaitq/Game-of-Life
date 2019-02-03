@@ -1,0 +1,9 @@
+#N eater2onetimeswitch.rle
+#C http://conwaylife.com/wiki/Switch
+#C http://www.conwaylife.com/patterns/eater2onetimeswitch.rle
+x = 81, y = 62, rule = B3/S23
+2bo$3bo21bo$b3o20bobo$24bobo$22b3ob2o16bo$18bo2bo20b3o$16b3o3b3ob2o13b
+o$15bo8bob2o13b2o$15b2o$2o$bo$bob2o$2bo2bo23bo12b2o$3b2o24bo12bobo$18b
+2o9b3o12bo$18b2o11bo12b2o5$26bo3b2o$25bobo3bo$21b2obobo3bo$21b2obo4bo$
+25b5obo$17b2obob2obo4b2o$17bob2obo2bob2o$10b2o12b2obob3o14b2o$10b2o19b
+o14bobo$46bo30$78b2o$78bobo$78bo!

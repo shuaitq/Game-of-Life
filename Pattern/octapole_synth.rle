@@ -1,0 +1,9 @@
+#N Octapole_synth
+#O Goldtiger997
+#C Glider synthesis of the octapole.
+#C http://conwaylife.com/wiki/Octapole
+#C http://www.conwaylife.com/forums/viewtopic.php?p=42858#p42858
+x = 55, y = 33, rule = B3/S23
+52bo$52bobo$52b2o$20bo$18bobo$8bo10b2o$6bobo$7b2o7bo$14bobo$15b2o2$17b
+obo$17b2o24bobo$18bo24b2o$44bo4$10bo$10b2o24bo$9bobo24b2o$35bobo2$38b
+2o$38bobo$38bo7b2o$46bobo$34b2o10bo$34bobo$34bo$b2o$obo$2bo!

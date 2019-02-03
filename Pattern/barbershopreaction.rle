@@ -1,0 +1,6 @@
+#N barbershopreaction.rle
+#C http://conwaylife.com/wiki/Barbershop
+#C http://www.conwaylife.com/patterns/barbershopreaction.rle
+x = 20, y = 16, rule = B3/S23
+10bobo$11b2o$bo9bo5bo$2bo14bobo$3o14b2o4$17bo$16b2o$16bobo$8b2o$7bobo
+2$5bobo$5b2o!

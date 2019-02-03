@@ -1,0 +1,10 @@
+#N 42883m.rle
+#O Adam P. Goucher, 2018
+#C http://conwaylife.com/wiki/42883M
+#C http://conwaylife.com/patterns/42883m.rle
+#C A methuselah with a lifespan of 42883 generations,
+#C   discovered on November 30, 2018, also known as Homer.
+x = 16, y = 16, rule = B3/S23
+obo6b5obo$2b3obobob2o2bo$b2o2bobo2b2o3bo$2bobo2b2obo2b2o$o2bo4b3o3bo$
+3bob3obo$6obobob2obo$6b2ob2ob2o$2b3ob8o$3b2ob4o4b2o$6obo2bo2bo$bo3b3ob
+3o2b2o$5obo3bob2obo$2o6bo2bo$2ob3o2bob6o$2b2obobob2o2b2o!

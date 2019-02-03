@@ -1,0 +1,16 @@
+#N Up dove on dove synthesis
+#O Mark D. Niemiec's life synthesis database, Thu Feb 19 02:01:26 2015
+#C 18-355.rle
+#C http://codercontest.com/mniemiec/18/18-355.rle
+#C http://www.conwaylife.com/wiki/Up_dove_on_dove
+#C http://www.conwaylife.com/patterns/updoveondove_synth.rle
+x = 89, y = 90, rule = B3/S23
+86bxx$65bo19bxbbx$66boo16bxbbx$65boo17b3x$$67bo16b3x$60b3o4boo15bxbbx$
+62bo3bobo16bxbbx$61bo9b3o12bxx$71bo$72bo20$86bxx$13bo41bo29bxbbx$11bob
+o19bxx21bo16boo9bxbbx$12boo19bxx19b3o16boo9b3x$50b3o$12boo19bxx17bo20b
+oo9b3x$11bobo19bxx16bo21boo9bxbbx$13bo71bxbbx$86bxx22$bobo$bboo$bbo3$
+6bobo49bo$7boo50bo$7bo49b3o$41byy18boo$40bybby16bobbo$41byy3bxx13boo3b
+oo18bxx$16b3o26bxbbx16bobbo16bxbbx$16bo27bxbbx16bobbo16bxbbx$17bo26b3x
+17b3o17b3x$$44b3x17b3o17b3x$44bxbbx16bobbo16bxbbx$10bo34bxbbx16bobbo
+16bxbbx$11boo28byy3bxx13boo3boo18bxx$10boo28bybby16bobbo$41byy18boo$9b
+o47b3o$8boo49bo$8bobo47bo4$oo$boo$o!

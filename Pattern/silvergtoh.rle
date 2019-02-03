@@ -1,0 +1,11 @@
+#C Silver G-to-H
+#O Stephen Silver, November 1998
+#C http://www.conwaylife.com/wiki/Silver_G-to-H
+#C http://www.conwaylife.com/patterns/silvergtoh.rle
+x = 76, y = 101, rule = B3/S23
+44bo$44b3o5b2o20bo$47bo4b2o19bobo$46b2o25bobo$74bo$63bo$47b2o14bo$47b
+2o3b2o9b3o$52b2o11bo5$22bo$20b3o$4bo14bo$4b3o12b2o$7bo$6b2o3$7b2o$7b2o
+17b2o$26b2o6$23b2o$23bo$25bo$24b2o$20b2o$20bo$21b3o$23bo6$29b2o$29bo$
+10b2o15bobo$10b2o15b2o12$9b2o$8bobo$8bo$7b2o9$19b2o$19b2o6$8b2o$9bo19b
+2o$9bobo17bo$10b2o15bobo$22bo4b2o$21bobo$21bobo$10b2o10bo$9bobo$9bo$8b
+2o$23b2o$23bo$24b3o$26bo8$b2o$obo$2bo!

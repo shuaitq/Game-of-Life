@@ -1,0 +1,9 @@
+#N stillater_synth
+#O gmc_nxtman
+#C Glider synthesis of stillater
+#C http://conwaylife.com/wiki/stillater
+x = 104, y = 34, rule = B3/S23
+82bo$82bobo$82b2o4$60bo$58bobo$59b2o$67bo$66bo$66b3o2$65bo$66bo9bo$64b
+3o8bo$75b3o$79b3o$79bo$bo36bo31bo9bo$b2o2b2o31bo31bo$obob2o32bo31bo$6b
+o59bo33bo$67bo30b3o$65b3o29bo3b2o$96bo2bobobo$97b5obo$102bo$79b2o18b3o
+$78b2o19bo$80bo$67b2o$66bobo$68bo!

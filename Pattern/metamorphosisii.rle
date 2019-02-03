@@ -1,0 +1,12 @@
+#N metamorphosisii.rle
+#O Robert Wainwright, 1994
+#C http://conwaylife.com/wiki/Metamorphosis_II
+#C http://www.conwaylife.com/patterns/metamorphosisii.rle
+x = 53, y = 51, rule = B3/S23
+20b2o9b2o$20b2o9b2o3$20b3o7b3o$20b3o7b3o4$18b2o3b2o3b2o3b2o$19b5o5b5o$
+20b3o7b3o$21bo9bo$8bo35bo$7bobo33bobo$6bob2o33b2obo$2o3b2ob2o33b2ob2o
+3b2o$2o4bob2o33b2obo4b2o$7bobo33bobo$8bo35bo$23bobo$22bo$22bo$22bo2bo$
+22b3o2$22b3o$22bo2bo$22bo$22bo$23bobo$8bo35bo$7bobo33bobo$2o4bob2o33b
+2obo4b2o$2o3b2ob2o33b2ob2o3b2o$6bob2o33b2obo$7bobo33bobo$8bo35bo$21bo
+9bo$20b3o7b3o$19b5o5b5o$18b2o3b2o3b2o3b2o4$20b3o7b3o$20b3o7b3o3$20b2o
+9b2o$20b2o9b2o!

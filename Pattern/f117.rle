@@ -1,0 +1,8 @@
+#N F117
+#O Dave Buckingham, July 1996
+#C Repeat time 63 ticks
+#C http://conwaylife.com/wiki/F117
+#C http://www.conwaylife.com/patterns/f117.rle
+x = 45, y = 22, rule = B3/S23
+22b2o$23bo$10bo11bo$10b3o9b2o$13bo$2o10b2o$bo$bobo$2b2o$25b2o15bo$25b
+2o15bo$42b3o$44bo3$2bo$2bobo$2b3o$4bo11b2o$16bo$17b3o$19bo!

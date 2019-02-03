@@ -1,0 +1,7 @@
+#N 131c31climber.rle
+#C http://conwaylife.com/wiki/(13,1)c/31_Pseudo-B_climber
+#C http://www.conwaylife.com/patterns/131c31climber.rle
+x = 37, y = 108, rule = B3/S23
+o$b2o$2o19$8bo$6bobo$7b2o19$13bobo$14b2o$14bo17$24bo$23b3o$23bob2o$24b
+o2bo$25b2o$25bo2$22b2o$21bo2$20bobo2bo$20bob3obo$19b3ob2obo$20bobo$20b
+3o$21bo8$29bo$27bobo$28b2o19$34bobo$35b2o$35bo!

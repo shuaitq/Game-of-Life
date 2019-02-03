@@ -1,0 +1,5 @@
+#N ludicrouslylongboat.rle
+#C http://conwaylife.com/wiki/Ludicrously_long_boat
+#C http://conwaylife.com/patterns/ludicrouslylongboat.rle
+x = 12, y = 12, rule = B3/S23
+10bo$9bobo$8bobo$7bobo$6bobo$5bobo$4bobo$3bobo$2bobo$bobo$obo$2o!

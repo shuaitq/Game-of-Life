@@ -1,0 +1,5 @@
+#N asymmetricamphisbaena.rle
+#C http://conwaylife.com/wiki/Asymmetric_amphisbaena
+#C http://conwaylife.com/patterns/asymmetricamphisbaena.rle
+x = 5, y = 8, rule = B3/S23
+2b2o$2bo$3bo$4bo$b3o$o$bo$2o!

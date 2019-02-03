@@ -1,0 +1,6 @@
+#N transboatontable_synth.rle
+#C http://conwaylife.com/wiki/Trans-boat_on_table
+#C http://conwaylife.com/patterns/transboatontable_synth.rle
+x = 40, y = 10, rule = B3/S23
+10b2o$obo6b2o$b2o4bo3bo$bo3bobo27bo$6b2o26bobob2o$35b2obo$38bo$5bo32b
+2o$5b2o$4bobo!

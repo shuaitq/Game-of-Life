@@ -1,0 +1,19 @@
+#N prequasar.rle
+#C http://conwaylife.com/wiki/Quasar
+#C http://conwaylife.com/patterns/prequasar.rle
+x = 121, y = 108, rule = B3/S23
+88b3o3b3o$88bobo3bobo$88b3o3b3o4$86b3o7b3o$86bobo7bobo$16b3o3b3o55b3o
+3b3o7b3o3b3o$16bobo3bobo55bobo19bobo$16b3o3b3o55b3o19b3o4$16b3o3b3o55b
+3o19b3o$16bobo3bobo55bobo19bobo$16b3o3b3o55b3o3b3o7b3o3b3o$86bobo7bobo
+$86b3o7b3o4$88b3o3b3o$88bobo3bobo$88b3o3b3o27$88b3o3b3o$88bobo3bobo$
+88b3o3b3o4$86b3o7b3o$86bobo7bobo$16b3o3b3o55b3o3b3o7b3o3b3o$16bobo3bob
+o55bobo19bobo$16b3o3b3o55b3o19b3o4$14b3o7b3o51b3o23b3o$14bobo7bobo51bo
+bo23bobo$8b3o3b3o7b3o3b3o39b3o3b3o23b3o3b3o$8bobo19bobo39bobo35bobo$8b
+3o19b3o39b3o35b3o4$6b3o23b3o35b3o39b3o$6bobo23bobo35bobo39bobo$3o3b3o
+23b3o3b3o23b3o3b3o39b3o3b3o$obo35bobo23bobo51bobo$3o35b3o23b3o51b3o4$
+3o35b3o23b3o51b3o$obo35bobo23bobo51bobo$3o3b3o23b3o3b3o23b3o3b3o39b3o
+3b3o$6bobo23bobo35bobo39bobo$6b3o23b3o35b3o39b3o4$8b3o19b3o39b3o35b3o$
+8bobo19bobo39bobo35bobo$8b3o3b3o7b3o3b3o39b3o3b3o23b3o3b3o$14bobo7bobo
+51bobo23bobo$14b3o7b3o51b3o23b3o4$16b3o3b3o55b3o19b3o$16bobo3bobo55bob
+o19bobo$16b3o3b3o55b3o3b3o7b3o3b3o$86bobo7bobo$86b3o7b3o4$88b3o3b3o$
+88bobo3bobo$88b3o3b3o!

@@ -1,0 +1,5 @@
+#N fusewithtailandverylongtail.rle
+#C http://conwaylife.com/wiki/Fuse_with_tail_and_very_long_tail
+#C http://conwaylife.com/patterns/fusewithtailandverylongtail.rle
+x = 8, y = 5, rule = B3/S23
+o$3o$3bo2b2o$2bo2bobo$3b2o!

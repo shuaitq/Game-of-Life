@@ -1,0 +1,14 @@
+#N knightshippartial.rle
+#C http://conwaylife.com/wiki/Partial_result
+#C http://www.conwaylife.com/patterns/knightshippartial.rle
+#O Josh Ball, April 2017
+#C Knightship partial, later independently rediscovered in extended form by Tom Rokicki
+#C and developed into a true elementary knightship, Sir Robin, by Adam P. Goucher.
+#C http://conwaylife.com/wiki/Partial_result
+#C http://conwaylife.com/wiki/Sir_Robin
+x = 26, y = 31, rule = B3/S23
+4b3o$3bo2b2o$3bo4bo2$3b3o3b2ob3o$b2obobo4bob2o$3bo2bo4bo2b2o$o2bo8bo$o
+4bo2b2o2bo2bo$bob3o2b2o3b2o$3b2obob2obo3bo$9b2ob3o$9bo5bo$12b3o2b3o$
+15bob2o$10b2obo3b3o$10b2o2bo2b2o$12b4o3bo$13b2obo2bo$11b2obobobo$14bo$
+11bo7b2o$12b2o5b2o$14b2obo$16b3o2bobo$16b2o3bo$17bo$18b5obo$19b2o2b3o$
+19b2o4bo$23b2o!

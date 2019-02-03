@@ -1,0 +1,7 @@
+#N hungryhat_synth
+#O
+#C Glider synthesis of hungry hat
+#C http://conwaylife.com/wiki/hungry_hat
+x = 34, y = 12, rule = B3/S23
+2bo$obo$b2o2$13bo$13bobo$10b2ob2o17b2o$9bobo16b2obobo$11bo17bobo$16b3o
+10bobo$16bo13bo$17bo!

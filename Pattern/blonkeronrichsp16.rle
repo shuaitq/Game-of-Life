@@ -1,0 +1,7 @@
+#N blonkeronrichsp16.rle
+#C http://conwaylife.com/wiki/Blonker_on_Rich's_p16
+#C http://conwaylife.com/patterns/blonkeronrichsp16.rle
+x = 19, y = 22, rule = B3/S23
+5b2o$5bo$7bo2$5bobo$4b2o$b2ob2o2$bo4bo$o5bo$2o3bo$2o$10bo3bo$9bobobobo
+$10b2ob2o2$7bo9bo$6bobo7bobo$6bo3b2ob2o3bo$7bo3bobo3bo$8b2obobob2o$10b
+o3bo!

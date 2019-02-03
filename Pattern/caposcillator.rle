@@ -1,0 +1,5 @@
+#N caposcillator.rle
+#C http://conwaylife.com/wiki/Cap
+#C http://conwaylife.com/patterns/caposcillator.rle
+x = 14, y = 6, rule = B3/S23
+3b2o4b2o$3bo6bo$2obo6bob2o$o2bob4obo2bo$2b2obo2bob2o$6b2o!

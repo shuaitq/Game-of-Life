@@ -1,0 +1,9 @@
+#N p7bumper.rle
+#O Tanner Jacobi, 2016
+#C http://conwaylife.com/wiki/P7_bumper
+#C http://www.conwaylife.com/patterns/p7bumper.rle
+x = 65, y = 57, rule = B3/S23
+64bo$62b2o$63b2o7$54bo$54bobo$54b2o17$bo34bo$2o32b2o$obo32b2o7$9b2o15b
+o$9bobo14bobo$9bo16b2o6$3b2o5b2o$2bo2bo3bo2bo2$5bo3bo7b2o$3bo7bo4bo2bo
+$3b2o5b2o5bobo$6bobo9bo$2bo2b2ob2o2bo$bobo2bobo2bobo8b2o$bo2bobobobo2b
+o8bo$5bo3bo13b3o$25bo!

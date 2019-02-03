@@ -1,0 +1,10 @@
+#N Decapole_synth
+#O Goldtiger997
+#C Glider synthesis of the decapole.
+#C http://conwaylife.com/wiki/Decapole
+#C http://www.conwaylife.com/forums/viewtopic.php?p=42858#p42858
+x = 73, y = 33, rule = B3/S23
+26bo$27bo16bo$25b3o14b2o$43b2o2$o$b2o$2o2$25bo$25bobo$25b2o2$24bo32bob
+o$22bobo7bo24b2o$23b2o5bobo25bo$31b2o7b2o$14bo25bobo5b2o$14b2o24bo7bob
+o$13bobo32bo2$46b2o$45bobo$47bo2$71b2o$70b2o$72bo2$28b2o$29b2o14b3o$
+28bo16bo$46bo!

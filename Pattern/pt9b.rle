@@ -1,0 +1,5 @@
+#N pt9b.rle
+#C http://conwaylife.com/wiki/PT9B
+#C http://conwaylife.com/patterns/pt9b.rle
+x = 11, y = 10, rule = B3/S23
+10bo$b2o5b3o$b2o4bo$7b2o3$6b2o$3o3b2o$obo$obo!

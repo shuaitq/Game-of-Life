@@ -1,0 +1,5 @@
+#N integralwithlonghookandtub.rle
+#C http://conwaylife.com/wiki/Integral_with_long_hook_and_tub
+#C http://conwaylife.com/patterns/integralwithlonghookandtub.rle
+x = 6, y = 8, rule = B3/S23
+b2o$2bo$bo$o$b3o$4bo$3bobo$4bo!

@@ -1,0 +1,5 @@
+#N ciscarrierupontable.rle
+#C http://conwaylife.com/wiki/Cis-aircraft_carrier_up_on_table
+#C http://conwaylife.com/patterns/ciscarrierupontable.rle
+x = 6, y = 4, rule = B3/S23
+2o2b2o$o3bo$2bobo$b2ob2o!

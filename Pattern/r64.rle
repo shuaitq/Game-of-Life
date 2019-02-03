@@ -1,0 +1,8 @@
+#N R64
+#O Dave Buckingham, September 1995
+#C Repeat time 153 ticks, or 61 ticks with the additional eater shown
+#C http://conwaylife.com/wiki/R64
+#C http://www.conwaylife.com/patterns/r64.rle
+x = 23, y = 26, rule = B3/S23
+10b2o$10b2o5b2o$17b2o3$15b2o$15b2o$21b2o$21b2o4$bo$bobo$b3o$3bo4$3b2ob
+2o$2bobobobo$2bobo2bo$b2obo8b3o$o3b2o7bo$bobo2bobo3b2o$2ob2o2b2o!

@@ -1,0 +1,5 @@
+#N blinkerpull.rle
+#C http://conwaylife.com/wiki/Blinker_pull
+#C http://www.conwaylife.com/patterns/blinkerpull.rle
+x = 14, y = 17, rule = B3/S23
+3o14$11b3o$11bo$12bo!

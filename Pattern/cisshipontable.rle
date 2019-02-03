@@ -1,0 +1,5 @@
+#N cisshipontable.rle
+#C http://conwaylife.com/wiki/Cis-ship_on_table
+#C http://conwaylife.com/patterns/cisshipontable.rle
+x = 6, y = 4, rule = B3/S23
+b2ob2o$obobo$2o2bo$4b2o!

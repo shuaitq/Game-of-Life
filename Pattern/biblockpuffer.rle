@@ -1,0 +1,12 @@
+#N biblockpuffer.rle
+#C http://conwaylife.com/wiki/Bi-block_puffer
+#C http://www.conwaylife.com/patterns/biblockpuffer.rle
+x = 59, y = 29, rule = B3/S23
+11bobo$10bo2bo$9b2o7bo4b6o$8bo6b2obo4bo5bo$7b6o2bo7bo$4b2o7bo3b4o3bo4b
+o$3bo3b3obo4bo9b2o$2bo3bo3b2obo2b2obo2bo$2bo5b2o3bo5bo3bobo$2b3o3b4obo
+7bo4bo$11bo9bo4bo5bo$2b3o6bobo7b2o2b2o6bo$bo5bo5bo9b2o6b3o3b2o2b2o2b2o
+2b2o2b2o2b2o$o3b2obo3b2o24b2o2b2o2b2o2b2o2b2o2b2o$o3bo6b3o$o3b2obo3b2o
+24b2o2b2o2b2o2b2o2b2o2b2o$bo5bo5bo9b2o6b3o3b2o2b2o2b2o2b2o2b2o2b2o$2b
+3o6bobo7b2o2b2o6bo$11bo9bo4bo5bo$2b3o3b4obo7bo4bo$2bo5b2o3bo5bo3bobo$
+2bo3bo3b2obo2b2obo2bo$3bo3b3obo4bo9b2o$4b2o7bo3b4o3bo4bo$7b6o2bo7bo$8b
+o6b2obo4bo5bo$9b2o7bo4b6o$10bo2bo$11bobo!

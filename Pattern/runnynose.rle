@@ -1,0 +1,6 @@
+#N runnynose.rle
+#O 83bismuth38, 2017
+#C http://conwaylife.com/wiki/Runny_nose
+#C http://conwaylife.com/patterns/runnynose.rle
+x = 8, y = 10, rule = B3/S23
+3bo$2b2o2$obo2bo$obobobo$obobo2bo$2bo$5bobo$obo3bo$bo!

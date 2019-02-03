@@ -1,0 +1,7 @@
+#N cisfusewithtwotails_synth
+#O Tanner Jacobi, Chris Cain
+#C Glider synthesis of cis fuse with two tails
+#C http://conwaylife.com/wiki/cis-fuse_with_two_tails
+x = 36, y = 16, rule = B3/S23
+32bo$obo16bobo9bobo$b2o16b2o10bo2bo$bo18bo9b2o3bo$32b3o$19b3o10bo$5bo
+13bo$5b2o13bo$4bobo6b2o$12bobo$14bo3$10b3o$12bo$11bo!

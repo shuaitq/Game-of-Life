@@ -1,0 +1,5 @@
+#N boatontripole.rle
+#C http://conwaylife.com/wiki/Boat_tie_tripole
+#C http://conwaylife.com/patterns/boatontripole.rle
+x = 9, y = 9, rule = B3/S23
+bo$obo$b2o$3b2o$3bobo2$5bobo$8bo$7b2o!

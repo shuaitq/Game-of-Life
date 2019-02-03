@@ -1,0 +1,6 @@
+#N twinbeesshuttlesparklwssturn.rle
+#C http://conwaylife.com/wiki/Twin_bees_shuttle_spark
+#C http://www.conwaylife.com/patterns/twinbeesshuttlesparklwssturn.rle
+x = 13, y = 13, rule = B3/S23
+o2bo$4bo$o3bo5bo$b4o4b3o$8bo3bo$8b2ob2o$8b2ob2o2$8b2ob2o$8b2ob2o$8bo3b
+o$9b3o$10bo!

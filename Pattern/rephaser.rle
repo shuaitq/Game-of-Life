@@ -1,0 +1,5 @@
+#N rephaser.rle
+#C http://conwaylife.com/wiki/Rephaser
+#C http://www.conwaylife.com/patterns/rephaser.rle
+x = 20, y = 13, rule = B3/S23
+2bo14bo$obo14bobo$b2o14b2o9$9b2o$9b2o!

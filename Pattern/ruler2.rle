@@ -1,0 +1,24 @@
+#N ruler2.rle
+#C http://conwaylife.com/wiki/Ruler
+#C http://conwaylife.com/patterns/ruler2.rle
+x = 161, y = 118, rule = B3/S23
+25bo$23b2ob2o2$23b2o$23bo$8b2o14bo$8bo16bo3$27bo$24b3o3$2o22b3o$o23b3o
+$22b2ob2o$22bo$22b3o6$31b3o$31b3o$32bo$30b2o23bo$30bo23bobo2b2o7b2o$
+31bo21bo3b4o6b3o$56bo7bobob2o$51b2obo10b2o$52bobo$43b2o8bo$43bo3$63bob
+o$63bo2bo2bo7bobo$63bob2obobo5b2ob2o$69bo6b2obo$39bo21b3o11bo$38b2o21b
+3o12bo$37bob2o21bo13bo$36b3o2bo$38bobobo77bo3b2o18bo3b2o$39bobobo78b5o
+19b5o$40bo2b3o75b4ob2o17b4ob2o$41b2obo80b2o22b2o$42b2o$42bo3bo89b2o$
+45bobo88b3o$46b2o87b3ob2o$42b2o94bo$41bobo89bo$41bo6bo24b2o56bobo$40b
+2o5b2o24bo59bo$138bo$135b3ob2o$136b3o$136b2o$121b6o$120bo5bo$65b2o59bo
+$65bo59bo3$141bo3b2o$143b5o$142b4ob2o$146b2o2$157b4o$156bo3bo$123bo36b
+o$124bo27bo6bo$120bo3bo29b3o$121b4o27bo6bo$160bo$102bo53bo3bo$102b2o
+53b4o$103b2o30b2o$105bo27b2ob2o9bo$101b4obo22bo3b4o11bo$100bo4bobo19b
+2obo3b2o6bo5bo$96b2o2bobo2bob2o18bo3bo11b6o$97b2obob2obo2b2o17b2obo3b
+2o$98bobo4bo23bo3b4o$76b2o21bob4o28b2ob2o$74b2obo22bo12bo21b2o$73bo2bo
+24b2o9b2o$73bo2bo4bo20b2o23bo$73bo2bo3bobo20bo6b4o14bo$74b3o3b2o28bo2b
+o8bo5bo$123b6o$74b3o3b2o$73bo2bo3bobo32b4o$73bo2bo4bo25b2o5bo3bo$73bo
+2bo13b2o14b2o10bo$74b2obo11bo2bo14b2o8bo$76b2o10bobobo15bo$88bobob2o$
+86b2obo3bo14bo$86bo2bob2o14b2o$83b2obobobo2bo12b2o$83bo2bobobob2o13b2o
+$84b2o6bo$86b5obo$86bo4bo6b2o$87b4o3b2o4b2o8bo2bo$94bo2b2ob3o3bo3b4o$
+87b2o6b8ob2obo$87bo4b3o10bobo4b2o$92bo2bo9bob2o4bo$93b2o7b2obo$101bo3b
+ob2o$102bo2bobo$103bo3bo$105b2o!

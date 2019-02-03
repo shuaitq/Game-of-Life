@@ -1,0 +1,30 @@
+#N htomwssrep72.rle
+#C http://conwaylife.com/wiki/H-to-MWSS
+#C http://conwaylife.com/patterns/htomwssrep72.rle
+x = 179, y = 160, rule = B3/S23
+71b2o3bo$72bo2bobo$70bo4bobo$70b5obo$74bo$70b2o3bo15b2o$70bobo3bo14bo$
+71bo3b2o12bobo$47bo37b2o2b2o$47b3o35b2o$50bo$33b2o14b2o11b2o11bo$33b2o
+27b2o9b3o$73bo$73bo$27b2o$27b2o$31b2o$31b2o15bo$48bo$48b3o40b2o$50bo
+22b2o16bobo$26b2o44bobo18bo$26b2o44bo20b2o$71b2o4b2o$46bo3b2o24bobo$
+45bobo3bo24bo$45b2o3bo24b2o7b2o$49bo12b2o20b2o$45b5obo10bo$40b2o3bo4bo
+bo10b3o$40bo6bo2bobo12bo$38b3o5b2o3bo2$97b2o$47b2ob2o40b2o2bo2bo$46bob
+obo2bo38bobo2b2o$47bo2bob2o41b2o$50bo45bo$49b2o42bo2bob2o$46bobo2b2o
+39bobobo2bo$46b2o2bo2bo39b2ob2o$51b2o2$84b3o5b2o3bo$86bo6bo2bobo12bo$
+86b2o3bo4bobo10b3o$91b5obo10bo$38b2o55bo12b2o$29b2o7b2o51b2o3bo$30bo
+60bobo3bo38b3o$30bobo59bo3b2o37bo2bo$25b2o4b2o105bo$26bo20b2o23b2o60bo
+3bo$26bobo18bo24b2o64bo$12b2o13b2o16bobo48bo38bobo$12b2o31b2o47b3o$94b
+o$77b2o15bo$6b2o69b2o$6b2o65b2o$10b2o61b2o$10b2o15bo91bo$27bo91bo22bo$
+27b3o49b2o27b2o9b3ob2o16bobo$29bo49b2o14b2o11b2o11bob2o16bobo$5b2o89bo
+45bo$5b2o32b2o52b3o$39b2o2b2o48bo$25bo3b2o12bobo$24bobo3bo14bo$24b2o3b
+o15b2o$28bo$24b5obo$19b2o3bo4bobo108bo$19bo6bo2bobo107bobo$17b3o5b2o3b
+o108b2o3$26b2ob2o$25bobobo2bo$26bo2bob2o$29bo$28b2o$25bobo2b2o$25b2o2b
+o2bo141b2o$30b2o142bo$176bo$156b2o14b5o$157bo13bo$157bobo12b3o$158b2o
+15bo$17b2o153b4o$17b2o148b2o3bo3b2o$167b2o4b3o2bo$8b2obo163bob2o$8bob
+2o163bo$26b2o146b2o$26bo$24bobo$24b2o140b2o$166bo$9bo157b3o$9b3o157bo$
+o11bo$3o8b2o14bo$3bo22bobo$2b2o23bo$76b2o$76bobo$78bo4b2o$74b4ob2o2bo
+2bo$74bo2bobobobob2o$77bobobobo$bo76b2obobo$bobo78bo$b3o$3bo11b2o51b2o
+$15bo53bo7b2o$16b3o50bobo5b2o$18bo51b2o7$80b2o$80bo$81b3o$83bo6$56bo$
+54b3o54bo$53bo55b3o$53b2o53bo$108b2o6$43b2o$42bobo5b2o46b2o$42bo7b2o
+45bobo5b2o$41b2o54bo7b2o$96b2o$55bo$51b2obobo53bo$50bobobobo49b2obobo$
+47bo2bobobobob2o45bobobobo$47b4ob2o2bo2bo42bo2bobobobob2o$51bo4b2o44b
+4ob2o2bo2bo$49bobo54bo4b2o$49b2o53bobo$104b2o!

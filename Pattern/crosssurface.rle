@@ -1,0 +1,13 @@
+#N crosssurface.rle
+#C http://conwaylife.com/wiki/Bounded_grids
+#C http://conwaylife.com/patterns/crosssurface.rle
+x = 100, y = 100, rule = B3/S23:C100,100
+$13b2o9b2o48b2o9b2o$13b2o9b2o48b2o9b2o2$74b2o9b2o$74b2o9b2o2$30b2o11b
+2ob2o11b2o$29bobo10bobobobo10bobo$28bobo10bobo3b2o11b2o$28b2o11b2o16$
+11b2o$10bobo$9bobo$8bobo$7bobo$7b2o4$87b2o$87bobo$88bobo$89bobo$11b2o
+77bobo$10bobo78b2o$9bobo$8bobo$7bobo$7b2o2$7b2o$7bobo$8bobo76b2o$9bobo
+75bobo$10b2o76bobo$89bobo$90bobo$91b2o2$91b2o$90bobo$89bobo$88bobo$7b
+2o79b2o$7bobo$8bobo$9bobo$10b2o5$91b2o$90bobo$89bobo$88bobo$88b2o4$18b
+3o$18bo2bo$18bo$18bo$19bobo9$37b2o6bo4b2o$37bobo4b2o4bobo3b2o11b2o$38b
+obo3bobo4bobobobo10bobo$39b2o11b2ob2o11b2o2$13b2o9b2o$13b2o9b2o$74b2o
+9b2o$13b2o9b2o48b2o9b2o$13b2o9b2o!

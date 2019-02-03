@@ -1,0 +1,8 @@
+#N p6bumper.rle
+#C http://conwaylife.com/wiki/P6_bumper
+#C http://conwaylife.com/patterns/p6bumper.rle
+x = 63, y = 53, rule = B3/S23
+62bo$60b2o$61b2o7$53bo$51b2o$52b2o13$2o$obo$o$35bo$33b2o$34b2o4$9b2o$
+9bobo$9bo$26bo$24b2o$25b2o3$27bo$6b3o17bobo3bo$26bobo2bobo$6b2o2b2obo
+13bo3bobo$6bo4bobo4b2o8b2o2bo$13bo3bo2bo8b3o$4bo13bobo6bo$4bobo4bo7bo
+8b2o$4bob2o2b2o15bo2bo$23b2o2bo2bo$9b3o11bo3bo2bobo$24b2o5b2o!

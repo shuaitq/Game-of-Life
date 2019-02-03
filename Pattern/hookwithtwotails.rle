@@ -1,0 +1,5 @@
+#N hookwithtwotails.rle
+#C http://conwaylife.com/wiki/Hook_with_two_tails
+#C http://conwaylife.com/patterns/hookwithtwotails.rle
+x = 6, y = 6, rule = B3/S23
+b2o$2bo$2bob2o$3bobo$3o$o!

@@ -1,0 +1,6 @@
+#C RF48H
+#C Stephen Silver, October 1997
+#C http://conwaylife.com/wiki/RF48H
+#C http://www.conwaylife.com/patterns/rf48h.rle
+x = 28, y = 9, rule = B3/S23
+6bo18bo$6b2o17bo$5b2o18b3o$27bo2$b2o$o2bo$obo$bo!

@@ -1,0 +1,5 @@
+#N remarkablylongcanoe.rle
+#C http://conwaylife.com/wiki/Remarkably_long_canoe
+#C http://conwaylife.com/patterns/remarkablylongcanoe.rle
+x = 9, y = 9, rule = B3/S23
+7b2o$6bobo$5bo$4bo$3bo$2bo$bo$o$2o!

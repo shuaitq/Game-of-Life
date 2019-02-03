@@ -1,0 +1,5 @@
+#N carriersiameseverylongsnake.rle
+#C http://conwaylife.com/wiki/Carrier_siamese_very_long_snake
+#C http://conwaylife.com/patterns/carriersiameseverylongsnake.rle
+x = 5, y = 9, rule = B3/S23
+2o$o$2bo$b2o$bo$2bo$3bo$4bo$3b2o!

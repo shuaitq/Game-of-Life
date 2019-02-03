@@ -1,0 +1,21 @@
+#N spartangtomwss.rle
+#C http://conwaylife.com/wiki/H-to-MWSS
+#C http://conwaylife.com/patterns/spartangtomwss.rle
+x = 131, y = 137, rule = B3/S23
+33b2o$32bobo$26b2o4bo$24bo2bo2b2ob4o$24b2obobobobo2bo$27bobobobo$27bob
+ob2o$28bo2$41b2o$32b2o7bo$32b2o5bobo$39b2o2$57bo$57b3o$60bo$11bo47b2o
+8b2o$11b3o55bo$14bo14b2o36bobo$13b2o15bo36b2o$27b3o23b2o$27bo25b2o2$
+112bo$103bo7bobo$16b2o35b2o48b3o6bo$15bo2bo34b2o51bo$16b2o9bo77b2o$26b
+obo$27b2o$5o$o4bo71b2obo$o76b2ob3o$bo3bo76bo15b2o25b2o$3bo78bo15b2o25b
+o$123bobo$123b2o3$110b2o$101b2o6bobo$102bo6bo$99b3o6b2o$99bo$16b2o$16b
+2o53b2o$71bo$16b2o51bobo$16bo52b2o41b2o8b2o$14b3o94bobo8bo$62b2obo45bo
+8b3o$63bobo44b2o$64bo4b2o$69b2o3$26bo$26b3o$28bo15b2o$28bo15b2o$64b2o$
+63bo2bo3b2o$64b2o4b2o$7b2o$7b2o$13b2o32b2o$13b2o33bo71b2o$45b3o63b2o7b
+2o$45bo24bo41bo$11b2o57b3o39bobo$11b2o5b2o53bo33b2o4b2o$18b2o38b2o3b2o
+7b2o18bo15bo20b2o$58b2o3b2o25b3o15bobo18bo$89bo19b2o16bobo$89b2o36b2o$
+51b2o$52bo$52bobo$53b2o2$92b2o15bo$92b2o15bo$109b3o$111bo2$56b2o63b2o$
+57bo63b2o2b2o$54b3o28b2o38bobo$54bo31bo15b2o23bo$83b3o17bo23b2o$83bo
+16b3o$100bo4$69b2o$69b2o$61b2o$62bo6b2o$59b3o8bo$59bo10b3o2$60bo$59bob
+o$59bobo$57b3ob2o$56bo$57b3ob2o$59bob2o2$69b2o$69b2o7b2o$78bo$76bobo$
+76b2o4$56b2o$56b2o5$72bo$71bobo$71bobo$72bo$73b3o$75bo4$89b2o$88b2o$
+90bo!

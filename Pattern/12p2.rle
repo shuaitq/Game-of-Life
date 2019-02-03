@@ -1,0 +1,5 @@
+#N 12p2.rle
+#C http://conwaylife.com/wiki/12P2
+#C http://conwaylife.com/patterns/12p2.rle
+x = 7, y = 6, rule = B3/S23
+4bo$2bobobo$o5bo$o5bo$obobo$2bo!

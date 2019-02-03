@@ -1,0 +1,15 @@
+#N hatsiamesevase_synth.rle
+#C http://conwaylife.com/wiki/Hat_siamese_vase
+#C http://conwaylife.com/patterns/hatsiamesevase_synth.rle
+#C From Mark Niemiec's synthesis database:
+#C http://conwaylife.com/ref/mniemiec/lg/27vaseha.rle
+x = 111, y = 32, rule = B3/S23
+84bo3bo$82bobo3bobo$83b2o3b2o$b2o$obobo37bobo3bobo13bo3bo15bo3bo$2bobo
+bo36b2o3b2o13bobobobo13bobobobo14b2ob2o$4b2o37bo5bo14b2ob2o15b2ob2o15b
+2ob2o2$24b2ob2o15b2ob2o15b2ob2o15b2ob2o15b2ob2o$8b2o15bobo17bobo17bobo
+17bobo17bobo$8bobo14bobo17bobo17bobo17bobo17bobo$8bo17bo19bo19bo19bo
+19bo8$79bobo9bobo$38bo15bo25b2o9b2o$39bo13bo26bo11bo$37b3o13b3o$78b2o
+13b2o8b2o3b2o$40b2o9b2o26b2o11b2o8bo2bobo2bo$41b2ob2ob2ob2o12b2ob2o9bo
+5b2ob2o5bo7b2obobob2o$40bo3b2ob2o3bo11bo3bo15bo3bo16bobo$65bobo17bobo
+17bobo$44b2ob2o15b2ob2o15b2ob2o15b2ob2o$45bobo17bobo17bobo17bobo$45bob
+o17bobo17bobo17bobo$46bo19bo19bo19bo!

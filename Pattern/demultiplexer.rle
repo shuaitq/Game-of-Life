@@ -1,0 +1,7 @@
+#N demultiplexer.rle
+#O Brice Due, 2011
+#C http://conwaylife.com/wiki/Demultiplexer
+#C http://www.conwaylife.com/patterns/demultiplexer.rle
+x = 49, y = 43, rule = B3/S23
+46bo$46bobo$46b2o19$7b2o$8bo$8bobo$9b2o6$28b2o$9bo18bobo$9bobo18bo$9b
+3o12b2o4b2o$11bo12bobo$26bo$26b2o3$2b2o$3bo$3o$o!

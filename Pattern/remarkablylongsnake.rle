@@ -1,0 +1,5 @@
+#N remarkablylongsnake.rle
+#C http://conwaylife.com/wiki/Remarkably_long_snake
+#C http://conwaylife.com/patterns/remarkablylongsnake.rle
+x = 8, y = 6, rule = B3/S23
+2o$obo$3bo$4bo$5bobo$6b2o!

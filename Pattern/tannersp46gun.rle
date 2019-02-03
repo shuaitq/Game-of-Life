@@ -1,0 +1,8 @@
+#N tannersp46gun.rle
+#C http://conwaylife.com/wiki/Tanner%27s_p46
+#C http://www.conwaylife.com/patterns/tannersp46gun.rle
+x = 31, y = 44, rule = B3/S23
+17boo5boo$17boo5boo11$17bo7bo$15boboo5boobo$15bo3booboo3bo$16bo3bobo3b
+o$17b3o3b3o10$14bo14bo$13b3o14bo$12bobobo11b3o$12bobobo$10boob3oboo$9b
+obooboboobo$3boo3boobo5boboo$3boo4boobo3boboobboboo$10b3o3b3o3boobo$$
+bboo$3bo$3o$o13bo$13boboboboo$12bobooboobo$12bo$11boo!

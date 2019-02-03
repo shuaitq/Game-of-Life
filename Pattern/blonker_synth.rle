@@ -1,0 +1,9 @@
+#N blonker_synth
+#O Martin Grant
+#C Glider synthesis of blonker
+#C http://conwaylife.com/wiki/Blonker
+x = 42, y = 32, rule = B3/S23
+40bo$15bo13bo8b2o$16b2o9b2o10b2o$15b2o11b2o5$35bo$14b2o18bo$5bo7bobo
+18b3o$3bobo9bo$4b2o19bobo$25b2o10bo$26bo10bobo$37b2o$21bo8b2o$19bobo8b
+obo$16bo3b2o8bo$16b2o$15bobo4b2o$22bobo$8b2o12bo$b2o6b2o$obo5bo$2bo$
+32b3o$15bo16bo6b2o$15b2o16bo5bobo$14bobo11b2o9bo$27b2o$29bo!

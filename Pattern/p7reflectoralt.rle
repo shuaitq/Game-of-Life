@@ -1,0 +1,12 @@
+#N p7reflectoralt.rle
+#C http://conwaylife.com/wiki/Pipsquirter_2
+#C http://www.conwaylife.com/patterns/p7reflectoralt.rle
+x = 76, y = 56, rule = B3/S23
+74bo$73bo$73b3o5$67bo$66bo$66b3o14$11b2o$10b2o$12bo3$46bo$45bo$18b2o
+25b3o$17b2o$5b2o12bo$6b3o$4bo4bo$2b6obo29bo$bo5bob2o4b2o21bo$bob2obo4b
+o2bobo21b3o$2bo3bob2obo2bo$4bobo2bob2obo$3b2o3bo5b2o$2bo2b2obob4o2bo3b
+2o$o2bo3bobo3bobo3bobo$2obo3bo2b2obo2b4o2b2o$bobob2obobobobobo3b2o2bo$
+o2b3o2bo5bo4bo2bobo$obo3bob2o3b2o4bob2ob2o9b2o$bob4o2bo2bobo4bo5bo5b2o
+2b2o$3bo3bo6b2o3bo2b4o4bobo$3bob2o2bo2bobo4bo5bo5bo$4bobob2o3b2o4bob2o
+b2o$6bobo5bo4bo2bobo8b2o$6bobo3bobobo3b2o2bo8bo$7bo3bobo2b4o2b2o10b3o$
+11bobobo3bobo14bo$12b2ob2o3b2o!

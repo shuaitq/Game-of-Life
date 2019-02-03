@@ -1,0 +1,6 @@
+#N 135-degree MWSS-to-G
+#O Matthias Merzenich, June 2013
+#C http://www.conwaylife.com/wiki/135-degree_MWSS-to-G
+#C http://www.conwaylife.com/patterns/135degreemwsstog.rle
+x = 14, y = 11, rule = B3/S23
+6b2o$6bobob2obo$8bobob2o$8b2o3$b5o5b2o$o4bo5b2o$5bo$o3bo$2bo!

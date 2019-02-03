@@ -1,0 +1,12 @@
+#N p5pentaboojum.rle
+#O Tanner Jacobi, 2018
+#C http://conwaylife.com/wiki/P5_quinti-Snark
+#C http://conwaylife.com/patterns/p5pentaboojum.rle
+x = 136, y = 149, rule = B3/S23
+134bo$133bo$133b3o12$121bo$119b2o$120b2o12$106bo$106bobo$106b2o10$72bo
+$72b2o$71bobo18bobo$92b2o$93bo11$79bo$78bo$78b3o12$66bo$64b2o$65b2o12$
+51bo$51bobo$51b2o12$37bobo$37b2o$38bo10$3b2o$2bobo10b2o7bo$4bo10bo7bo$
+13bobo7b3o$13b2o$9bo$8bobo$8bobo$9bo7$11bo$9b2o$10b2o$3b2o12b2o$2bobo
+12bobo$2bo7b2o7bo$b2o6bo2bo6b2o$10b2o6$7b8o$3b2o2b2ob2ob2o2b2o$3b2o2b
+3o2b3o2b2o$7b3o2b3o$8b2o2b2o$7b2o4b2o2$4b2o10b2o$5b2o8b2o$2obobo10bobo
+b2o$ob2obobo6bobob2obo$6b2o6b2o!

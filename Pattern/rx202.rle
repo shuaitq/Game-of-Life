@@ -1,0 +1,10 @@
+#N Rx202
+#O Dave Buckingham, May 1997
+#C Repeat time 201 ticks
+#C http://conwaylife.com/wiki/Rx202
+#C http://www.conwaylife.com/patterns/rx202.rle
+x = 31, y = 55, rule = B3/S23
+14b2o$11b2o2bo$9b3ob2o6bo$8bo10b3o$9b3ob2o3bo$11bob2o3b2o5$23b2o$23bo$
+21bobo$21b2o6$3bo$3bobo$3b3o$5bo$22b2o$22b2o8$ob2o$2obo$21b2o$9b2o9bo
+2bo2b2o$9b2o9bobo4bo$21bo5bob2o$24b2obobo$24bo2bo2bo$21bo4bo2b2o$21b5o
+2$19b7o$19bo2bo2bo$17bobo$17b2o6$9b3o$11bo$11b2o!

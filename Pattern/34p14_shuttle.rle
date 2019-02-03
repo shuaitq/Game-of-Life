@@ -1,0 +1,7 @@
+#N 34p14_shuttle.rle
+#O carybe, 2018
+#C http://conwaylife.com/wiki/34p14_shuttle
+#C http://www.conwaylife.com/patterns/34p14_shuttle.rle
+x = 15, y = 11, rule = B3/S23
+5b2o$2o2b2obo5b2o$2o3bobo5b2o$7bo$9bo2$9bo$7bo$2o3bobo5b2o$2o2b2obo5b
+2o$5b2o!

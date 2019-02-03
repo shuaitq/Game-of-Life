@@ -1,0 +1,7 @@
+#N pipsquirter3.rle
+#O Dongook Lee, 2018
+#C http://conwaylife.com/wiki/P5_pipsquirter
+#C http://conwaylife.com/patterns/pipsquirter3.rle
+x = 15, y = 13, rule = B3/S23
+2$6b3o$5bobobo$3b3o3b3o$2bo4bo4bo$bobo7bobo$o2bo7bo2bo$2o2b3ob3o2b2o3$
+4b2o3b2o$4b2o3b2o!

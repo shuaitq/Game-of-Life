@@ -1,0 +1,57 @@
+#N knightwavesupported.rle
+#C http://conwaylife.com/wiki/Knightwave
+#C http://conwaylife.com/patterns/knightwavesupported.rle
+#C All known (2,1)c/6 technology in existence as of 19 January 2019
+#C Knightwave rediscovered by Kiho Park, original discoverer unknown
+#C Components by Adam P. Goucher
+#C Connections by Dave Greene, Matthias Merzenich, and Entity Valkyrie
+x = 123, y = 195, rule = B3/S23
+73bo$72b4o$71bo2b2o$75bo$71bo5bo3bo$70b4o4b3obo$70bo3bo4bo$69bob3o5bo
+2b2o$72bo6b5o$68b4obo2b2o2bobo$70b2o2bo5b4o$70b2o3bo3bo3bo$79b5o$77b3o
+3bo2bo$81b3obobo$79bo$78b3obo4bo$78bo4b3o$79b2o3b2obo$79bo4b4o$80bobo
+2bo$79b3obo3bo$80b2o5b2o$80b3o3b2obo$80b3o3b2o2bo$80bo2bo3bob2o$81bo$
+81bo3bo$84b2o$79b3ob3o$79b2obo$79b2o3bo3bo$81b4obob2obo$81bo3b2ob5o$
+89bo$88b2ob2o$48b2o39b3o$47b2o43bo$49b2obo35bo4b2o$47bo3b3ob2o31bo5b3o
+$46b6ob2o2bo30bo5b3o$45b2ob2o4bo34b3o$45bo4bo6bobo27b5o$45b5o4b3o2bo
+27bo5bob2o$45b3obo4b2o30bob2ob4ob2o$50b2o2bobo37bo$46bo3b2o3b2o32bo2bo
+2b2o$51bo3bo2bobo29b2o$54b3o2b3o28b3o$54b2obo30bo$56bob3ob2o24b5o$54bo
+2bo29bo$53b2obo2bobo25b2ob2o$53b2o2b3o26bo4b2o$54bo2bo2bobo23bobo$54b
+2obob2o2b2o20b2o$56bob3o24b2ob3ob2o$62b3o20b2o4bo3bo$63b2o21b2o5bo2bo$
+92bo$55b2o6bo2bo26b2o2bo$55b2obo4b4o25b5o$56b2o3b5o24bo$56bo3b2o$56b2o
+4bo27b2o$56bo4b2o26b2o5b3o$54b5o2bo2bo24b2ob3o2b2o$57bo5b2o26bobo$56b
+2o6bob3o26bob2o$57bo4b2o3b2o22bo3bob2o$60b4o27bo3bobo$63b3o25bo5bo$64b
+o4bo21bo3bob2o$64b7o21bo$67bob2o22b3o$63b3o3b2o$66bo5bo20bo$63b2ob3o2b
+o21bo4bo$62b2o3b2ob2o21bob2ob2o$62bobo2bobobobo25b2o$63b2ob5o3bo22b2ob
+obo$63b2o3bo2bobo24b2o3bo$64bo2bo30bo3b2o$4bo60bo36bo$3b3o58b3o33bo3bo
+$2b2o2b2o55bo36bo3bo$3bob3o55bob3o36b2o$2b3ob3o2b2o55bo32b2o2b3o$bo6bo
+bob2o48bo6bo31bo2bobo$2o4b5o50b2obo3bo32bo$2o3b3o2bo3b2o48bob2o33bo7bo
+$2o3b2o2b2o54b3o34b3o3bo$3o2bo3b2o2bo54b2o33b2o4bob2o$2bobobobobob2o
+47b4o4bo34b3o3b2obo$8b2o2b2o48b5obobo31bo2bo5bobo$7bo9bo44bo6bo33b2o$
+12b2obo2bo50bo2bo35b2o$11b2o4bo51bo2bo33bobo$10bobobo2b2o48b6o32bo$9b
+2obo4bo47bob2obo37bo$15bo2bo46bo7bo34bo$12b2obob2o46bo4b3obo27b2o4bo3b
+o$11bobo2b2o48bo3bobo29bo4bo3b3o$10b2o3bo3bo46b2o4bobo25bo3b2o$10b2ob
+6o48b2obob2o23b2o3bo8bo3bo$12b5obo49bob5o22bo16b3o$18bob2o44bob2o2bo
+22bo3b2o10bo6bo$12bo5bob2o47bo22b2o3bo13bo2bo3bo$12bo6b3o44bo4bo2bo17b
+o18bo3b2obo$12bo8b3o43bo3b2o17bo3b2o19b2o$16b2o3bo49bo15b2o3bo19b2ob2o
+$11bo3b2o52b2o16bo27b2o$11b3ob2obo49b2o4bo10bo3b2o20b2o2b2o$11bo2b3o2b
+o49bo3bobo6b2o3bo21b2ob2o$17bo2bo48bo2bo3b2o4bo26b2o$12bobo3bo3b2o48bo
+bo5bo3b2o24bobo$12bobo7bobo54bo2bo28b3o$12bobo4b2obo51b2obo33bo2bo$21b
+o54bo3bo31b2o2bo$76b2o33bo3bob2o$20bo2b2o52bob2o31bo2bo$20b2obo2bo86b
+6o$19bo5bobo49bo$20b3o5bo50b2ob2o$79bo2b2o$18b3obobo3bo88bobo$17b2o6bo
+50bo2bo5bo30b2ob3o$17b2ob3o3b2obo47b2o5b4o27bobo$19bo2bo3b2obo49bo4b2o
+b2o25b3o4bo$19b2obo91bo6b2o$20b2o59bo33bo4bo$19bo2bo60b4o34b2o$20b3o
+60bobo$19bo3bo58bo2bo$21bo61bo$18b2ob2o2bo57bo$17bobo5bo57bobo2bo$17bo
+5bo53b3o3bob3obo$18b7o52bo2bo5bo2bo$18bo6bo51bobo7bob3o$18b4ob3o46b3o
+15bobo$18b2o6bo45bo2bo13bo3bo$20b5ob2o44bobo12bob2o2b2o$20b2obo3bo39b
+3o17bob6o$24bob2o39bo2bo17b2obo$23b3ob3o37bobo$22b2o4bo33b3o23bo$21bob
+4obo33bo2bo20b2obobobo$20b2o3b2ob2o32bobo21bo4b2o$23bo2bobo28b3o26bo4b
+o$24bobob2o27bo2bo24b2o3bo$24bobo30bobo25b2o3bo$24bob2o24b3o30b2o2b2o$
+24bo2bo24bo2bo30b2o4bo$23bo2b2o24bobo31b2o5bo$23bo2bobo18b3o37bo5bo$
+24bo3bo18bo2bo42bo$29bo17bobo38bo4bo$28bo13b3o44bo3bo4bo$24b4o14bo2bo
+45b2o3b2o$24bo4b2o11bobo52bo2bo$25bo6bo4b3o58b3o$28bo3bo4bo2bo57b3o$
+28bo3bo4bobo63b2o$29bob2o64b3o4b2o$31b2o63b3ob2o2bobo$31bo2b2o59b2o4bo
+bo$32bo2bo61bo$32bo67bo$34bo63b3o$34bob3o$34bo4bo60bo$34bo4bo59b3o$34b
+7o57bob2o$33bobo61b2o2b2o$35bo4b5o52b2o$33b3o7b2o52bobo$40b2o54bob2o$
+39b4o53bob2ob3o$38bo2b2o53bo4bobo$37bo58b2o2b3o$37bo60bob2o$37bo2bo$
+37bo$37bo2bo$37bo5bo$38b2o2bobo$45bo$45b2o$43bobo$44bob2o$45b3ob2o$45b
+o5bo$46b2o2bo$47b3o!

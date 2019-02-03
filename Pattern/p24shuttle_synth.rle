@@ -1,0 +1,26 @@
+#N p24 shuttle synthesis
+#O Mark D. Niemiec
+#C Synthesis of the p24 using 15 gliders, from Mark D. Niemiec's life synthesis database, Thu Feb 19 02:05:15 2015
+#C http://conwaylife.com/wiki/p24_shuttle
+x = 184, y = 119, rule = B3/S23
+119bobo$120boo$120bo4$118bo$116bobo$117boo$$124bo$125boo10bo$124boo9b
+oo$136boo$171bxx$171bxx3$172bx$171b3x$74bo69bobo23bxbbx$72bobo19bxx28b
+oo18boo18bxx5bxx$73boo19bxx28boo19bo18bxx$70boo$69bobo105bxx$41bobo15b
+xx10bo7boo18bxx28boo38bxx5bxbxxbbxx$41boo16bx19bo19bx29bo40bx5bxbx3bxx
+$38bo3bo19bx19bo19bx29bo38bxx4bx$36bobo22bxx18boo18bxx28boo39bx$37boo
+$$5bo31boo107bo$3bobo19bxx9bobo6boo18bxx18boo18bxx28boo8boo28bxx$4boo
+19bxx11bo6boo18bxx18boo18bxx28boo8bobo27bxx$boo$obo$bbo153boo$155boo$
+157bo$149b3o$149bo$150bo15$21bo$20bo$20b3o$51bxx28boo5bo22bxx28boo28b
+xx$20bo29bxbx27bobo5bobo19bxbx27bobo27bxbx$20boo29bx29bo6boo21bx29bo
+29bx$19bobo63boo27bxx28boo28bxx$85bobo26bxx28boo28bxx$85bo65bo$150bo
+26bxx$150b3o23bxbx$145b3o29bx$147bo$146bobboo$149bobo$149bo13$149bobo$
+149boo$150bo$134bobo$135boo11bo$135bo13bo$147b3o4$171bxx$144bobo24bxx$
+145boo$145bo8bo$71bo81boo17bx$21boo28bxx16bobo9boo28bxx28boo10bobo15b
+3x$20bobo27bxbx17boo8bobo27bxbx27bobo27bxbbx$21bo29bx21boo6bo22bxx5bx
+22boo5bo22bxx5bxx$24boo28bxx16bobo9boo18bxx8bxx18boo8boo18bxx$24boo28b
+xx18bo9boo28bxx28boo$93bo83bxx$16bobo8boo20bxx6bxx20boo6boo4bobo13bxx
+6bxx3bxx15boo6boo3boo15bxx5bxbxxbbxx$8bo8boo7bobo20bx6bxbx20bo6bobo4b
+oo14bx6bxbx3bxx15bo6bobo3boo16bx5bxbx3bxx$9boo6bo9bo24bx4bx24bo4bo8boo
+14bx4bx24bo4bo23bxx4bx$8boo41bxx28boo13bobo12bxx28boo29bx$12boo82bo$
+13boo$12bo$115bxx28boo28bxx$84b3o28bxx28boo28bxx$86bo$85bo$87b3o$87bo$
+88bo!

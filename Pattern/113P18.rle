@@ -1,0 +1,8 @@
+#N 113P18.rle
+#C http://conwaylife.com/wiki/117P18
+#C http://conwaylife.com/patterns/113P18.rle
+x = 21, y = 28, rule = B3/S23
+3bob2o4b2obo$3b2o2bo2bo2b2o$b2o3bo4bo3b2o$o3b2ob4ob2o3bo$b3obobo2bobob
+3o$3bobobo2bobobo$6bo4bo$7bo2bo$7bo2bo3$14b2o$10b2o2b2o$9b2o$10bo$5b2o
+$5b2o3$10bo2bo$10bo2bo$9bo4bo$6bobobo2bobobo$4b3obobo2bobob3o$3bo3b2ob
+4ob2o3bo$4b2o3bo4bo3b2o$6b2o2bo2bo2b2o$6bob2o4b2obo!

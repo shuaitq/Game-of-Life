@@ -1,0 +1,8 @@
+#N Quadri-Snark
+#O Tanner Jacobi
+#C A color-preserving, period-quadrupling signal conduit with a repeat time of 48, found by Tanner Jacobi in 2017.
+#C http://conwaylife.com/wiki/Quadri-Snark
+x = 25, y = 22, rule = B3/S23
+9b2o$10bo$8bo5b2o$8b2o5bo$15bob2o$8b2o2b2obo2bo$8b2o3bob2o$13bo$12b2o$
+19b2o$19bobo$21bo$21bob2o$11b2o5b2obobo$11b2o5b2obobo$21bob2o$2b2o14b
+4o2bo$bobo14bo3b2o$bo18b2o$2o19bo$19bo$19b2o!

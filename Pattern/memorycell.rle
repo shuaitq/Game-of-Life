@@ -1,0 +1,6 @@
+#N memorycell.rle
+#C http://conwaylife.com/wiki/Memory_cell
+#C http://www.conwaylife.com/patterns/memorycell.rle
+x = 43, y = 18, rule = B3/S23
+15b2o24b2o$15b2o24b2o2$11bo$10bobo$11b2o3$6b2o24b2o$5bo2bo22bo2bo$6b2o
+24b2o3$b2o24b2o$o2bo22bo2bo$b2o6b3o15b2o6b3o$9bo25bo$10bo25bo!

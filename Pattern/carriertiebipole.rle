@@ -1,0 +1,5 @@
+#N carriertiebipole.rle
+#C http://conwaylife.com/wiki/Carrier_tie_bipole
+#C http://conwaylife.com/patterns/carriertiebipole.rle
+x = 9, y = 8, rule = B3/S23
+2o$o2bo$2b2o$4b2o$4bobo2$6bobo$7b2o!

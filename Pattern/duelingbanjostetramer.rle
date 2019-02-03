@@ -1,0 +1,11 @@
+#N duelingbanjostetramer.rle
+#C http://conwaylife.com/wiki/Dueling_banjos
+#C http://conwaylife.com/patterns/duelingbanjostetramer.rle
+x = 39, y = 39, rule = B3/S23
+10b2o15b2o$10bo17bo$7b2obo5bo5bo5bob2o$7b2ob2o4b2o3b2o4b2ob2o$16bobobo
+bo$17b2ob2o2$2b2o31b2o$2b2o31b2o2$4o10b2obo3bob2o10b4o$o2bo11b3o3b3o
+11bo2bo$16bo5bo2$10bo17bo$10b2o15b2o$2b3o6b2o13b2o6b3o$3bobo4b2o15b2o
+4bobo$4b2o27b2o2$4b2o27b2o$3bobo4b2o15b2o4bobo$2b3o6b2o13b2o6b3o$10b2o
+15b2o$10bo17bo2$16bo5bo$o2bo11b3o3b3o11bo2bo$4o10b2obo3bob2o10b4o2$2b
+2o31b2o$2b2o31b2o2$17b2ob2o$16bobobobo$7b2ob2o4b2o3b2o4b2ob2o$7b2obo5b
+o5bo5bob2o$10bo17bo$10b2o15b2o!

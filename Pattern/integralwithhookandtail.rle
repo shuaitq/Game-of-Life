@@ -1,0 +1,5 @@
+#N integralwithhookandtail.rle
+#C http://conwaylife.com/wiki/Integral_with_hook_and_tail
+#C http://conwaylife.com/patterns/integralwithhookandtail.rle
+x = 7, y = 5, rule = B3/S23
+4bobo$2obob2o$bobo$bobo$2bo!

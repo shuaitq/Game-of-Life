@@ -1,0 +1,11 @@
+#N p23gun.rle
+#C http://conwaylife.com/wiki/Double_block_reaction
+#C http://conwaylife.com/patterns/p23gun.rle
+x = 66, y = 34, rule = B3/S23
+3b2o36bo2bo$2bobo26b3o7bo$3bo26bo4bo9bo$29bo5bo8b2o$9b2o19bo8bo$2o6bo
+2b2o18b2o8b2o$2o5b6o$9b4o18b2o7bo$30bo9bo$29bo5bo25b2o$30bo4bo25bobo$
+9b4o18b3o28bo$2o5b6o$2o6bo2b2o$9b2o17bo11b2o14b3o5b2o$29b2o9b2o12bo3bo
+5b2o$3bo24b2o23bo4bo$2bobo48bo3bo$3b2o$43b3o7bo3bo$41b2obob2o5bo4bo$
+30bo10b2o5bo5bo3bo5b2o$17bo10b5o8b2obob2o8b3o5b2o$6b2o8b2o9b2obo2bo9b
+3o$6b2o7b2o9bo7bo$16b2o2b2o5b2obo2bo28bo$28b5o6bobo19bobo$30bo9b2o19b
+2o$40bo$16b2o2b2o$6b2o7b2o16b2o$6b2o8b2o15b2o11bo$17bo29bo$45b3o!

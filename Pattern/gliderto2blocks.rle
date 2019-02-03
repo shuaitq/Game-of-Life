@@ -1,0 +1,7 @@
+#N gliderto2blocks.rle
+#O Sergey Petrov, 2011
+#C http://conwaylife.com/wiki/Glider_to_2_blocks
+#C http://www.conwaylife.com/patterns/gliderto2blocks.rle
+x = 34, y = 27, rule = B3/S23
+15b2o$15b2o$27b2o$28bo$25b3o$25bo2$21b2o$21b2o2$32b2o$32b2o7$16b2o$16b
+2o5$3o$2bo$bo!

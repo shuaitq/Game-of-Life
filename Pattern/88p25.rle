@@ -1,0 +1,8 @@
+#N 88p25.rle
+#C http://conwaylife.com/wiki/98P25
+#C http://conwaylife.com/patterns/88p25.rle
+x = 32, y = 23, rule = B3/S23
+4b2o4b2o9b2o$4bobo2bobo9b2o$6bo2bo$5bo4bo$5b2o2b2o$7b2o21b2o$30bo$2o
+26bobo$bo26b2o$bobo18b3o$2b2o16b2ob2o$9bo12bo$7b2ob2o16b2o$7b3o18bobo$
+2b2o26bo$bobo26b2o$bo$2o21b2o$21b2o2b2o$21bo4bo$22bo2bo$9b2o9bobo2bobo
+$9b2o9b2o4b2o!

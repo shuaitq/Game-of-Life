@@ -1,0 +1,5 @@
+#N inflexion.rle
+#C http://conwaylife.com/wiki/Inflexion
+#C http://conwaylife.com/patterns/inflexion.rle
+x = 7, y = 4, rule = B3/S23
+2o2bo$o2bobo$bobo2bo$2bo2b2o!

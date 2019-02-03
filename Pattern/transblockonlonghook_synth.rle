@@ -1,0 +1,22 @@
+#N transblockonlonghook_synth.rle
+#C http://conwaylife.com/wiki/Trans-block_on_long_hook
+#C http://conwaylife.com/patterns/transblockonlonghook_synth.rle
+#C 4-glider synthesis, plus other syntheses from Mark Niemiec
+x = 147, y = 139, rule = b3/s23
+14bo$13bo$13b3o5$45b2o$42bo3bo$8bobo31b4o$9b2o$9bo32b2o$42b2o$10b3o$
+12bo$11bo$18bo$17b2o$17bobo8$117bo$118bo$116b3o$120bo$120bobo$111bobo
+6b2o$112b2o$112bo$119bobo$119b2o$34bo85bo8bo$35bo88bo4bobo$33b3o86b2o
+5b2o$26b3o94b2o$28bo3b3o10b2o48b2o48b2o$27bo4bo9bo3bo45bo3bo45bo3bo$
+33bo8b4o46b4o46b4o$77bo$42b2o31bobo2bo11b2o48b2o$42b2o32b2o2bobo9b2o
+32b2o4b2o8b2o$80b2o43b2o5bobo$127bo4bo3$74b2o$75b2o$74bo5$9b2o$8bobo
+47b2o$10bo46bobo$37b2o20bo$37bobo48b2o$37bo50bobo$88bo13$49bo79bo$48bo
+69bo9bo$o3bo43b3o65bobo9b3o$b2obobo110b2o$2o2b2o16bo19bo3b2o17b2o34b2o
+18b2o3b2o17b2o$21bobo17bobo2bobo13bo3bo13b2o18bo2bo16bo2bo2bobo13bo3bo
+$6b3o13bo19bo3bo15b4o13bobo19b2o18b2o3bo15b4o$6bo74bo$7bo54b2o19b2o57b
+2o$41b2o19b2o19bobo38bo17b2o$40bobo40bo39b2o$42bo80bobo$45b2o72bo$45bo
+bo71b2o$45bo72bobo5$131bo$78b2o49b2o$77bobobo48b2o$79bobobo$81b2o45bo$
+86b2o15bo19bo3b2o16b2o$85b2o15bobo17bobo2bobo12bo3bo$87bo14b2o18b2o18b
+4o$42bo$40bobo19b2o18b2o18b2o18b2o7b2o9b2o$41b2o19b2o18b2o18b2o18b2o3b
+o2b2o10b2o$38b2o87b2o3bo$37bobo86bobo$39bo10$124bo$123bo$119bo3b3o$
+120b2o7bo$119b2o6b2o$128b2o2$131bo$130bo$130b3o3$123bo21b2o$122bobo17b
+o3bo$122b2o18b4o2$122b2o18b2o$122b2o18b2o$134bo$133b2o$133bobo!

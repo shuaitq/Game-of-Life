@@ -1,0 +1,5 @@
+#N beehiveondock.rle
+#C http://conwaylife.com/wiki/Beehive_on_dock
+#C http://conwaylife.com/patterns/beehiveondock.rle
+x = 7, y = 6, rule = B3/S23
+2o3bo$obobobo$2bobobo$2bo2bo$obo$2o!

@@ -1,0 +1,6 @@
+#N Dove
+#O Unknown
+#C http://conwaylife.com/wiki/Dove
+#C http://conwaylife.com/patterns/dove.rle
+x = 5, y = 4, rule = B3/S23
+2b2o$bo2bo$o2bo$3o!

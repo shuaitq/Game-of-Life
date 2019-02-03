@@ -1,0 +1,11 @@
+#N HWSS glider collision sample
+#C first row: the five ways to delete a forward glider with an HWSS
+#C second row: the 3 HWSS Heisenburp reactions with a forward glider
+#C http://conwaylife.com/patterns/HWSSglidercollisionsample.rle
+x = 90, y = 38, rule = B3/S23
+7b3o18bo$6bo2bo17b3o$9bo16b2obo17b3o$5bo3bo16b3o18bo2bo$5bo3bo16b3o18b
+o19b3o18bo$b2o6bo11b2o3b3o12b2o4bo3bo9b2o4bo2bo10b2o4b3o$obo3bobo11bob
+o4b2o11bobo4bo3bo8bobo4bo12bobo3b2obo$2bo19bo19bo4bo14bo4bo3bo10bo3b3o
+$48bobo16bo3bo14b3o$67bo18b3o$68bobo16b2o20$27b3o$27bo2bo17bo19bo$27bo
+19b3o17b3o$27bo3bo15bob2o15b2obo$27bo3bo16b3o15b3o$21b2o4bo13b2o5b3o
+10b2o3b3o$20bobo5bobo9bobo5b3o9bobo3b3o$22bo19bo5b2o12bo4b2o!

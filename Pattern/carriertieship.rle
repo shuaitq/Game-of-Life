@@ -1,0 +1,5 @@
+#N carriertieship.rle
+#C http://conwaylife.com/wiki/Aircraft_carrier_tie_ship
+#C http://conwaylife.com/patterns/carriertieship.rle
+x = 6, y = 7, rule = B3/S23
+4b2o$3bobo$3b2o$b2o$2bo$o$2o!

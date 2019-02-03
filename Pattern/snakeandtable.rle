@@ -1,0 +1,5 @@
+#N snakeandtable.rle
+#C http://conwaylife.com/wiki/Up_snake_on_table
+#C http://conwaylife.com/patterns/snakeandtable.rle
+x = 7, y = 4, rule = B3/S23
+ob2ob2o$2obobo$5bo$5b2o!

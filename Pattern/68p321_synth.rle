@@ -1,0 +1,12 @@
+#N 68p321_synth.rle
+#O Chris Cain
+#C Glider synthesis of 68p32.1, March 27th, 2016
+#C http://conwaylife.com/forums/viewtopic.php?p=29398#p29398
+#C http://conwaylife.com/wiki/68P32.1
+x = 103, y = 79, rule = B3/S23
+o101bo$b2o97b2o$2o99b2o2$6bo89bo$4bobo5bo77bo5bobo$5b2o6b2o73b2o6b2o$
+12b2o75b2o8$20bo10bo50bo$21bo10bo48bo$19b3o8b3o48b3o3$66bo$65bo$65b3o
+10$41bo$39bobo$40b2o3$56bo$56bobo$45b2o9b2o$44bobo$46bo3$61b2o$61bobo$
+61bo8$21b3o55b3o$23bo55bo$22bo12b3o42bo$37bo$36bo$22b2o55b2o$21bobo55b
+obo$23bo46b3o6bo$70bo$71bo9$5b2o89b2o$4bobo89bobo$6bo89bo2$2o99b2o$b2o
+97b2o$o101bo!

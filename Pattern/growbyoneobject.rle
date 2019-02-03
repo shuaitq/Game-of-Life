@@ -1,0 +1,9 @@
+#N growbyoneobject.rle
+#C http://conwaylife.com/wiki/Grow-by-one_object
+#C http://www.conwaylife.com/patterns/growbyoneobject.rle
+#O David Bell, Nicolay Beluchenko, September 2005
+#C A 44-cell grow-by-one-object; the smallest such object known as of March 2018.
+#C htt://conwaylife.com/wiki/Grow-by-one_object
+x = 17, y = 15, rule = B3/S23
+8b2o$7b2o$9bo$11b2o$10bo2$9bo2b2o$b2o5b2o4bo$2o5bo5bo$2bo4bobo3b2o$4bo
+2bo4b2obo$4b2o7b2o$8bo4bob2o$7bobo2bob2o$8bo!

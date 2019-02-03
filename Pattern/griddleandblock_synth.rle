@@ -1,0 +1,7 @@
+#N griddleandblock_synth
+#O Ivan Fomichev
+#C Glider synthesis of griddle and block
+#C http://conwaylife.com/wiki/griddle_and_block
+x = 20, y = 24, rule = B3/S23
+8bo$8bobo$8b2o$2bo$obo$b2o$17bobo$17b2o$7bo10bo$8bo$6b3o$2bo$obo$b2o8$
+2b3o$4bo$3bo!

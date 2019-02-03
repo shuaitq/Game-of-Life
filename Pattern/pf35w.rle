@@ -1,0 +1,7 @@
+#N pf35w.rle
+#O Paul Callahan, 1997
+#C http://conwaylife.com/wiki/PF35W
+#C http://www.conwaylife.com/patterns/pf35w.rle
+x = 15, y = 27, rule = B3/S23
+o9b2o$3o4b2o2bo$3bo2bo2b2o$2b2o3b2o2b3o$9bobo2bo$9bo3b2o$10bo$9b2o5$3b
+3o$5bo$3b3o9$2b2o$3bo$3o$o!

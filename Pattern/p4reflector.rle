@@ -1,0 +1,17 @@
+#N p4reflector.rle
+#O Karel Suhajda, 2012
+#C http://conwaylife.com/wiki/P4_reflector
+#C http://www.conwaylife.com/patterns/p4reflector.rle
+x = 67, y = 65, rule = B3/S23
+65bo$64bo$64b3o11$52bo$51bo$51b3o11$39bo$3o35bo$o37b3o$bo2$45bobo$44bo
+b2o$42b3o5bo$41bo3b8o$38bobobo2bo7bo$18bo19b4ob2ob7obo$18b3o18b3o5bobo
+2bobo2b2o$21bo19b3obobo3b2obobobo$20b2o4bo8b3o2b2ob5o4bobobo$13b3o9bo
+7bobo3b3ob2obo2bob4o2bo2b2o$13bo11b3o3b2o5bo4bo2bo2bo3bo4bo2bo$14bo16b
+2obobo2bo6bo2bo4b7o$34bobo2bo2bo2bo9bo$33bo4bo2bo11bo3b2o$32bob7o8b2ob
+ob3obo$33bo9bobo4bobobo$21bo13b9ob3o2bobo$20b4o8bo3bo7bo3bobobo$19bobo
+b2o6bo2bo3b4o2bo2bobobo$18b2o3bobo7b2o3bo3bobobo2bo$19bobo3b2o6bo5b3ob
+obob2o2bo$12b2o6b2obobo3bo3b3o5bo3bo3b3o$7b2o2bo2bo6b4o8bo3b2o2bo2bob
+2o$7bo4bobo8bo9bo3b4o3bobob2o$4b2obo5bo16b3o3bo6b2o3bobo$5bobob2o20b3o
+5bo2b2o2bobobo$4bo2bo2bo8b2o11b3o2b3ob3o2bobob2o$4b2o2bo4bo5bobo10bo2b
+o3bo3bo2bobo$9b5o7bo11bobo2bob2o3b4o$20bo10bobobob3ob3obo$11bo9b3o6bob
+2obo2b2o$10bobo10bo6bo5bo6b2obo$11bo19b5o6bo2b2o$33bo8b2o!

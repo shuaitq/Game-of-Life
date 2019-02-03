@@ -1,0 +1,19 @@
+#N 60P3H1V0.3 interactions
+#O Dean Hickerson
+#C Some reactions in which XWSSes collide into the back of a 60P3H1V0.3
+#C http://www.conwaylife.com/wiki/60P3H1V0.3
+#C http://conwaylife.com/patterns/60p3h1v03reactions.rle
+x = 185, y = 43, rule = B3/S23
+11bobo$10bo$10bo$10bo2bo$10b3o7$6bobo$5bo$5bo3bo$5bo$5bo2bo$5b3o2$11bo
+bo$10bo$10bo3bo$10bo$10bo2bo$10b3o$49bobo$48bo38bobo73bobo$48bo3bo33bo
+75bo$11bobo34bo3bo33bo3bo71bo3bo$10bo37bo37bo33bobo39bo3bo$10bo37bo2bo
+34bo2bo29bo42bo$10bo2bo34b3o35b3o30bo42bo2bo$10b3o106bo2bo39b3o$119b3o
+3$9bo37bo37bo37bo37bo$5bo4bo32bo4bo32bo4bo32bo4bo32bo4bo$4bo14bo22bo
+14bo22bo14bo22bo14bo22bo14bo$o3bob4o8bo3bo3bo3b2o6bo3bob4o8bo3bo3bo3b
+2o6bo3bob4o8bo3bo3bo3b2o6bo3bob4o8bo3bo3bo3b2o6bo3bob4o8bo3bo3bo3b2o$b
+2o3bob2o2b4ob5o2b2o6bo6b2o3bob2o2b4ob5o2b2o6bo6b2o3bob2o2b4ob5o2b2o6bo
+6b2o3bob2o2b4ob5o2b2o6bo6b2o3bob2o2b4ob5o2b2o6bo$2b4o4b2o2bob2o3b2obob
+2ob3o8b4o4b2o2bob2o3b2obob2ob3o8b4o4b2o2bob2o3b2obob2ob3o8b4o4b2o2bob
+2o3b2obob2ob3o8b4o4b2o2bob2o3b2obob2ob3o$4bo6bo5bo6b2obo14bo6bo5bo6b2o
+bo14bo6bo5bo6b2obo14bo6bo5bo6b2obo14bo6bo5bo6b2obo$12bob3o33bob3o33bob
+3o33bob3o33bob3o!

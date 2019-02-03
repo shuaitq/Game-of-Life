@@ -1,0 +1,5 @@
+#N ttetrominotlife.rle
+#C http://conwaylife.com/wiki/Tlife
+#C http://www.conwaylife.com/patterns/ttetrominotlife.rle
+x = 3, y = 2, rule = tlife
+3o$bo!

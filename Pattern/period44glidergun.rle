@@ -1,0 +1,10 @@
+#N period44glidergun.rle
+#O David Buckingham, 1997
+#C http://conwaylife.com/wiki/Period-44_glider_gun
+#C http://www.conwaylife.com/patterns/period44glidergun.rle
+x = 44, y = 41, rule = B3/S23
+17b2o6b2o$17b2o6b2o7$b2o38b2o$obo38bobo$obob2o32b2obobo$bobobo32bobobo
+$3bo36bo$2bo2bo13bo4bo13bo2bo$2bo15b2o4b2o15bo$2bo3bo10bo8bo10bo3bo$2b
+o3bo11b2o4b2o11bo3bo$2bo16bo4bo16bo$2bo2bo32bo2bo$3bo36bo$bobobo32bobo
+bo$obob2o32b2obobo$obo38bobo$b2o38b2o4$15b2o$16bo$13b3o$13bo20b2o$18b
+2o14bobo$18b2o16bo$36b2o4$20b2o$19bobo$19bo$18b2o!

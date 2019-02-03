@@ -1,0 +1,8 @@
+#N 40514m.rle
+#O Emerson J. Perkins, 1 May 2011
+#C 18-cell 40514-generation methuselah
+#C based on Richard Wobus' 15-cell 32829M
+#C http://conwaylife.com/wiki/40514M
+#C http://conwaylife.com/patterns/40514m.rle
+x = 78, y = 54, rule = B3/S23
+77bo$77bo$77bo21$3o20$3bo$3bo$3bo5$20b3o$9b3o10bo$22bo$21bo!

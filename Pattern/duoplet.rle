@@ -1,0 +1,6 @@
+#N Duoplet
+#O Unknown
+#C http://conwaylife.com/wiki/Duoplet
+#C http://conwaylife.com/patterns/duoplet.rle
+x = 2, y = 2, rule = B3/S23
+bo$o!

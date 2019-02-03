@@ -1,0 +1,8 @@
+#N piclimber.rle
+#C http://conwaylife.com/wiki/Pi_climber
+#C http://www.conwaylife.com/patterns/piclimber.rle
+x = 23, y = 58, rule = B3/S23
+10b3o16$11bo$11bo$11bo16$10b3o4$11bo$10bobo$10bobo$10bobo3$2b2o2b3o5b
+3o2b2o$bobo2b2o7b2o2bobo$2o6bo5bo6b2o$b2ob3o9b3ob2o$2b3o2bo7bo2b3o$3bo
+3b2o5b2o3bo$4b2o2b2o3b2o2b2o$4bo2b2obobob2o2bo$5bo2b2o3b2o2bo$6b3o5b3o
+4$10b3o!

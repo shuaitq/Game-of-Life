@@ -1,0 +1,11 @@
+#N negativespaceships.rle
+#C http://conwaylife.com/wiki/With_the_grain
+#C http://www.conwaylife.com/patterns/negativespaceships.rle
+x = 52, y = 51, rule = B3/S23:T52,52
+52o2$52o2$52o$47bo$40ob4o4b3o$41b2o5bo$38o5b9o$44bo$36o9b2o2b3o$37bobo
+5b2obo$36o3bo5b3ob3o$44bo$38o5b9o$41b2o5bo$40ob4o4b3o$47bo$52o2$52o2$
+25o2b3o2b3o2b3o2b10o$26b2o3b2o3b2o3b2o2bo$23o3bo4bo4bo4bo5b5o$26b2o3b
+2o3b2o3b2o3bo$25o2b3o2b3o2b3o2b10o2$52o2$52o2$52o2$23o2b3o2b3o2b3o2b3o
+2b7o$24b2o3b2o3b2o3b2o3b2o$23o3b2o3b2o3b2o3b2o3b6o$47bo$21o27b4o$48bo$
+21o27b4o$47bo$23o3b2o3b2o3b2o3b2o3b6o$24b2o3b2o3b2o3b2o3b2o$23o2b3o2b
+3o2b3o2b3o2b7o2$52o2$52o2$52o!

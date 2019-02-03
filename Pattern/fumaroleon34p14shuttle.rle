@@ -1,0 +1,6 @@
+#N fumaroleon34p14shuttle.rle
+#C http://conwaylife.com/wiki/Fumarole_on_34P14_shuttle
+#C http://conwaylife.com/patterns/fumaroleon34p14shuttle.rle
+x = 15, y = 21, rule = B3/S23
+2o4b2o$obo2bobo$2bo2bo$bo4bo$bo4bo$bo4bo$3b2o4$5b2o$2o2b2obo5b2o$2o3bo
+bo5b2o$7bo$9bo2$9bo$7bo$2o3bobo5b2o$2o2b2obo5b2o$5b2o!

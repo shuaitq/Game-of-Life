@@ -1,0 +1,9 @@
+#N syringe.rle
+#O Tanner Jacobi, 2015
+#C http://conwaylife.com/wiki/Syringe
+#C http://www.conwaylife.com/patterns/syringe.rle
+x = 41, y = 36, rule = B3/S23
+2bo$obo$b2o10$25bo$23b3o$22bo$22b2o$7b2o$8bo$8bob2o$9bo2bo23bo$10b2o
+24bo$25b2o9b3o$25b2o11bo4$34bo3b2o$33bobo3bo$32bobo3bo$28b2obobo3bo$
+28b2obo2b4obo$32bobo3bobo$28b2ob2o2bo2bobo$29bobo2b2o3bo$17b2o10bobo$
+17b2o11bo!

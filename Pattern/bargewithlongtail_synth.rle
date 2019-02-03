@@ -1,0 +1,8 @@
+#N bargewithlongtail_synth
+#O
+#C Glider synthesis of barge with long tail
+#C http://conwaylife.com/wiki/barge_with_long_tail
+x = 57, y = 16, rule = B3/S23
+2bo$obo5bo10bo15bo15bo$b2o5bobo7bobo13bobo13bobo$8b2o9bobo13bobo13bobo
+$5b2o13bobo13bobo13bo2b2o$4b2o15bo15bo15b2obo$6bo33bobo$40b2o$41bo2$
+42b2o$42bobo$42bo$39b2o$38bobo$40bo!

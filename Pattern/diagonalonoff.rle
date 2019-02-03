@@ -1,0 +1,5 @@
+#N diagonalonoff.rle
+#C http://conwaylife.com/wiki/Diagonal_on-off
+#C http://conwaylife.com/patterns/diagonalonoff.rle
+x = 2, y = 2, rule = B3/S23
+bo$o!

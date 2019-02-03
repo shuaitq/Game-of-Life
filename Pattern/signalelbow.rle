@@ -1,0 +1,12 @@
+#N signalelbow.rle
+#C http://conwaylife.com/wiki/Signal_elbow
+#C http://www.conwaylife.com/patterns/signalelbow.rle
+x = 34, y = 44, rule = B3/S23
+24bo2bo$24b6o$30bob2o$22b5obobob2o$21bo6bobo$21b5o2bobo$18bo7bob2o$18b
+6o2bo$24bobo$16b6o2bob2o$10b2o3bo6bobo$9bo2bo2b5o2bobo$8bob3o7bob2o$4b
+2obobo3b5o2bo$5bobo3bo6bobo$5bobo2b6o2bob2o$3bobobobo6bobo$2bob2o2bob
+4o2bobo$2bo3bobobo3bob2o$2ob2obobo3bobo$bobo2bob4obob3o$o2bobo7bo3bo$b
+3o2b8o$4bobo$3b2obo2b7o$2bo2b2obo7bo$2b2o4bo2b6o$8bobo$7b2obo2b6o$10bo
+bo6bo$10bobo2b5o$11b2obo7bo$14bo2b6o$14bobo$13b2obo2b6o$16bobo6bob2o$
+16bobo2b5ob2o$17b2obo$20bo2b6o$20bobo5bo$19b2obo2b3o$22bobo5b2o$22bo2b
+o4b2o$23b2o!

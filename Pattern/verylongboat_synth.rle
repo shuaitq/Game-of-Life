@@ -1,0 +1,20 @@
+#N verylongboat_synth.rle
+#O Mark D. Niemiec
+#C Glider syntheses of very long boat
+#C http://conwaylife.com/ref/mniemiec/0/9-1.rle
+#C http://conwaylife.com/wiki/Very_long_boat
+#C http://conwaylife.com/patterns/verylongboat_synth.rle
+x = 151, y = 101, rule = B3/S23
+7bo$7bobo75bo$7b2o36b2o38bobo$26b2o14b3ob2o18b2o17b2o19b2o18b2o18b2o$
+7bo18bobo13b5o19bobo37bobo17bobo17bobo$2bo3b2o19bobo13b3o21bobo14bo3b
+2o17bobo17bobo17bobo$obo3bobo19bobo37bobo13b2ob2o19bo19bo19bobo$b2o26b
+o16bo22bo13bobo3bo43bo15bo$45b3o83b2o$45bob2o79b2o2b2o$46b3o79bobo$46b
+3o79bo$46b2o20$6bo$4bobo19b2o18b2o18b2o18b2o18b2o$5b2o19b2o18b2o18bobo
+17bobo17bobo$2b2o36bo26bo19bo19bobo$bobo37b2o49bo15bo$3bo36b2o2b2o3b2o
+39b2o$43bobo2b2o37b2o2b2o$45bo4bo36bobo$87bo12$36bo$37b2o9bo$36b2o11b
+2o$48b2o2$42bo7bo$43b2o4bo$42b2o5b3o4$7bo3bo54b2o$8b2obobo52bobo$7b2o
+2b2o16bo19bo17bobo$28bobo17bobo17bobo$13b3o13bo19bo19bo$13bo$14bo15$
+116b2o$117b2o$116bo3bobo$120b2o$121bo2$49bo$47bobo$44b2o2b2o37bo$45b2o
+38b2o59b2o$44bo23bo17b2o20bo19bo17bobo$49bo17bobo37bobo17bobo17bobo$
+48bobo17bobo14bo3b2o17bobo17bobo17bobo$49bo19bo15b2ob2o19bo19bo19bo$
+84bobo3bo26b2o$118b2o$117bo!

@@ -1,0 +1,7 @@
+#N glidertoblock.rle
+#O Paul Callahan, 1996
+#C http://conwaylife.com/wiki/Glider_to_block
+#C http://www.conwaylife.com/patterns/glidertoblock.rle
+x = 24, y = 31, rule = B3/S23
+19bo$13bo5b3o$13b3o6bo$16bo4b2o$15b2o6$8b2o$8b2o10b2o$20bobo$21bo4$20b
+2o$20bo$21b3o$23bo8$3o$2bo$bo!

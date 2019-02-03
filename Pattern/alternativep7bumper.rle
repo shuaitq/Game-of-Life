@@ -1,0 +1,8 @@
+#N alternativep7bumper.rle
+#C http://conwaylife.com/wiki/P7_bumper
+#C http://conwaylife.com/patterns/alternativep7bumper.rle
+x = 65, y = 54, rule = B3/S23
+63bo$62bo$62b3o7$55bo$53b2o$54b2o5$2o$obo$o7$9b2o$8b2o$10bo$35bo$34bo$
+34b3o7$27bo$25b2o$26b2o3$11bo5b2o4b2o$11b3o3b2o3bo2bo$14bob3o4bobo$13b
+o3bo6bo$10bo2bob2obo$10b3o3b2o10b2o$13b4obo9bo$12bo3b3o10b3o$13b2obo2b
+o11bo$14bobobo$13bo2b2o$13b2o!

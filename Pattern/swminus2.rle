@@ -1,0 +1,7 @@
+#N swminus2.rle
+#C http://conwaylife.com/wiki/SW-2
+#C http://www.conwaylife.com/patterns/swminus2.rle
+x = 42, y = 44, rule = B3/S23
+35b2o$35bo$33bobo$29b2o2b2o$29b2o$5b2o$5b2o$29b2o$29b2o4$9b2o$9b2o2$o
+24bo$obo22bobo$3o22b3o$2bo24bo17$40bo$11bo27bobo$10bobo27b2o$10bobo$
+11bo28b2o$o24bo13bobo$obo22bobo12bo$3o22b3o$2bo24bo!

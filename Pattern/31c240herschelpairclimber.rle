@@ -1,0 +1,6 @@
+#N 31c/240 Herschel-pair climber
+#C A reaction consisting of Herschels climbing parallel chains of blocks, used by some 31c/240 spaceships, such as the shieldbug and the centipede.
+#C http://conwaylife.com/wiki/31c/240_Herschel-pair_climber
+x = 61, y = 58, rule = B3/S23
+2o57b2o$2o57b2o30$2o57b2o$2o57b2o18$55b3o$55bo2bo$55bo2bo$54b4o$7b3o
+44b2o$8bo44bo$6b3o45bo$54bo!

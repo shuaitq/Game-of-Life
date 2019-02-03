@@ -1,0 +1,9 @@
+#N L156
+#O Dave Buckingham, August 1996
+#C Repeat time 62 ticks
+#C http://conwaylife.com/wiki/L156
+#C http://www.conwaylife.com/patterns/l156.rle
+x = 29, y = 47, rule = B3/S23
+19b2o$19bo$17b3o16$17b2o$17b2o2$8b2obo$8bob2o$26b2o$26bo$24bobo$24b2o
+2$9bo$9b3o$o11bo$3o8b2o14bo$3bo22bobo$2b2o23bo7$bo20b2o$bobo18bobo$b3o
+20bo$3bo11b2o7b2o$15bo$16b3o$18bo!

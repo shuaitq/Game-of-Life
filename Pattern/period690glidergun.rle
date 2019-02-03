@@ -1,0 +1,8 @@
+#N period690glidergun.rle
+#O Noam Elkies, 1996
+#C http://conwaylife.com/wiki/Period-690_glider_gun
+#C http://www.conwaylife.com/patterns/period690glidergun.rle
+x = 52, y = 25, rule = B3/S23
+11bo$11b3o$14bo$13b2o6$13b2o3b2o$13bo5bo2$14bo3bo$15b3o$33b2o$23b2o7bo
+bo$2o21b2o7bo17b2o$bo30b3o13bo2bo$bobo8bo35b3o$2b2o8bobo$13bobo32b3o$
+13bo2bo15b3o13bo2bo$13bobo16bo17b2o$12bobo17bobo$12bo20b2o!

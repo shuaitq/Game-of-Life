@@ -1,0 +1,8 @@
+#N componentexample.rle
+#C http://conwaylife.com/wiki/Component
+#C http://www.conwaylife.com/patterns/componentexample.rle
+x = 48, y = 18, rule = B3/S23
+7bo19bo19bo$5b2o18b2o18b2o$6b2o18b2o18b2o2$2bo19bo19bo$obo17bobo17bobo
+$b2o2bo15b2o2bo15b2o2bo$5bobo17bobo17bobo$5b2o18b2o18b2o3$20bo$3bo2bo
+12bobobo2bo12b2o2bo2bo$3b4o13b2ob4o12bo3b4o$22bo17b3o$5b2o15bobo17bobo
+$5b2o16bobo17b2o$24bo!

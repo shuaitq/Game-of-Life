@@ -1,0 +1,10 @@
+#N Edge-repair spaceship 1 deleting various objects and surviving.
+#C http://www.conwaylife.com/wiki/Edge-repair_spaceship_1
+#C http://conwaylife.com/patterns/edgerepairspaceshipsandobjects.rle
+x = 113, y = 11, rule = B3/S23
+107bo3bo$107b2ob2o$108bobo$29bo76bobobobo$16bo11b2o8bo19bo8b2o8bo19bo
+8b2o3b2o$o14b4o9bo8b4o15b4o7b2o7b4o15b4o8bo3bo$obo7bo3bo3b2ob2o9bo3bo
+3b2ob2o7b2ob2o3bo3bo6bo3bo3b2ob2o7b2ob2o3bo3bo$3o6b4o5bo2b2o8b4o5bo2b
+2o7b2o2bo5b4o4b4o5bo2b2o7b2o2bo5b4o$2bo5bo3bo7bo2bo6bo3bo7bo2bo5bo2bo
+7bo3bo2bo3bo7bo2bo5bo2bo7bo3bo$9bobo2bo16bobo2bo23bo2bobo4bobo2bo23bo
+2bobo$13bo21bo25bo12bo25bo!

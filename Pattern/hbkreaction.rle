@@ -1,0 +1,6 @@
+#N hbkreaction.rle
+#C http://conwaylife.com/wiki/Half-bakery
+#C http://conwaylife.com/patterns/hbkreaction.rle
+x = 59, y = 53, rule = B3/S23
+57bo$56bo$56b3o12$36bo$34b2o$35b2o22$20b2o$19bo2bo$19bobo$17b2obo$16bo
+2bo$16bobo$17bo2$4b2o$3bo2bo$3bobo$b2obo$o2bo$obo$bo!

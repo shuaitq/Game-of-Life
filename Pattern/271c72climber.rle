@@ -1,0 +1,10 @@
+#N (27,1)c/72 Herschel climber
+#O Unknown
+#C http://conwaylife.com/wiki/(27,1)c/72_Herschel_climber
+#C http://conwaylife.com/patterns/271c72climber.rle
+x = 115, y = 125, rule = B3/S23
+62bobo$62b2o$49bobo11bo35bobo$49b2o48b2o$50bo49bo2$113bo$112bo$112b3o
+37$43bobo$43b2o$30bobo11bo35bobo$30b2o48b2o$31bo49bo2$94bo$93bo$93b3o
+37$24bobo$24b2o$11bobo11bo35bobo$11b2o48b2o$12bo49bo2$75bo$74bo$74b3o
+14$15bo$14b3o$13b5o$13b2ob3o$14b2ob2o$3o13bo33b3o12b3o$bo49bo16bo$b3o
+47b3o11bo2bo$66b2o$66b2o$65bo2bo$65bo$67b2o!

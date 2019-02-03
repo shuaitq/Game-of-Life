@@ -1,0 +1,16 @@
+#N C/4 wave
+#O Bullet51
+#C http://conwaylife.com/wiki/C/4_wave
+#C http://conwaylife.com/patterns/c4wave.rle
+x = 120, y = 45, rule = B3/S23
+4bo$3bobo$2bo4bo6bo$3o4bo5bobo$2o2b2obo4bo4bo6bo$2o4bo3b3o4bo5bobo$5bo
+4b2o2b2obo4bo4bo6bo$6bo3b2o4bo3b3o4bo5bobo$15bo4b2o2b2obo4bo4bo6bo69bo
+$16bo3b2o4bo3b3o4bo5bobo67b3o$25bo4b2o2b2obo4bo4bo6bo58b3o$26bo3b2o4bo
+3b3o4bo5bobo59bo$35bo4b2o2b2obo4bo4bo6bo47b4o$36bo3b2o4bo3b3o4bo5bobo
+45bobob2o$45bo4b2o2b2obo4bo4bo6bo36bo$46bo3b2o4bo3b3o4bo5bobo36bo$55bo
+4b2o2b2obo4bo4bo6bo31b3o$56bo3b2o4bo3b3o4bo5bobo30b3o$65bo4b2o2b2obo4b
+o4bo6bo20bobo$66bo3b2o4bo3b3o4bo5bobo16bobo$75bo4b2o2b2obo4bo4bo6bo7bo
+$76bo3b2o4bo3b3o4bo5bobo5bo2bo$85bo4b2o2b2obo4bo4bo5b2o$86bo3b2o4bo3b
+3o4bo4b3o$95bo4b2o2b2obo$96bo3b2o4bo3bobo$105bo4bo$106bo3b2o3bo$111bo
+3b2o$112bo3bo$112bobo$115bo$113bo2b2o$113bo4bo$118bo$115b2o$116bo$116b
+o2bo$115bo2bo2$114bo3bo$114b2ob2o3$115b3o!

@@ -1,0 +1,7 @@
+#N 68p9.rle
+#O carybe, 2018
+#C http://conwaylife.com/wiki/68P9
+#C http://www.conwaylife.com/patterns/68p9.rle
+x = 16, y = 17, rule = B3/S23
+b2o10b2o$obo10bobo$3o10b3o2$b2o10b2o$4o8b4o$o3bo6bo3bo$5bo4bo$2bo2bo4bo2bo$5b
+o4bo$o3bo6bo3bo$4o8b4o$b2o10b2o2$3o10b3o$obo10bobo$b2o10b2o!

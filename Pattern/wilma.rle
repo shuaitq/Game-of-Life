@@ -1,0 +1,12 @@
+#N Wilma
+#O Rob Liston
+#C 2018-10-28
+#C As of late October 2018, the longest-lived known methuselah in a 20x20 bounding box.
+#C Lifespan: 39693 generations; initial population: 197; final population: 3524.
+#C http://conwaylife.com/wiki/Wilma
+x = 20, y = 20, rule = B3/S23
+o2bob2o2bobo2bo$2o2b2ob3obob2o2b3o$b2o2bo3bob6o$2obo4b4obo3b2o$obob2ob
+o2b3ob5o$b2ob3ob4o2b2ob3o$b2o6bo2b5ob2o$bo6bobob3obo2bo$o3bob3ob3o3bob
+o$b2o2b2obob3o$b4o3bo4b2obo$2o2b6obo5bobo$bob3ob3obobo4bo$obobobobo3b
+3o3b2o$2obobob2o3b2ob4o$ob2ob2o6bobo2bo$o3b2ob2ob2obo4bo$7o6bo4bo$2b2o
+bo7b2o2b3o$o3b3o2bo3b3o2bo!

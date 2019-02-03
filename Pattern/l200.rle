@@ -1,0 +1,8 @@
+#N l200.rle
+#C http://conwaylife.com/wiki/BLx19R
+#C http://conwaylife.com/patterns/l200.rle
+x = 42, y = 54, rule = B3/S23
+32b2o$32bo$30b3o16$30b2o$30b2o2$21b2obo$21bob2o$39b2o$39bo$37bobo$37b
+2o$23bo$23b3o$2o24bo$bo13b2o6b3o$bobo11b2o6bo16bo$2b2o35bobo$40bo6$2bo
+$2bobo$2b3o31b2o$4bo25b2o4bobo$30b2o5b2o2$34b2o$35bo$11b2o3b2o14b3o$
+12bo3bo15bo$10bobobobobo$10b2obobob2o$13bobo$13bobo$14bo!

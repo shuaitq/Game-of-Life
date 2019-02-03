@@ -1,0 +1,4 @@
+#N Tablecloth agar
+#C http://conwaylife.com/wiki/Tablecloth
+x = 4, y = 4, rule = B3/S23
+4o$o2bo$o2bo$4o!

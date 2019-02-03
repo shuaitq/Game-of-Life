@@ -1,0 +1,5 @@
+#N translongbargewithtail.rle
+#C http://conwaylife.com/wiki/Trans-long_barge_with_tail
+#C http://conwaylife.com/patterns/translongbargewithtail.rle
+x = 7, y = 7, rule = B3/S23
+5bo$4bobo$3bobo$2bobo$bobo$bo$2o!

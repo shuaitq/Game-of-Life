@@ -1,0 +1,5 @@
+#N cissnaketie.rle
+#C http://conwaylife.com/wiki/Cis-snake-tie
+#C http://conwaylife.com/patterns/cissnaketie.rle
+x = 4, y = 8, rule = B3/S23
+2b2o$3bo$2bo$2b2o$2o$bo$o$2o!

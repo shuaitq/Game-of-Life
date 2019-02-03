@@ -1,0 +1,5 @@
+#N carriersiamesecanoe.rle
+#C http://conwaylife.com/wiki/Aircraft_carrier_siamese_canoe
+#C http://conwaylife.com/patterns/carriersiamesecanoe.rle
+x = 6, y = 8, rule = B3/S23
+2o$o$2bo$b2o$bo$2bo$3bobo$4b2o!

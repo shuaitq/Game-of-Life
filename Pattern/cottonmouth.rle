@@ -1,0 +1,10 @@
+#N cottonmouth.rle
+#O AforAmpere, 2018
+#C A c/10 orthogonal pushalong for copperhead and fireship spaceships,
+#C   discovered on 24 March 2018
+#C http://conwaylife.com/wiki/Cottonmouth
+#C http://conwaylife.com/patterns/cottonmouth.rle
+x = 10, y = 34, rule = B3/S23
+2b2o2b2o$4b2o$4b2o$bobo2bobo$bo6bo2$bo6bo$2b2o2b2o$3b4o2$3o4b3o2$2o6b
+2o$2o6b2o2$bo6bo$bobo2bobo2$2b2o2b2o$bo6bo2$4b2o$3bo2bo$3bo2bo$2bo4bo$
+2bo4bo$3b4o$2b2o2b2o$2bo4bo$2bo4bo3$3b4o$4b2o!

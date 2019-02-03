@@ -1,0 +1,5 @@
+#N doubleclaw.rle
+#C http://conwaylife.com/wiki/Double_claw
+#C http://conwaylife.com/patterns/doubleclaw.rle
+x = 6, y = 6, rule = B3/S23
+b2o$obo$o$bo2b2o$2bo2bo$3b2o!

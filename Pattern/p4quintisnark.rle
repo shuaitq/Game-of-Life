@@ -1,0 +1,11 @@
+#N p4quintisnark.rle
+#O Tanner Jacobi, 2018
+#C http://conwaylife.com/wiki/P4_quinti-Snark
+#C http://conwaylife.com/patterns/p4quintisnark.rle
+x = 140, y = 146, rule = B3/S23
+139bo$137b2o$138b2o12$125bo$123b2o$124b2o12$111bo$109b2o$110b2o12$97bo
+$95b2o$96b2o3$69b2o$70b2o$69bo7$83bo$81b2o$82b2o12$69bo$67b2o$68b2o12$
+55bo$53b2o$54b2o12$41bo$39b2o$40b2o12$27bo$25b2o$26b2o$4bo9b2o$3b2o9bo
+$2b2o2bo5bobo$b2o2b3o4b2o$2bo2b2obo$b3o3b2o6$13bo$11b2o$12b2o4$2b2o12b
+2o$bobo12bobo$bo7b2o7bo$2o6bo2bo6b2o$9b2o4$4b2o8b2o$4bo2b6o2bo$5b2o6b
+2o$2b3o10b3o$2bo2bobo4bobo2bo$3b2o4b2o4b2o!

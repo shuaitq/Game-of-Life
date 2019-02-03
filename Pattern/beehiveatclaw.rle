@@ -1,0 +1,5 @@
+#N beehiveatclaw.rle
+#C http://conwaylife.com/wiki/Beehive_at_claw
+#C http://conwaylife.com/patterns/beehiveatclaw.rle
+x = 6, y = 6, rule = B3/S23
+3b2o$2bo2bo$bob2o$2bo$obo$2o!

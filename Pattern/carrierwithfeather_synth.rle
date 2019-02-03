@@ -1,0 +1,7 @@
+#N carrierwithfeather_synth.rle
+#C 4-glider synthesis of aircraft carrier with feather
+#C http://conwaylife.com/wiki/Aircraft_carrier_with_feather
+#C http://conwaylife.com/patterns/carrierwithfeather_synth.rle
+x = 52, y = 12, rule = B3/S23
+18b2o$17bobo2b2o$9b2o8bo2bobo$10b2o10bo$9bo35b2o2bo$45bo2bobo$47b2o2bo
+$50b2o2$b2o$obo$2bo!

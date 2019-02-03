@@ -1,0 +1,15 @@
+#N crystal.rle
+#C http://conwaylife.com/wiki/Crystal
+#C http://www.conwaylife.com/patterns/crystal.rle
+x = 664, y = 659, rule = B3/S23
+bo$2bo$3o19$22bo$20bobo$21b2o18$42bo$43bo$41b3o19$63bo$61bobo$62b2o18$
+83bo$84bo$82b3o19$104bo$102bobo$103b2o18$124bo$125bo$123b3o19$145bo$
+143bobo$144b2o18$165bo$166bo$164b3o19$186bo$184bobo$185b2o18$206bo$
+207bo$205b3o19$227bo$225bobo$226b2o18$247bo$248bo$246b3o19$268bo$266bo
+bo$267b2o18$288bo$289bo$287b3o19$309bo$307bobo$308b2o18$329bo$330bo$
+328b3o19$350bo$348bobo$349b2o18$370bo$371bo$369b3o19$391bo$389bobo$
+390b2o18$411bo$412bo$410b3o19$432bo$430bobo$431b2o18$452bo$453bo$451b
+3o19$473bo$471bobo$472b2o18$493bo$494bo$492b3o19$514bo$512bobo$513b2o
+18$534bo$535bo$533b3o19$555bo$553bobo$554b2o18$575bo$576bo$574b3o19$
+596bo$594bobo$595b2o18$616bo$617bo$615b3o19$637bo$635bobo$636b2o18$
+657bo$658bo3b2o$656b3o3b2o!

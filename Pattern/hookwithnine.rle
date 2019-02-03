@@ -1,0 +1,5 @@
+#N hookwithnine.rle
+#C http://conwaylife.com/wiki/Hook_with_nine
+#C http://conwaylife.com/patterns/hookwithnine.rle
+x = 6, y = 7, rule = B3/S23
+4b2o$3bobo$3bo$4bo$b3o$o$2o!

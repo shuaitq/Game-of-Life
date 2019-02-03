@@ -1,0 +1,10 @@
+#N linecuttingreaction.rle
+#C http://conwaylife.com/wiki/Line-cutting_reaction
+#C http://www.conwaylife.com/patterns/linecuttingreaction.rle
+x = 53, y = 53, rule = B3/S23
+2o$o$bo$2bo$3bo$4bo$5bo$6bo$7bo$8bo$9bo$6bo3bo$7bo3bo$o4b3o4bo$b2o10bo
+$2o12bo$15bo$16bo$17bo$18bo$19bo$20bo$21bo$22bo$23bo$24bo$25bo$19bo6bo
+$20bo6bo$18b3o7bo$29bo$24b2o4bo$24bobo4bo$24bo7bo$33bo$34bo$35bo$36bo$
+3b2o32bo$4b2o32bo$3bo35bo$40bo$10b2o29bo$9bobo30bo$11bo31bo$39b2o3bo$
+38b2o5bo$13b2o25bo5bo$12bobo32bo$14bo33bo$37b2o10bo$37bobo10bobo$37bo
+13b2o!

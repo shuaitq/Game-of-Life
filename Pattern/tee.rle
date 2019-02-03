@@ -1,0 +1,5 @@
+#N tee.rle
+#C http://conwaylife.com/wiki/Tee
+#C http://www.conwaylife.com/patterns/tee.rle
+x = 37, y = 29, rule = B3/S23
+35bo$34bo$34b3o$29bo$29bobo$29b2o21$b2o$obo$2bo!

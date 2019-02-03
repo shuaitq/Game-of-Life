@@ -1,0 +1,6 @@
+#N Replicator-based period 96 oscillator in HighLife (B36/S23)
+#O 
+#C http://conwaylife.com/wiki/HighLife
+x = 35, y = 19, rule = B36/S23
+2o33b$2o10bo22b$11b2o22b$10bobo22b$9b3o23b$35b$15b3o17b$14bobo18b$14b2o19b$
+14bo20b$35b$35b$35b$35b$35b$35b$35b$33b2o$33b2o!

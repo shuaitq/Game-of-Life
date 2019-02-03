@@ -1,0 +1,9 @@
+#C Switch engine channel
+#O David Bell, June 2005
+#C Stable conduit for a c/12 switch engine
+x = 56, y = 56, rule = B3/S23
+14b2o$13bobo$14bo6$22b2o$21bobo$22bo6$15b3o12b2o$16bo2bo9bobo$20bo9bo$
+17bobo2$bo$obo$2o$38b2o$37bobo$38bo3$9bo$8bobo$8b2o$46b2o$45bobo$46bo
+3$17bo$16bobo$16b2o$54b2o$53bobo$54bo3$25bo$24bobo$24b2o6$33bo$32bobo$
+32b2o!
+#C [[ WIDTH 480 HEIGHT 480 X -8 Y -8 ZOOM 10 GPS 20 TRACK 1/12 1/12 LOOP 192 ]]

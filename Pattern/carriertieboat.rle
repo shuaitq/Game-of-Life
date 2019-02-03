@@ -1,0 +1,5 @@
+#N carriertieboat.rle
+#C http://conwaylife.com/wiki/Carrier_tie_boat
+#C http://conwaylife.com/patterns/carriertieboat.rle
+x = 6, y = 7, rule = B3/S23
+bo$obo$b2o$3b2o$3bo$5bo$4b2o!

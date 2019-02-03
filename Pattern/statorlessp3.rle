@@ -1,0 +1,10 @@
+#N statorlessp3.rle
+#O Jason Summers, 2012
+#C http://conwaylife.com/wiki/Statorless_p3
+#C http://conwaylife.com/patterns/statorlessp3.rle
+x = 31, y = 28, rule = B3/S23
+9bobo5bo3bo5bobo$8bo3bo4bo3bo4bo3bo$9bo7bo3bo7bo$11b2ob2obo3bob2ob2o$
+17bo3bo$10bo3bo9bo3bo$8bobo17bobo2$8bo19bo$7b2o18b2o$7bo19bo$5bo2bo16b
+o2bo$o4bo14bo4bo$4ob2ob3o9b4ob2ob3o$3ob2ob4o9b3ob2ob4o$5bo4bo14bo4bo$
+2bo2bo16bo2bo$3bo19bo$2b2o18b2o$2bo19bo2$obo17bobo$2bo3bo9bo3bo$9bo3bo
+$3b2ob2obo3bob2ob2o$bo7bo3bo7bo$o3bo4bo3bo4bo3bo$bobo5bo3bo5bobo!

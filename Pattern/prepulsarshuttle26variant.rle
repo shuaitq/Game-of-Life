@@ -1,0 +1,12 @@
+#N Pre-pulsar shuttle 26 variant
+#O "Thunk" and Matthias Merzenich
+#C A variant of the p26 pre-pulsar shuttle with a minimum
+#C population of 144 cells
+#C http://conwaylife.com/wiki/Pre-pulsar_shuttle_26
+x = 39, y = 39, rule = B3/S23
+12b2o11b2o$12b2o3bo3bo3b2o$17bo3bo$17bo3bo$11bo15bo$10bobo13bobo$11bo
+4bo5bo4bo$15b3o3b3o3$5bo27bo$4bobo25bobo$2o3bo27bo3b2o$2o35b2o$16b2o3b
+2o$7bo9bo3bo9bo$6b2o6bo9bo6b2o$b3o3bo6b2o7b2o6bo3b3o4$b3o3bo6b2o7b2o6b
+o3b3o$6b2o6bo9bo6b2o$7bo9bo3bo9bo$16b2o3b2o$2o35b2o$2o3bo27bo3b2o$4bob
+o25bobo$5bo27bo3$15b3o3b3o$11bo4bo5bo4bo$10bobo13bobo$11bo15bo$17bo3bo
+$17bo3bo$12b2o3bo3bo3b2o$12b2o11b2o!

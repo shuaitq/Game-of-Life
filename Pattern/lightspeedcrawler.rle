@@ -1,0 +1,9 @@
+#N lightspeedcrawler.rle
+#C http://conwaylife.com/wiki/Lightspeed_crawler
+#C http://conwaylife.com/patterns/lightspeedcrawler.rle
+x = 120, y = 6, rule = B3/S23
+51bo4bo15b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o$b2o3b2o3b2o3b2o3b2o3b
+2o3b2o3b2o3b2o3b2o3bo5bo2b2o4b2o3bo2bobo2bobo2bobo2bobo2bobo2bobo2bobo
+2bobo2bobo2bo$o2bobo2bobo2bobo2bobo2bobo2bobo2bobo2bobo2bobo2bobo6bob
+3o5b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o$b2o3b2o3b2o3b2o3b2o3b2o
+3b2o3b2o3b2o3b2o3bo5bo2b2o4b2o$51bo4bo4bo4b2o$65bo!

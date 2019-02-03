@@ -1,0 +1,6 @@
+#N moldon34p14shuttle.rle
+#C http://conwaylife.com/wiki/Mold_on_34P14_shuttle
+#C http://conwaylife.com/patterns/moldon34p14shuttle.rle
+x = 15, y = 19, rule = B3/S23
+3b2o$2bo2bo$o2bobo$4bo$ob2o$bo3$5b2o$2o2b2obo5b2o$2o3bobo5b2o$7bo$9bo
+2$9bo$7bo$2o3bobo5b2o$2o2b2obo5b2o$5b2o!

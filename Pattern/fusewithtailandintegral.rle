@@ -1,0 +1,5 @@
+#N fusewithtailandintegral.rle
+#C http://conwaylife.com/wiki/Fuse_with_tail_and_integral
+#C http://conwaylife.com/patterns/fusewithtailandintegral.rle
+x = 7, y = 7, rule = B3/S23
+5b2o$4bobo$4bo$2bobo$bobo$bo$2o!

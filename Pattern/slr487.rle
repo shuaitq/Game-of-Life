@@ -1,0 +1,18 @@
+#N 487-tick_reflector
+#O Adam P. Goucher
+#C A stable glider reflector with a repeat time of 487, discovered on April 12, 2009.
+#C http://conwaylife.com/wiki/487-tick_reflector
+x = 134, y = 95, rule = B3/S23
+24b2o$24b2o3$22b2o$22b2o$9b2o$10bo102b2o$10bobo100b2o5b2o$11b2o107b2o$
+82b2o$82bobo$84bo14b2o17b2o$2o82b2o14bo17b2o$bo98bobo21b2o$bobo97b2o
+21b2o$2b2o2$20b2o37b2o$20b2o37b2o26b2o$87b2o$31b2o$30bo2bo$30bobo$31bo
+3$7b3o87b2o$9bo88bo28b2o$8bo73b2o11b3o29bo$13b2o67b2o11bo29bobo$13b2o
+110b2o2$68b2o23b2o$69bo23bo$37bo28b3o22bobo$37b3o26bo24b2o$40bo37b2o$
+39b2o37bo$79b3o$81bo3$124b2o$108b2o14b2o$49b2o58bo22b2o$42b2o5bobo54b
+3o23bo$42b2o7bo54bo23bobo$51b2o77b2o2$103bo$101b3o$100bo11bo$100b2o10b
+3o$43b2o70bo$43b2o69b2o$54b2o53bo$37b2o8bo6bo54b3o$36bobo7bobo3bobo57b
+o$36bo9b2o4b2o57b2o$35b2o3$38b2o$37bobo$37bo70b2o$36b2o70b2o17b2o$127b
+2o2$65b2o$45b2o18bo62b2o$45b2o16bobo62bo$63b2o50b2o12b3o$98b2o16bo14bo
+$98bo14b3o$99b3o11bo$54bo46bo$53bobo$54bo$97b2o$82b2o13bobo$82b2o3b2o
+10bo$87b2o10b2o2$53b2o$53b2o33b2o$82b2o4bo$82b2o5b3o$91bo2$71b2o$71bob
+o$73bo$59b2o12b2o$59b2o!

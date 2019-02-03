@@ -1,0 +1,5 @@
+#N Bookend siamese table
+#C An 11-bit induction coil.
+#C http://conwaylife.com/wiki/Bookend_siamese_table
+x = 7, y = 3, rule = B3/S23
+2o$o2bo2bo$b6o!

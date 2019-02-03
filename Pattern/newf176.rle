@@ -1,0 +1,9 @@
+#N newf176.rle
+#C http://conwaylife.com/wiki/PF35W
+#C http://conwaylife.com/patterns/newf176.rle
+x = 50, y = 32, rule = B3/S23
+24b2o$25bo6b2o$25bobo4b2o$26b2o$22bo$22b3o$14b2o9bo$14b2o8b2o4bo$30b2o
+15bo$32bo14bo$31bo4b2o9b3o$36b2o11bo$2o$bo$bobo$2b2o$25b2o$27bo$25b2o
+2$40bo3b2o$39bobo3bo$2bo36b2o3bo$2bobo26b2ob2o7bo$2b3o27bobobo2b5obo$
+4bo26bo4bo2bo4bobo$31bob3o5bo2bobo$14b2o8b2o3b2o2bo6b2o3bo$14b2o2b2o5b
+o2bo2b2o$18bobob3o3b2o$20bobo$20b2o!

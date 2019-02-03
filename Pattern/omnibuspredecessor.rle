@@ -1,0 +1,5 @@
+#N omnibuspredecessor.rle
+#C http://conwaylife.com/wiki/Omnibus
+#C http://conwaylife.com/patterns/omnibuspredecessor.rle
+x = 14, y = 3, rule = B3/S23
+7b3o$3o4bo3b3o$7b3o!

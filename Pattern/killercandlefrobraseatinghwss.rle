@@ -1,0 +1,8 @@
+#N Killer candlefrobras eating a HWSS
+#O Robert Wainwright
+#C Killer candlefrobras, a period 3 oscillator made up of two candlefrobras that act in some ways like killer toads, about to eat an approaching HWSS.
+#C http://conwaylife.com/wiki/Killer_candlefrobras
+#C http://conwaylife.com/wiki/File:Killercandlefrobraseatinghwss.png
+x = 21, y = 14, rule = B3/S23
+4bo11bo4b$2obob2obo3bob2obob2o$2obo3bobobobo3bob2o$3bo4bo3bo4bo3b$3b2o
+11b2o3b3$9b3o9b$9bo2bo8b$9bo11b$9bo3bo7b$9bo3bo7b$9bo11b$10bobo!

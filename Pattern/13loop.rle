@@ -1,0 +1,5 @@
+#N 13loop.rle
+#C http://conwaylife.com/wiki/Xs15_3lkia4z32
+#C http://conwaylife.com/patterns/13loop.rle
+x = 6, y = 7, rule = B3/S23
+2o$o2b2o$b2o2bo$4bo$b3o$o$2o!

@@ -1,0 +1,6 @@
+#N bakersdozen2.rle
+#C http://conwaylife.com/wiki/Baker%27s_dozen
+#C http://conwaylife.com/patterns/bakersdozen2.rle
+x = 11, y = 21, rule = B3/S23
+b3o$5bo$o4bo$4bo$b2o$bo$bo$bo2$4b2o3b2o$2o2bobo3bo$2o3bo$5bo$9bo$9bo$
+9bo$8b2o$6bo$5bo4bo$5bo$7b3o!

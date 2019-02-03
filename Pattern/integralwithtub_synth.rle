@@ -1,0 +1,13 @@
+#N integralwithtub_synth.rle
+#C http://conwaylife.com/wiki/Integral_with_tub
+#C http://conwaylife.com/patterns/integralwithtub_synth.rle
+#C 4-glider synthesis of integral with tub
+#C Other syntheses from Mark Niemiec's database at
+#C http://conwaylife.com/ref/mniemiec/10/10-17.rle
+x = 152, y = 17, rule = B3/S23
+82bobo$41bo41b2o38bo$42bo40bo40bo$40b3o79b3o$81b2o$82b2o42bo$o3bo21b2o
+38b2o13bo5bo18b2o17bobo18b2o$b2obobo19bobo23bo13bobo17bobo17bobo17bobo
+17bobo$2o2b2o22bo24bo14bo18b2o19bo18b2o19bo$28bobo20b3o14bobo37bobo37b
+obo$29bobo5bo31bobo37bobo14bo3b2o17bobo$30bo6b2o13bo17bo20b2o17bo15b2o
+b2o19bo$12b2o22bobo13b2o3bo26b3o4bobo31bobo3bo$11b2o38bobob2o29bo4bo$
+4b2o7bo42b2o27bo$3bobo$5bo!

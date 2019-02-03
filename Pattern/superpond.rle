@@ -1,0 +1,5 @@
+#N superpond.rle
+#C http://conwaylife.com/wiki/Super_pond
+#C http://conwaylife.com/patterns/superpond.rle
+x = 8, y = 8, rule = B3/S23
+3b2o$2bo2bo$bob2obo$obo2bobo$obo2bobo$bob2obo$2bo2bo$3b2o!

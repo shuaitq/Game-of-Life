@@ -1,0 +1,9 @@
+#N beluchenkosp51.rle
+#O Nicolay Beluchenko, 2009
+#C http://conwaylife.com/wiki/Beluchenko%27s_p51
+#C http://conwaylife.com/patterns/beluchenkosp51.rle
+x = 31, y = 31, rule = B3/S23
+3b2o21b2o$3b2o21b2o2$2o27b2o$2o5bo2b3o5b3o2bo5b2o$6b3ob3o5b3ob3o$5bo2bo13bo2b
+o$4b2o19b2o$5b2o17b2o2$4b2o19b2o$4b2o19b2o$4b2o19b2o6$4b2o19b2o$4b2o19b2o$4b
+2o19b2o2$5b2o17b2o$4b2o19b2o$5bo2bo13bo2bo$6b3ob3o5b3ob3o$2o5bo2b3o5b3o2bo5b
+2o$2o27b2o2$3b2o21b2o$3b2o21b2o!

@@ -1,0 +1,8 @@
+#N achimsp8_synth
+#O 
+#C Glider synthesis of Achim's p8
+#C http://conwaylife.com/wiki/Achim%27s_p8
+x = 63, y = 58, rule = B3/S23
+o$b2o$2o8$28bo$29b2o$28b2o6$45bo$44bo$44b3o3$28bobo$29b2o$29bo2$37bo$
+35b2o$32bo3b2o$33b2o$32b2o12$57b2o$57bobo$57bo3$58b2o$57b2o$59bo5$61b
+2o$60b2o$62bo!

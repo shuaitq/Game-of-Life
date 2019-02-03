@@ -1,0 +1,9 @@
+#N p15bumper.rle
+#O Tanner Jacobi, 2016
+#C http://conwaylife.com/wiki/P15_bumper
+#C http://www.conwaylife.com/patterns/p15bumper.rle
+x = 72, y = 64, rule = B3/S23
+71bo$69b2o$70b2o9$59bo$58bo$58b3o17$b2o38bo$2o37b2o$2bo37b2o9$12b2o15b
+o$12bobo13bo$12bo15b3o9$6b2o4b2o6b2o$5bo2bo2bo2bo4bo2bo$5bo2bo2bo2bo5b
+obo$6bob4obo7bo$8bo2bo$25b2o$25bo$5b2o6b2o11b3o$3bo4bo2bo4bo11bo$3bo4b
+o2bo4bo$3bo4bo2bo4bo$5b2o6b2o!

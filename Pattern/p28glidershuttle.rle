@@ -1,0 +1,10 @@
+#N p28glidershuttle.rle
+#C http://conwaylife.com/wiki/34p14_shuttle
+#C http://www.conwaylife.com/patterns/p28glidershuttle.rle
+x = 42, y = 42, rule = B3/S23
+25b2o$17b2o5bob2o2b2o$17b2o5bobo3b2o$24bo$22bo2$22bo$24bo$17b2o5bobo3b
+2o$17b2o5bob2o2b2o$b2o5b2o15b2o$b2o5b2o3$bo7bo$3o5b3o$o9bo5b2o5bobo$b
+3o3b3o7b2o5b2o6b2o5b2o$16bo7bo7b2o5b2o$4bobo3$35bobo$b2o5b2o7bo7bo$b2o
+5b2o6b2o5b2o7b3o3b3o$16bobo5b2o5bo9bo$31b3o5b3o$32bo7bo3$32b2o5b2o$15b
+2o15b2o5b2o$10b2o2b2obo5b2o$10b2o3bobo5b2o$17bo$19bo2$19bo$17bo$10b2o
+3bobo5b2o$10b2o2b2obo5b2o$15b2o!

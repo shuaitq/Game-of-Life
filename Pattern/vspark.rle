@@ -1,0 +1,5 @@
+#N vspark.rle
+#C http://conwaylife.com/wiki/V_spark
+#C http://www.conwaylife.com/patterns/vspark.rle
+x = 3, y = 2, rule = B3/S23
+obo$bo!

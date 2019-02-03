@@ -1,0 +1,5 @@
+#N bananaspark.rle
+#C http://conwaylife.com/wiki/Banana_spark
+#C http://www.conwaylife.com/patterns/bananaspark.rle
+x = 7, y = 5, rule = B3/S23
+2bo$obo$b2o$4b2o$6bo!

@@ -1,0 +1,7 @@
+#N carriertieboat_synth.rle
+#C Glider synthesis of carrier tie boat
+#C http://conwaylife.com/wiki/Carrier_tie_boat
+#C http://conwaylife.com/patterns/carriertieboat_synth.rle
+x = 44, y = 45, rule = B3/S23
+43bo$41b2o$42b2o15$18bo$17bo$17b3o14bo$33bobo$18bo15b2o$17b2o17b2o$17b
+obo16bo$38bo$37b2o9$39b3o$39bo$40bo6$bo$b2o$obo!

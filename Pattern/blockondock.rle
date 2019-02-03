@@ -1,0 +1,5 @@
+#N blockondock.rle
+#C http://conwaylife.com/wiki/Block_on_dock
+#C http://conwaylife.com/patterns/blockondock.rle
+x = 6, y = 6, rule = B3/S23
+2o$obob2o$2bob2o$2bo$obo$2o!

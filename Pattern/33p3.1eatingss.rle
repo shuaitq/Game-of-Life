@@ -1,0 +1,9 @@
+#N 33p3.1eatingss.rle
+#C http://conwaylife.com/wiki/33P3.1
+#C http://conwaylife.com/patterns/33p3.1eatingss.rle
+x = 34, y = 45, rule = B3/S23
+13bo$13b3o$16bo$15b2o2$32b2o$31bo$30bo$31b3o$33bo$27bo$12bo5b4o4bobo$
+12bobo3bo3bo2bo2bo2b2o$12b2o4bo7b2o2bob2o$9b2o8bo2bo$8bobo$9bo$9b2o6b
+2o$10b3o3bo2bo$10bobo2bob2o$10bobob3o$9b3o2bobo$8bo5bob2o$8b2o5bo2bo$
+16b2o$5b3o$7bo$6bo4$5b3o$5bo2bo$5bo$5bo$6bobo$bo$obo$o2bo$b2o2$o5bo$bo
+3bobo$2o3bo2bo$o3b2o2bo!

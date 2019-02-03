@@ -1,0 +1,7 @@
+#N phoenix1_synth
+#O Boris Shemyakin, Extrementhusiast
+#C Glider synthesis of phoenix 1
+#C http://conwaylife.com/wiki/phoenix_1
+x = 33, y = 14, rule = B3/S23
+6bo$6bobo$6b2o$28bo$16bo11bobo$11bo3bo10bo$5b2o5b2ob3o13b2o$3ob2o5b2o
+12b2o$2bo3bo24bo$bo25bobo$29bo$10b2o$9bobo$11bo!

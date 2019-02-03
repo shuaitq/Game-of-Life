@@ -1,0 +1,8 @@
+#N oddkeys_synth
+#O Goldtiger997, Dave Greene
+#C Glider synthesis of odd keys
+#C http://www.conwaylife.com/wiki/Odd_keys
+x = 91, y = 90, rule = B3/S23
+bo$2bo$3o5$20bobo$21b2o25bo$21bo26bobo$48b2o10$26bo$24bobo$25b2o3$28bo
+4bo$29bob2o$27b3o2b2o5$11b2o$12b2o$11bo27$55b3o$55bo$56bo24$88b3o$88bo
+$89bo!

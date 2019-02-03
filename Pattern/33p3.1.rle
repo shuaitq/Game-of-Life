@@ -1,0 +1,6 @@
+#N 33p3.1.rle
+#C http://conwaylife.com/wiki/33P3.1
+#C http://conwaylife.com/patterns/33p3.1.rle
+x = 11, y = 12, rule = B3/S23
+4bo$3bobo3bo$3bobo2bobo$4bo3bobo$9bo$5b4o2$4b3o$7bo$2o3bobo$o2bobobobo
+$b2o5b2o!

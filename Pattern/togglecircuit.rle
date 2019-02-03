@@ -1,0 +1,8 @@
+#N togglecircuit.rle
+#C http://conwaylife.com/wiki/Toggle_circuit
+#C http://www.conwaylife.com/patterns/togglecircuit.rle
+x = 73, y = 23, rule = B3/S23
+32b2o$7b2o24bo$8bo13b2o6b3o$8bobo11b2o6bo$9b2o54b2o$65bobob2o$67bobo$
+36bo29b2obo$37bo31bob2o$37b2o27b4o2bo$36b2o2b2o24bo3b2o$9bo26bo3b2o25b
+3o$9bobo49b2o6bo$9b3o49b2o6bobo$11bo58b2o3$37b2o$37bo$2b2o14b2o3b2o13b
+o17b2o$3bo15bo3bo13b2o17b2o$3o13b3o5b3o$o15bo9bo!

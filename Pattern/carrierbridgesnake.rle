@@ -1,0 +1,5 @@
+#N carrierbridgesnake.rle
+#C http://conwaylife.com/wiki/Aircraft_carrier_bridge_snake
+#C http://conwaylife.com/patterns/carrierbridgesnake.rle
+x = 6, y = 6, rule = B3/S23
+2b2o$2bo2bo$2o2b2o$o$bo$2o!

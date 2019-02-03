@@ -1,0 +1,10 @@
+#N p11bumper.rle
+#O Tanner Jacobi, 2016
+#C http://conwaylife.com/wiki/P11_bumper
+#C http://www.conwaylife.com/patterns/p11bumper.rle
+x = 83, y = 77, rule = B3/S23
+80bobo$80b2o$81bo9$69bobo$69b2o$70bo22$2o43bo$obo41bo$o43b3o9$11b2o21b
+o$11bobo19bo$11bo21b3o12$16b2o4b2o$16b2o3bo2bo$10b2o10bobo$11bo11bo$9b
+o5bob2o$9b2o2b3obo9b2o$12bo2bobobo7bo$9b3obo2b2ob3o6b3o$8bo2bobo4bo3bo
+7bo$7bobobob4obo2bo$7bobobo4bobobo$8bo2b2ob2o2b2o$9b2o2bobobo$11b4o2bo
+$9b2o6b2o$9bo2bo$11b2o!

@@ -1,0 +1,7 @@
+#N caterer_synth
+#O Tanner Jacobi, Chris Cain
+#C Glider synthesis of Caterer
+#C http://conwaylife.com/wiki/caterer 
+x = 19, y = 20, rule = B3/S23
+10bo$8b2o$9b2o3$4bobo$5b2o$5bo4bobo4bo$10b2o4bo$4bo6bo4b3o$5bo$3b3o$
+15b2o$14bobo$16bo3$bo$b2o$obo!

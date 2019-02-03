@@ -1,0 +1,8 @@
+#N factory.rle
+#C http://conwaylife.com/wiki/Factory
+#C http://www.conwaylife.com/patterns/factory.rle
+x = 51, y = 24, rule = B3/S23
+23b2o24b2o$23b2o24b2o$41b2o$40bo2bo$41b2o2$36b3o$36bobo$9b2o25b3o$9b2o
+25b2o$8bo2bo23b3o$8bo2bob2o20bobo$8bo4b2o20b3o$10b2ob2o$31b2o$21b2o7bo
+2bo$21b2o8b2o$49b2o$49b2o2$4b2o18bo$2o4b4o10b2o2b2ob3o$2o2b2ob3o10b2o
+4b4o$4bo19b2o!

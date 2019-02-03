@@ -1,0 +1,6 @@
+#N trafficlightextrudereaction.rle
+#C http://conwaylife.com/wiki/Traffic_lights_extruder
+#C http://www.conwaylife.com/patterns/trafficlightextrudereaction.rle
+x = 51, y = 9, rule = B3/S23
+22bo23bo$22bo23bo$9b3o10bo10b3o10bo$b2o$3o4bo5bo4b3o3b3o4bo5bo4b3o3b3o
+$b2o4bo5bo17bo5bo$7bo5bo8bo8bo5bo8bo$22bo23bo$9b3o10bo10b3o10bo!

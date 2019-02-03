@@ -1,0 +1,8 @@
+#N turners.rle
+#C http://conwaylife.com/wiki/Turner
+#C http://www.conwaylife.com/patterns/turners.rle
+x = 56, y = 39, rule = B3/S23
+bo14bo14bo14bo$2bo14bo14bo14bo$3o12b3o12b3o12b3o4$5b2o8b2o15bo$4bobo7b
+obo14bobo15b3o$5bo8bo17bobo15b3o$13b2o18b2o6$bo14bo14bo14bo$2bo14bo14b
+o4b2o8bo$3o12b3o12b3o4b2o6b3o$54b2o$54b2o2$3bo15b2o$2bobo13bobo12b2o
+14b2o$bobo13bobo13b2o14b2o$b2o14b2o6$bo$2bo$3o4$4b2o$2bo2bo$2b2o!

@@ -1,0 +1,10 @@
+#N Fx176
+#O Paul Callahan, October 1997
+#C Repeat time 92 ticks, reducible to 73 ticks with alternate PF35W
+#C http://conwaylife.com/wiki/Fx176
+#C http://www.conwaylife.com/patterns/fx176.rle
+x = 50, y = 38, rule = B3/S23
+30b2o$30b2o2$17b2o$18bo$18bobo$19b2o3$14b2o$6bo7b2o$6b3o$9bo$8b2o2$2o$
+bo$bobo37b2o$2b2o38bo$42bobo$43bobo$44bo3b2o$48b2o3$2bo$2bobo31b2o11bo
+$2b3o31b2o9b3o$4bo42bo$47bo$14b2o8b2o$14b2o2b2o5bo$18bobob3o$20bobo$
+20b2o4b2o$25bobo4b2o$25bo6b2o$24b2o!

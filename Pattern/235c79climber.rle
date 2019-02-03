@@ -1,0 +1,7 @@
+#N (23,5)c/79 Herschel climber
+#C http://conwaylife.com/wiki/(23,5)c/79_Herschel_climber  
+#C http://conwaylife.com/patterns/235c79climber.rle
+x = 59, y = 98, rule = B3/S23
+58bo$56b2o$57b2o41$32bo$32bobo$32b2o15$18bo$16b2ob2o$16b2ob2o$17bob3o$
+16b3o4$17b2o$17b2o2$16bo$15bob2ob2o$14b2o4b2o$14b2ob2o$16bo8$23bo$24bo
+$22b3o10$2bo$2o$b2o!

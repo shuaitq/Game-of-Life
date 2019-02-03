@@ -1,0 +1,9 @@
+#N Fx158
+#O Dave Buckingham, July 1996
+#C Repeat time 176 ticks
+#C http://conwaylife.com/wiki/Fx158
+#C http://www.conwaylife.com/patterns/fx158.rle
+x = 30, y = 30, rule = B3/S23
+9bo4b2o$8bobo2bobo7b2o$7bo2b4o9bo$7bobo4bo6bobo$5b3ob2o2b2o6b2o$4bo$bo
+2b4ob2o$b3o3bob2o$4bo$3b2o7$29bo$27b3o$27bo$27bo$o$obo$3o$2bo2$15b2o$
+9b2o4bobo$10bo6bo$7b3o7b2o$7bo!

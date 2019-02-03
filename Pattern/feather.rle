@@ -1,0 +1,6 @@
+#N Feather
+#O Unknown
+#C http://conwaylife.com/wiki/Feather
+#C http://conwaylife.com/patterns/feather.rle
+x = 3, y = 4, rule = B3/S23
+2o$o$bo$2bo!

@@ -1,0 +1,7 @@
+#N 53p13.rle
+#O Bullet51, 2015
+#C http://conwaylife.com/wiki/53P13
+#C http://conwaylife.com/patterns/53p13.rle
+x = 14, y = 12, rule = B3/S23
+3b2o$3bo4b2obo$2obobo3b2obo$obob2obo4bo$2bo3bob4o$2bo3bo4bobo$b2obobob
+2o2b2o$o2b2obobo$bo3b2obo$2b2o3bo$4b3o$4bo!

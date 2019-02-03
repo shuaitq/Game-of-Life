@@ -1,0 +1,11 @@
+#N spacenonfiller.rle
+#C http://conwaylife.com/wiki/Space_nonfiller
+#C http://www.conwaylife.com/patterns/spacenonfiller.rle
+x = 37, y = 31, rule = B3/S23
+19b3o$18bo2bo$12b3o6bo4b3o$12bo2bobo3bo4bo2bo$12bo2bobo3bo4bo2bo$10bo
+10bo2bobob3o$10b2o2b2o2bobo4bo5bo$8bo16b2o2b3o$8b3obob2o10bo6bo$6bo8bo
+9bobo3b3o$6b3o5bo10bo8bo$3bobo25bob3o$2b5obo26bo$b2o6bo21b5o$2o4b2o18b
+obo$bobo3bo2bo15bo2bo3bobo$8bobo18b2o4b2o$b5o21bo6b2o$bo26bob5o$b3obo
+25bobo$2bo8bo10bo5b3o$3b3o3bobo9bo8bo$3bo6bo10b2obob3o$5b3o2b2o16bo$5b
+o5bo4bobo2b2o2b2o$6b3obobo2bo10bo$7bo2bo4bo3bobo2bo$7bo2bo4bo3bobo2bo$
+8b3o4bo6b3o$15bo2bo$15b3o!

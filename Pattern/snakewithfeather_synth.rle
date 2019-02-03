@@ -1,0 +1,9 @@
+#N snakewithfeather_synth.rle
+#O Martin Grant, February 2018
+#C 5-glider synthesis for snake with feather / 11.45
+#C http://conwaylife.com/wiki/Snake_with_feather
+#C http://conwaylife.com/patterns/snakewithfeather_synth.rle
+#C http://conwaylife.com/forums/viewtopic.php?f=2&amp;t=3267#p56602
+x = 30, y = 30, rule = B3/S23
+11bo$11bobo$11b2o4$9bo$8bo$8b3o5$9b2o$8b2o$10bo2$5bo$4b2o$4bobo$3o$2bo
+$bo4$23b2o$23bo2b2obo$24bobob2o$25bo!

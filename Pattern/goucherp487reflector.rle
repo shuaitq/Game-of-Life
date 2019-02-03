@@ -1,0 +1,18 @@
+#N goucherp487reflector.rle
+#C http://conwaylife.com/wiki/Staged_recovery
+#C http://www.conwaylife.com/patterns/goucherp487reflector.rle
+x = 259, y = 161, rule = B3/S23
+149b2o$149b2o3$147b2o$147b2o$134b2o$135bo102b2o$135bobo100b2o5b2o$136b
+2o107b2o$207b2o$207bobo$209bo14b2o17b2o$125b2o82b2o14bo17b2o$126bo98bo
+bo21b2o$126bobo97b2o21b2o$127b2o2$145b2o37b2o$145b2o37b2o26b2o$212b2o$
+156b2o$155bo2bo$155bobo$156bo3$222b2o$223bo28b2o$207b2o11b3o29bo$138b
+2o67b2o11bo29bobo$138b2o110b2o2$193b2o23b2o$194bo23bo$162bo28b3o22bobo
+$162b3o26bo24b2o$122b3o40bo37b2o$124bo39b2o37bo$123bo80b3o$206bo3$249b
+2o$233b2o14b2o$174b2o58bo22b2o$167b2o5bobo54b3o23bo$167b2o7bo54bo23bob
+o$176b2o77b2o2$228bo$226b3o$225bo11bo$225b2o10b3o$168b2o70bo$168b2o69b
+2o$179b2o53bo$162b2o8bo6bo54b3o$161bobo7bobo3bobo57bo$161bo9b2o4b2o57b
+2o$160b2o3$163b2o$162bobo$162bo70b2o$161b2o70b2o17b2o$252b2o2$190b2o$
+170b2o18bo62b2o$170b2o16bobo62bo$188b2o50b2o12b3o$223b2o16bo14bo$223bo
+14b3o$224b3o11bo$179bo46bo$178bobo$179bo$222b2o$207b2o13bobo$207b2o3b
+2o10bo$212b2o10b2o2$178b2o$178b2o33b2o$207b2o4bo$207b2o5b3o$216bo2$
+196b2o$196bobo$198bo$184b2o12b2o$184b2o64$bo$b2o$obo!

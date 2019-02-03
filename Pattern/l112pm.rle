@@ -1,0 +1,7 @@
+#N l112pm.rle
+#C http://conwaylife.com/wiki/Period_multiplier
+#C http://conwaylife.com/patterns/l112pm.rle
+x = 43, y = 49, rule = B3/S23
+34b2o$34bo$32b3o16$32b2o$23b2o7b2o$24bo$24bobo$19b2o4b2o$b2o17bo20b2o$
+2bo17bobo18bo$bo19b2o16bobo$b2o36b2o6$o3b2o$2o2b2o$b2o$2o2$35b2o$35bo$
+36b3o$38bo5$21b2o$22bo$21bo$21b2o!

@@ -1,0 +1,5 @@
+#N remarkablylonghookwithtail.rle
+#C http://conwaylife.com/wiki/Remarkably_long_hook_with_tail
+#C http://conwaylife.com/patterns/remarkablylonghookwithtail.rle
+x = 6, y = 9, rule = B3/S23
+3bo$b3o$o$bo$2bo$3bo$4bo$5bo$4b2o!

@@ -1,0 +1,9 @@
+#N copperhead_synth
+#O 2718281828
+#C 13-glider synthesis of copperhead
+#C http://conwaylife.com/wiki/Copperhead
+#C http://www.conwaylife.com/forums/viewtopic.php?p=54874#p54874
+x = 48, y = 46, rule = B3/S23
+3bo$bobo$2b2o11$28b2o$27b2o$24b2o3bo$23bobo$25bo$33b3o3b2o$35bo2b2o$
+34bo5bo10$2o38bo$b2o36b2o$o38bobo2$3b2o8bo$2bobo8b2o$4bo7bobo$7b2o36b
+2o$6bobo36bobo$8bo36bo$11b3o$13bo$12bo$42b3o$42bo$43bo!

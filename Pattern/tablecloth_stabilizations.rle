@@ -1,0 +1,14 @@
+#N Tablecloth agar stabilizations
+#C http://conwaylife.com/wiki/Tablecloth
+x = 50, y = 30, rule = B3/S23
+20b2obo2bobo2bobo2bobo2bobo2bob2o$20b2ob4ob4ob4ob4ob4ob2o2$20b2ob4ob4o
+b4ob4ob4ob2o$21bobo2bobo2bobo2bobo2bobo2bobo$21bobo2bobo2bobo2bobo2bob
+o2bobo$20b2ob4ob4ob4ob4ob4ob2o2$20b2ob4ob4ob4ob4ob4ob2o$21bobo2bobo2bo
+bo2bobo2bobo2bobo$o2bo2bo2bo11bobo2bobo2bobo2bobo2bobo2bobo$4o2b4o10b
+2ob4ob4ob4ob4ob4ob2o2$2ob4ob2o10b2ob4ob4ob4ob4ob4ob2o$bobo2bobo12bobo
+2bobo2bobo2bobo2bobo2bobo$bobo2bobo12bobo2bobo2bobo2bobo2bobo2bobo$2ob
+4ob2o10b2ob4ob4ob4ob4ob4ob2o2$4o2b4o10b2ob4ob4ob4ob4ob4ob2o$o2bo2bo2bo
+11bobo2bobo2bobo2bobo2bobo2bobo$21bobo2bobo2bobo2bobo2bobo2bobo$20b2ob
+4ob4ob4ob4ob4ob2o2$20b2ob4ob4ob4ob4ob4ob2o$21bobo2bobo2bobo2bobo2bobo
+2bobo$21bobo2bobo2bobo2bobo2bobo2bobo$20b2ob4ob4ob4ob4ob4ob2o2$20b2ob
+4ob4ob4ob4ob4ob2o$20b2obo2bobo2bobo2bobo2bobo2bob2o!

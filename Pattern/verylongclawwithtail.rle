@@ -1,0 +1,5 @@
+#N verylongclawwithtail.rle
+#C http://conwaylife.com/wiki/Very_long_claw_with_tail
+#C http://www.conwaylife.com/patterns/verylongclawwithtail.rle
+x = 8, y = 4, rule = B3/S23
+2o3b2o$bo2bo2bo$bobo2b2o$2bo!

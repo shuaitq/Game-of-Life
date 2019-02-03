@@ -1,0 +1,5 @@
+#N halfbakery.rle
+#C http://conwaylife.com/wiki/Half-bakery
+#C http://conwaylife.com/patterns/halfbakery.rle
+x = 7, y = 7, rule = B3/S23
+5bo$4bobo$3bo2bo$2bob2o$bobo$o2bo$b2o!

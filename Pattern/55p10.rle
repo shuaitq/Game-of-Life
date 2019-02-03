@@ -1,0 +1,7 @@
+#N 55p10.rle
+#O Bullet51, 2018
+#C http://conwaylife.com/wiki/55P10
+#C http://conwaylife.com/patterns/55p10.rle
+x = 21, y = 9, rule = B3/S23
+3b2o11b2o$b3ob2ob2ob2ob2ob3o$o8bobo8bo$b5obobobobob5o$6b2obobob2o$3b2o
+5bo5b2o$3bo13bo$4bo11bo$3b2o11b2o!

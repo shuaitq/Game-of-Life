@@ -1,0 +1,8 @@
+#N (34,7)c/156 Herschel climber
+#O Unknown
+#C http://conwaylife.com/wiki/(34,7)c/156_Herschel_climber
+#C http://conwaylife.com/patterns/347c156climber.rle
+x = 303, y = 60, rule = B3/S23
+302bo$301b2o$300b2o$301b2o6$238b2o$238b2o6$204b2o$204b2o6$170b2o$170b
+2o6$136b2o$136b2o104b2o$241bobo$243bo4$102b2o$102b2o6$68b2o$68b2o6$34b
+2o$34b2o6$2o$2o!

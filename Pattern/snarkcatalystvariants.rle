@@ -1,0 +1,17 @@
+#N snarkcatalystvariants.rle
+#C four Snark catalyst variants
+#C    Top:  original variant by Mike Playle
+#C   Left:  Shannon Omick (better clearance on a diagonal)
+#C  Right:  Heinrich Koenig (better clearance on a different diagonal)
+#C Bottom:  Simon Ekstrom (better clearance on two diagonals)
+#C http://conwaylife.com/wiki/Snark
+#C http://www.conwaylife.com/patterns/snarkcatalystvariants.rle
+x = 51, y = 52, rule = B3/S23
+20b2o$20bobo$22bo4b2o$18b4ob2o2bo2bo$18bo2bobobobob2o$21bobobobo$22b2o
+bobo$26bo2$12b2o$13bo7b2o$13bobo5b2o$14b2o25bo$39b3o$38bo$38b2o3$46b2o
+$24b2o21bo$24bo22bob2o$14b3o8b3o11b2o4b3o2bo$4bo11bo10bo11b2o3bo3b2o$
+2b5o8bo5b2o21b4o$bo5bo13bo8b2o15bo$bo2b3o12bobo7bobo12b3o$2obo15b2o8bo
+13bo$o2b4o21b2o14b5o$b2o3bo3b2o11bo22bo2bo$3b3o4b2o11b3o22b2o$3bo22bo$
+2obo21b2o$2ob2o3$11b2o$12bo$9b3o$9bo25b2o$28b2o5bobo$28b2o7bo$37b2o2$
+24bo$23bobob2o4b2o$23bobobobo2bo2bo$22b2obobobo3b2o$23bo2b2ob4o$23bo4b
+o3bo$24b3obo2bo$26bobobo$29bo!

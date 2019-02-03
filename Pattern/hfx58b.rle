@@ -1,0 +1,13 @@
+#N hfx58b.rle
+#O Paul Callahan, 1997
+#C http://conwaylife.com/wiki/HFx58B
+#C http://www.conwaylife.com/patterns/hfx58b.rle
+x = 32, y = 92, rule = B3/S23
+25bo$23b3o$10bo11bo$10b3o10bo$13bo$2o10b2o$bo$bobo$2b2o$21bo3b2o$21b2o
+2b2o$23bo$21b2o3$2bo$2bobo$2b3o$4bo11b2o$16bo6bo$17b3o2bo$19bo3b3o$25b
+o8$25bo$23b3o$10bo11bo$10b3o10bo$13bo$2o10b2o$bo$bobo$2b2o$21bo3b2o$
+21b2o2b2o$23bo$21b2o3$2bo$2bobo$2b3o$4bo10b2o$15b2o$11b2o$12bo$9b3o$9b
+o8$16bo2$14bob3o$16b2obo8bo$16bob2o6b3o$17b3obo3bo$25b2o$19bo$23bo$10b
+o11bobo$10b3o10b2o2b2o$13bo13b2o$2o10b2o$bo$bobo$2b2o$21bo$21b2o8bo$
+23bo5b3o$21b2o6bo$29bo2$2bo$2bobo$2b3o$4bo10b2o$15b2o$11b2o$12bo$9b3o$
+9bo!

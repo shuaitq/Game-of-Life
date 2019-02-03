@@ -1,0 +1,8 @@
+#N twopulsarquadrants_synth
+#O
+#C Glider synthesis of two pulsar quadrants
+#C http://conwaylife.com/wiki/Two_pulsar_quadrants
+x = 28, y = 38, rule = B3/S23
+25bo$25bobo$25b2o7$bo$2b2o$b2o3$19bo$17b2o$18b2o$2bo$obo$b2o6bo11bo$7b
+obo11bobo$8b2o11b2o11$12b3o2b2o3bo$14bo3b2ob2o$13bo3bo3bobo$26bo$25b2o
+$25bobo!

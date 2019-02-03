@@ -1,0 +1,5 @@
+#N verylongship.rle
+#C http://conwaylife.com/wiki/Very_long_ship
+#C http://conwaylife.com/patterns/verylongship.rle
+x = 5, y = 5, rule = B3/S23
+2o$obo$bobo$2bobo$3b2o!

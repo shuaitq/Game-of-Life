@@ -1,0 +1,9 @@
+#N p6bouncer.rle
+#O Noam Elkies, 1998
+#C http://conwaylife.com/wiki/P6_bouncer
+#C http://www.conwaylife.com/patterns/p6bouncer.rle
+x = 61, y = 55, rule = B3/S23
+39bo$39b3o10b2o$42bo8bo2bo$41b2o8bobobo$50b2obobo$44bo5bo3bob2o$43bobo
+4b3obo2bo$39b2o2b2o5bo2bobobob2o$39b2o9b2o5bo2bo$51bobo4b2o$51bob5o$
+52bo4bo$53b4o$55bo$57bo$56b2o7$30b3o$32bo$31bo4$24b3o$26bo$25bo16$6b3o
+$8bo$7bo4$3o$2bo$bo!

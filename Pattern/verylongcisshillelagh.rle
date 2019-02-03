@@ -1,0 +1,5 @@
+#N verylongcisshillelagh.rle
+#C http://conwaylife.com/wiki/Very_long_cis-shillelagh
+#C http://www.conwaylife.com/patterns/verylongcisshillelagh.rle
+x = 7, y = 8, rule = B3/S23
+b2o$obo$o$bo$2bo$3bo$4bobo$5b2o!

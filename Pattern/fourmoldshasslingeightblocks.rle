@@ -1,0 +1,8 @@
+#N fourmoldshasslingeightblocks.rle
+#C http://conwaylife.com/wiki/Four_molds_hassling_eight_blocks
+#C http://conwaylife.com/patterns/fourmoldshasslingeightblocks.rle
+x = 26, y = 26, rule = B3/S23
+13b2o$12bo2bo$10bo2bobo$14bo$10bob2o$11bo$3b3o$bob3o$obobo3b2o6b2o$o2b
+o4b2o2bobob2o$b2o10bo$8b2o$8b2o$16b2o$16b2o$23b2o$8b2ob2o3b2o4bo2bo$8b
+2ob2o3b2o5bobo$21b2obo$21b3o$6bobo12b2o$5bo$6bo2bo$6bobobo$7bo2bo$8b2o
+!

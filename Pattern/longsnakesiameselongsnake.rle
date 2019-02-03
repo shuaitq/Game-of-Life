@@ -1,0 +1,5 @@
+#N longsnakesiameselongsnake.rle
+#C http://conwaylife.com/wiki/Long_snake_siamese_long_snake
+#C http://conwaylife.com/patterns/longsnakesiameselongsnake.rle
+x = 4, y = 9, rule = B3/S23
+2b2o$3bo$2bo$bo$b2o$2bo$bo$o$2o!

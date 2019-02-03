@@ -1,0 +1,10 @@
+#N p130shuttle.rle
+#O David Eppstein, 2004
+#C http://conwaylife.com/wiki/P130_shuttle
+#C http://www.conwaylife.com/patterns/p130shuttle.rle
+x = 46, y = 27, rule = B3/S23
+5b2o32b2o$5b2o32b2o3$20b2o$2o4b2o11bo18b2o4b2o$2o3bo2bo10b3o16bobo3b2o
+$5bobo16bo13b3o$6bo15b2ob3o$22b2o3bo$3bo17bo20bo$2bobo17bo3bo14bobo$2b
+2o18b4o16b2o2$2b2o18b4o16b2o$2bobo17bo3bo14bobo$3bo17bo20bo$22b2o3bo$
+6bo15b2ob3o$5bobo16bo13b3o$2o3bo2bo10b3o16bobo3b2o$2o4b2o11bo18b2o4b2o
+$20b2o3$5b2o32b2o$5b2o32b2o!

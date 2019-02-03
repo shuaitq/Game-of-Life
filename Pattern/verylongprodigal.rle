@@ -1,0 +1,5 @@
+#N verylongprodigal.rle
+#C http://conwaylife.com/wiki/Very_long_prodigal
+#C http://www.conwaylife.com/patterns/verylongprodigal.rle
+x = 8, y = 4, rule = B3/S23
+bo$obo2b2o$bo2bo2bo$2b2o2b2o!

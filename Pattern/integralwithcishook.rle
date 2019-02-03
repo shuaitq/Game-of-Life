@@ -1,0 +1,5 @@
+#N integralwithcishook.rle
+#C http://conwaylife.com/wiki/Integral_with_cis-hook
+#C http://conwaylife.com/patterns/integralwithcishook.rle
+x = 7, y = 5, rule = B3/S23
+2o3b2o$obo3bo$2bo2bo$2bobo$3bo!

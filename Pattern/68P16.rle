@@ -1,0 +1,8 @@
+#N 68P16.rle
+#O carybe, 2018
+#C http://conwaylife.com/wiki/68P16
+#C http://conwaylife.com/patterns/68P16.rle
+x = 20, y = 20, rule = B3/S23
+10b2o3b2o$10b2o3b2o$6bo$2o3b2o$2o2bo10bo$5bo3b2o2b2obo$5bo3bo6b2o2$2o$
+2o3bo7b2o$5b2o7bo3b2o$18b2o2$2b2o6bo3bo$3bob2o2b2o3bo$4bo10bo2b2o$13b
+2o3b2o$13bo$3b2o3b2o$3b2o3b2o!

@@ -1,0 +1,5 @@
+#N loafbacktieloaf.rle
+#C http://conwaylife.com/wiki/Loaf_back_tie_loaf
+#C http://conwaylife.com/patterns/loafbacktieloaf.rle
+x = 6, y = 6, rule = B3/S23
+b2o$o2bo$obobo$bobobo$2bo2bo$3b2o!

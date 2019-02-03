@@ -1,0 +1,7 @@
+#N p184gun.rle
+#O David Buckingham, 1996
+#C http://conwaylife.com/wiki/Period-184_glider_gun
+#C http://www.conwaylife.com/patterns/p184gun.rle
+x = 31, y = 31, rule = B3/S23
+19bo$17b3o$16bo$16b2o$30bo$28b3o$27bo$27b2o5$20b2o$19bobo$19bo$19b2obo
+$2b2o17b2o$bobo$bo$2o8$6b2o$5bobo$5bo$4b2o!

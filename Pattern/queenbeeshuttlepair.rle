@@ -1,0 +1,6 @@
+#N queenbeeshuttlepair.rle
+#C http://conwaylife.com/wiki/Queen_bee_shuttle_pair
+#C http://www.conwaylife.com/patterns/queenbeeshuttlepair.rle
+x = 25, y = 27, rule = B3/S23
+23bo$22bo$22b3o2$13bo$12bobo$12b2obo$12b2ob2o$12b2obo$2b2o8bobo$bobo9b
+o4b3o$bo16b3o$2o15bo3bo$16bo5bo$17bo3bo$18b3o8$16b2o$17bo$14b3o$14bo!

@@ -1,0 +1,8 @@
+#N p3bumper.rle
+#O Arie Paap, 2018
+#C http://conwaylife.com/wiki/P3_bumper
+#C http://www.conwaylife.com/patterns/p3bumper.rle
+x = 59, y = 52, rule = B3/S23
+58bo$56b2o$57b2o7$49bo$47b2o$48b2o14$3o29bo$o31bobo$bo30b2o7$9b3o11bo$
+9bo13bobo$10bo12b2o2$2bo$2b3o$5bo$4b2o2$6b2obo6b2o$6bo4bo3bo2bo$7b2o2b
+o4bobo$7bo3bo5bo$8bo$8bob2obo7b2o$12bo8bo$12bo9b3o$24bo!

@@ -1,0 +1,9 @@
+#N period90glidergun.rle
+#O Dean Hickerson
+#C http://conwaylife.com/wiki/Period-90_glider_gun
+#C http://www.conwaylife.com/patterns/period90glidergun.rle
+x = 64, y = 26, rule = B3/S23
+39bo$39bobo$32b2o8b2o6b2o$27bo3bo2bo7b2o4bo3bo$26b8o8b2o3bo5bo$9b2o14b
+2obob2o7bobo4b2obo3bo8b2o$9bo2bo11b3obo2bo7bo7bo5bo8b2o$b5o7bo11b2obob
+o17bo3bo$o5bo6bo12b4o20b2o$o3b2o7bo7bo5bo12bo$bo7bo2bo9bo15b2o$9b2o9b
+3o16b2o3$43b2o$43b2o2$29bo$27bobo$28b2o3$40b2o$40bo$41b3o$43bo!

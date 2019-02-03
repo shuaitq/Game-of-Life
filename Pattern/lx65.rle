@@ -1,0 +1,21 @@
+#N lx65.rle
+#C http://conwaylife.com/wiki/Lx65
+#C http://www.conwaylife.com/patterns/lx65.rle
+x = 75, y = 67, rule = B3/S23
+2bo36bo$2b3o34b3o$5bo2b2o32bo2b2o$4bo2bobo3b2o26bo2bobo3b2o$3bob2o7bo
+25bob2o7bo$3bobo8b3o23bobo8b3o$2b2obo2bo30b2obo2bo$bo3bobobo28bo3bobob
+o$o2b3ob2o28bo2b3ob2o$3o34b3o19b2o$3bo36bo17bo2bo$2b2o5bobobo8bo16b2o
+5bobobo6bo4bo$21b2o33bo6bo$13bo32bo9bo6bo$19b3o2bobo30bo4bo$9bobobo7bo
+b4o19bobobo7bo2bo$25b2o32b2o$13bo36bo$bo36bo$bobo5bobobo24bobo5bobobo$
+b3o12b2o20b3o12b2o$3bo11bo2bo2b2o17bo11bo2bo2b2o$15bobo4bo2bo26bobo4bo
+2bo$16bo5bobobo26bo5bobobo$19b2obo2bo30b2obo2bo$19bo2bo33bo2bo$16bo4bo
+31bo4bo$16b5o32b5o2$18bo36bo$17bobo34bobo$18bo36bo4$2bo36bo$2b3o34b3o$
+5bo2b2o32bo2b2o$4bo2bobo3b2o26bo2bobo3b2o$3bob2o7bo25bob2o7bo$3bobo8b
+3o23bobo8b3o$2b2obo2bo30b2obo2bo$bo3bobobo28bo3bobobo$o2b3ob2o28bo2b3o
+b2o$3o26b2o6b3o22b2o3b2o$3bo24bobo9bo21bobobobo$2b2o5bo3bo12b3o10b2o5b
+obobo12bo3bo$25bo3bo$9bo3bo7b5o2b2o16bo11bobobo5bobobo$20b3ob2o30b3obo
+b2o3b2obob3o$9bobobo7b5o2b2o16bobobo7bobobo5bobobo$25bo3bo$13bo12b3o
+17bo3bo12bo3bo$bo26bobo7bo23bobobobo$bobo9bo15b2o7bobo5bobobo11b2o3b2o
+$b3o12b2o20b3o12b2o$3bo11bo2bo2b2o17bo11bo2bo2b2o$15bobo4bo2bo26bobo4b
+o2bo$16bo5bobobo26bo5bobobo$19b2obo2bo30b2obo2bo$19bo2bo33bo2bo$16bo4b
+o31bo4bo$16b5o32b5o2$18bo36bo$17bobo34bobo$18bo36bo!

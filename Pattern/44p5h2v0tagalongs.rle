@@ -1,0 +1,16 @@
+#N 44P5H2V0
+#O Dean Hickerson
+#C The first 2c/5 orthogonal spaceship, discovered on July 23, 1991
+#C http://www.conwaylife.com/wiki/44P5H2V0
+#C http://www.conwaylife.com/patterns/44p5h2v0tagalongs.rle
+x = 66, y = 35, rule = B3/S23
+6bobo19bobo23bobo$3bo4bo16bo4bo20bo4bo$2b3o4bo14b3o4bo18b3o4bo$bobo19b
+obo23bobo$2o2b2o4bo11b2o2b2o4bo15b2o2b2o4bo$b2o2b5o13b2o2b5o17b2o2b5o
+4$b2o2b5o13b2o2b5o17b2o2b5o$2o2b2o4bo11b2o2b2o4bo15b2o2b2o4bo$bobo19bo
+bo23bobo$2b3o4bo14b3o4bo18b3o4bo$3bo4bo16bo4bo20bo4bo$6bobo19bobo23bob
+o$11bo21bo25bo4b2o$11bobo19bobo23bobo2b2o$10bo2bo18bo2bo2b3o17bo2bo$
+11bobo19bobo2b2o19bobo2b2o$11bo21bo25bo4b2o$6bobo19bobo23bobo$3bo4bo
+16bo4bo20bo4bo$2b3o4bo14b3o4bo18b3o4bo$bobo19bobo23bobo$2o2b2o4bo11b2o
+2b2o4bo15b2o2b2o4bo$b2o2b5o13b2o2b5o17b2o2b5o4$b2o2b5o13b2o2b5o17b2o2b
+5o$2o2b2o4bo11b2o2b2o4bo15b2o2b2o4bo$bobo19bobo23bobo$2b3o4bo14b3o4bo
+18b3o4bo$3bo4bo16bo4bo20bo4bo$6bobo19bobo23bobo!

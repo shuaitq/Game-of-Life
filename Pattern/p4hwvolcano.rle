@@ -1,0 +1,6 @@
+#N p4hwvolcano.rle
+#C http://conwaylife.com/wiki/Heavyweight_emulator
+#C http://conwaylife.com/patterns/p4hwvolcano.rle
+x = 20, y = 18, rule = B3/S23
+9b2o$7bo4bo3$5b10o$5b2o6b2o$4b2o8b2o$4bo10bo2$2b3o10b3o$2b4o2bo2bo2b4o
+$bo6b4o6bo$b6o6b6o$o5b8o5bo$b5o2bo2bo2b5o$5bo8bo$3bo12bo$3b2o10b2o!

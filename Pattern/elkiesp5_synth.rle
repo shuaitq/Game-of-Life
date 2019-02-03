@@ -1,0 +1,7 @@
+#N elkiesp5_synth
+#O Martin Grant, Brett Berger
+#C Glider synthesis of Elkie's p5
+#C http://conwaylife.com/wiki/Elkies%27_p5
+x = 29, y = 30, rule = B3/S23
+3bo$4bo10bo$2b3o9bo$9bo4b3o$bo8bo$b2o5b3o$obo2$13bo$13bobo10bo$13b2o
+11bobo$26b2o15$23bo$6b3o13b2o$8bo13bobo$7bo!

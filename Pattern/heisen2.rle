@@ -1,0 +1,10 @@
+#N heisen2.rle
+#C http://conwaylife.com/wiki/Heisenburp
+#C http://www.conwaylife.com/patterns/heisen2.rle
+x = 91, y = 33, rule = B3/S23
+46b2o$46bo$44bobo$45bo3$45b2o$53bo$44b2o7bobo$43bobo7b3o$43bo11bo$43bo
+bo$44b2o19bo11bo11bo$64b3o9b3o9b3o$45b2o16b2obo8b2obo8b2obo$63b3o9b3o
+9b3o$63b3o9b3o9b3o$63b3o9b3o9b3o$57b2o5b2o10b2o10b2o$56bobo12bo11bo$b
+2o3b2o3b2o43b2o12b3o9b3o$obo2bobo2bobo30b2o24b2obo8b2obo$2bo4bo4bo30b
+2o24b3o9b3o$69b3o9b3o$45bo23b3o9b3o$6b2o3b2o57b2o10b2o$5bobo2bobo64bo$
+7bo4bo63b3o$75b2obo$75b3o$11b2o62b3o$10bobo62b3o$12bo63b2o!

@@ -1,0 +1,6 @@
+#N buckaroo180.rle
+#C http://conwaylife.com/wiki/Buckaroo
+#C http://www.conwaylife.com/patterns/buckaroo180.rle
+x = 23, y = 27, rule = B3/S23
+20bo$20bobo$20b2o16$10bo$8bobo$7bobo$6bo2bo11b2o$7bobo11b2o$2b2o4bobo$
+bobo6bo$bo$2o!

@@ -1,0 +1,8 @@
+#N p15bouncer.rle
+#O Karel Suhajda, 2002
+#C http://conwaylife.com/wiki/P15_bouncer
+#C http://www.conwaylife.com/patterns/p15bouncer.rle
+x = 55, y = 52, rule = B3/S23
+53bo$52bo$52b3o6$45bo$45bobo$45b2o11$bo$2o$obo27bo$30bobo$30b2o4$8b2o$
+7b2o14bo$9bo12bo$22b3o8$20b2o$4bo4bo6b2o2b2o$4b6o5bobo$4bo4bo6bo2$18b
+2o$18bo$4b6o9b3o$3bo6bo10bo$2bo8bo$3bo6bo$4b6o!

@@ -1,0 +1,5 @@
+#N Blinker (rotor)
+#C http://conwaylife.com/wiki/Blinker_(rotor)
+#C http://conwaylife.com/patterns/blinkerrotor.rle
+x = 3, y = 1, rule = B3/S23
+obo!
