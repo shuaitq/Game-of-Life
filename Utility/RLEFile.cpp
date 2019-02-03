@@ -82,7 +82,7 @@ void RLEFile::read(const std::string &path, int &width, int &height, std::array<
                     if(*it == 's' || *it == 'S')
                     {
                         ++ it;
-                        while(it != line.cend())
+                        while(*it <= '9' && *it >= '0')
                         {
                             survive[*it - '0'] = true;
                             ++ it;
@@ -104,7 +104,7 @@ void RLEFile::read(const std::string &path, int &width, int &height, std::array<
                         ++ it;
                     }
                     ++ it;
-                    while(it != line.end())
+                    while(*it <= '9' && *it >= '0')
                     {
                         born[*it - '0'] = true;
                         ++ it;
