@@ -30,7 +30,9 @@
 ## 怎么构建
 1. 使用下载.zip或是git clone把代码下载下来。
 2. 进入目录，使用make命令进行构建，构建成功后可以使用make clean把编译过程中的.o文件删除。
+
 **请确认您已经安装了make和支持C++11的C++编译器（默认使用g++，可以在Makefile修改）**
+
 3. 使用./Game.out运行。
 4. 接下来你就可以使用Pattern文件夹中的RLE文件，或者你自己的RLE文件去simulate the world了。
 
