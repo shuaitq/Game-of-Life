@@ -12,6 +12,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shuaitq/Game-of-Life/blob/master/Image/otcametapixel.png"><img src="https://github.com/shuaitq/Game-of-Life/raw/master/Image/otcametapixel.png" width="200pt" height="200pt"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shuaitq/Game-of-Life/blob/master/Image/wings.gif"><img src="https://github.com/shuaitq/Game-of-Life/blob/master/Image/wings.gif" width="200pt" height="200pt"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shuaitq/Game-of-Life/blob/master/Image/stilllifes.png"><img src="https://github.com/shuaitq/Game-of-Life/blob/master/Image/stilllifes.png" width="216pt" height="152pt"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/shuaitq/Game-of-Life/blob/master/Image/stargate.gif"><img src="https://github.com/shuaitq/Game-of-Life/blob/master/Image/stargate.gif" width="232.5pt" height="189pt"></a>
 
 ### 生命游戏的规则
 #### 最为经典的「B3S23」
