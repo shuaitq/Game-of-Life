@@ -1,11 +1,4 @@
 # Game of life - 生命游戏
-## 首先
-这是一个用C++写的进行生命游戏并保存为[ppm](https://en.wikipedia.org/wiki/Netpbm_format)图片格式的项目。
-你能够通过简单的修改配置文件自定义：
-* 初始页面的大小。
-* 初始页面状态。
-* 游戏规则。
-* 生命迭代的代数。
 
 ## 关于生命游戏
 > 康威生命游戏（英语：Conway's Game of Life），又称康威生命棋，是英国数学家约翰·何顿·康威在1970年发明的细胞自动机。它最初于1970年10月在《科学美国人》杂志上马丁·葛登能的“数学游戏”专栏出现。
@@ -26,35 +19,32 @@
 
 就这样简单的规则和初始状态决定了生命游戏的发展。
 
-## 怎么使用
+## 特性
+* 使用C++进行编写
+* 能够读取通用[RLE](http://www.conwaylife.com/wiki/RLE)模式文件
+* 能够将模拟结果保存为[PPM](https://en.wikipedia.org/wiki/Netpbm_format)图片
+* 能够通过简单的命令行参数设置模拟用的模式文件和模拟次数
+
+## 怎么构建
 1. 使用下载.zip或是git clone把代码下载下来。
 2. 进入目录，使用make命令进行构建，构建成功后可以使用make clean把编译过程中的.o文件删除。
-**请确认您已经安装了make g++ 并且g++支持c++11**
-3. 运行使用./Game.out json配置文件位置 你可以了解设置相关参数的方法。
-4. 接下来你就可以通过使用自带的几个demo，或者你自己写的文件去make the world了。
+**请确认您已经安装了make和支持C++11的C++编译器（默认使用g++，可以在Makefile修改）**
+3. 使用./Game.out运行。
+4. 接下来你就可以使用Pattern文件夹中的RLE文件，或者你自己的RLE文件去simulate the world了。
 
-## 配置文件怎么写
-```json
-{
-    "height":5,                     高
-    "width":5,                      宽
-    "time":20,                      迭代次数
-    "path":"Photo/",                图片存放位置
-    "rules":[0,0,1,2,0,0,0,0,0],    规则
-    "init":[[0,0,0,0,0],            页面初始化状态
-            [0,0,0,1,0],
-            [0,1,0,1,0],
-            [0,0,1,1,0],
-            [0,0,0,0,0]]
-}
+## 怎么使用
+```shell
+./Game.out -p [RLE文件目录] -t [模拟次数]
+Example:
+    ./Game.out -p Pattern/otcametapixel.rle -t 100
 ```
 
 **Have a good time.**
 
-## 性能
-
-1. **使用了OpenMP对程序进行并行化处理**
-2. **使用了多线程对ppm文件进行异步化读写，减少因为读写IO的阻塞**
+## 感谢
+* 感谢[LifeWiki](http://www.conwaylife.com/wiki/Main_Page)完整的各种资料，包括且不限于：
+    1. 完整的RLE文件格式文档。
+    2. 巨量的RLE模式文件总计2000+，和各个模式的资料。
 
 ## 最后
 邮箱 <i@shuaitq.com>
