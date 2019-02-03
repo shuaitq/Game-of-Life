@@ -9,8 +9,8 @@
 简而言之就是，在一个二维空间内每一个格子就是一个「细胞」，每个细胞存在着两种状态，生和死，并通过一定的规则进行演算的结果。结果就像下面这张图一样  
 
 ## 运行结果
-<img src = "https://github.com/shuaitq/Game-of-Life/blob/master/Image/otcametapixel.png" width = "200" height = "200"/>
-<img src = "https://github.com/shuaitq/Game-of-Life/blob/master/Image/wings.gif" width = "200" height = "200"/>
+<img src = "https://github.com/shuaitq/Game-of-Life/blob/master/Image/otcametapixel.png" width = "200pt" height = "200pt"/>
+<img src = "https://github.com/shuaitq/Game-of-Life/blob/master/Image/wings.gif" width = "200pt" height = "200pt"/>
 
 ### 生命游戏的规则
 #### 最为经典的「B3S23」
