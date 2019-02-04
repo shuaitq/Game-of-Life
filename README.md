@@ -6,7 +6,7 @@
 
 维基百科链接[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
 
-简而言之就是，在一个二维空间内每一个格子就是一个「细胞」，每个细胞存在着两种状态，生和死，并通过一定的规则进行演算的结果。结果就像下面这张图一样  
+简而言之就是，在一个二维空间内每一个格子就是一个「细胞」，每个细胞存在着两种状态，生和死，并通过一定的规则进行演算的结果。结果如下
 
 ## 运行结果
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shuaitq/Game-of-Life/blob/master/Image/otcametapixel.png"><img src="https://github.com/shuaitq/Game-of-Life/raw/master/Image/otcametapixel.png" width="200pt" height="200pt"></a>
