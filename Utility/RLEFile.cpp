@@ -98,12 +98,25 @@ void RLEFile::read(const std::string &path, int &width, int &height, std::array<
                 else
                 {
                     // rule = 23/3
+                    // rule = s23/b3
+
+                    if(*it == 's' || *it == 'S')
+                    {
+                        ++ it;
+                    }
+
                     while(*it != '/')
                     {
                         survive[*it - '0'] = true;
                         ++ it;
                     }
                     ++ it;
+
+                    if(*it == 'b' || *it == 'B')
+                    {
+                        ++ it;
+                    }
+
                     while(*it <= '9' && *it >= '0')
                     {
                         born[*it - '0'] = true;
