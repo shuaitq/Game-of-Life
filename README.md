@@ -19,8 +19,8 @@
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shuaitq/Game-of-Life/blob/master/Image/quasar2.gif"><img src="https://github.com/shuaitq/Game-of-Life/blob/master/Image/quasar2.gif" width="200pt" height="200pt"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/shuaitq/Game-of-Life/blob/master/Image/quasar3.gif"><img src="https://github.com/shuaitq/Game-of-Life/blob/master/Image/quasar3.gif" width="200pt" height="200pt"></a>
 
-### 生命游戏的规则
-#### 最为经典的「B3S23」
+## 规则
+### 最为经典的「B3S23」
 * 当前细胞为存活状态时，当周围八个细胞低于2个（不包含2个）存活细胞时， 该细胞变成死亡状态。（模拟生命数量稀少）
 * 当前细胞为存活状态时，当周围八个细胞有2个或3个存活细胞时， 该细胞保持原样。
 * 当前细胞为存活状态时，当周围八个细胞有3个以上的存活细胞时，该细胞变成死亡状态。（模拟生命数量过多）
