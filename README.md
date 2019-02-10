@@ -30,9 +30,9 @@
 
 ## 特性
 * 使用C++进行编写
-* 能够读取通用[RLE](http://www.conwaylife.com/wiki/RLE)模式文件
-* 能够将模拟结果保存为[PPM](https://en.wikipedia.org/wiki/Netpbm_format)图片
-* 能够通过简单的命令行参数设置模拟用的模式文件和模拟次数
+* 支持通用[RLE](http://www.conwaylife.com/wiki/RLE)模式文件
+* 模拟结果保存为[PPM](https://en.wikipedia.org/wiki/Netpbm_format)图片
+* 通过简单的命令行参数设置模拟用的模式文件和模拟次数
 
 ## 怎么构建
 
